@@ -64,7 +64,7 @@ public class Main {
 
     public void start(String[] args) throws org.apache.commons.cli.ParseException {
 
-        final Option charSetOption = Option.builder("cs")
+        final Option charSetOption = Option.builder("c")
                 .required(false)
                 .longOpt("charset")
                 .desc("読み込み用文字コード")
@@ -72,7 +72,7 @@ public class Main {
                 .type(String.class)
                 .build();
 
-        final Option directoryNameOption = Option.builder("dir")
+        final Option directoryNameOption = Option.builder("d")
                 .required()
                 .longOpt("directoryname")
                 .desc("ディレクトリ名")
@@ -80,7 +80,7 @@ public class Main {
                 .type(String.class)
                 .build();
 
-        final Option destFileNameOption = Option.builder("dest")
+        final Option destFileNameOption = Option.builder("f")
                 .required()
                 .longOpt("destname")
                 .desc("保存先ファイル名")
@@ -93,25 +93,25 @@ public class Main {
         opts.addOption(directoryNameOption);
         opts.addOption(destFileNameOption);
         CommandLineParser parser = new DefaultParser();
-        CommandLine cl;
+
         HelpFormatter help = new HelpFormatter();
-        cl = parser.parse(opts, args);
+        CommandLine cl = parser.parse(opts, args);
 
         final Charset charSet;
         try {
-            charSet = Charset.forName(cl.getOptionValue(charSetOption.getValue()));
+            charSet = Charset.forName(cl.getOptionValue(charSetOption.getOpt()));
         } catch (IllegalArgumentException e) {
             throw new IllegalArgumentException("読み込み用文字コードの指定が正しくありません。", e);
         }
         LOG.info("読み込み用文字コード = " + charSet);
 
-        final File dirName = new File(cl.getOptionValue(directoryNameOption.getValue()));
+        final File dirName = new File(cl.getOptionValue(directoryNameOption.getOpt()));
         if (!dirName.isDirectory()) {
             throw new IllegalArgumentException("読み込み先にディレクトリ以外が指定されたか、存在しません。");
         }
         LOG.info("読み込み先ディレクトリ = " + dirName.getAbsolutePath());
 
-        final File destFile = new File(cl.getOptionValue(destFileNameOption.getValue()));
+        final File destFile = new File(cl.getOptionValue(destFileNameOption.getOpt()));
         LOG.info("書き込み先ファイル = " + destFile.getAbsolutePath());
 
         final Set<Document> docs = new EPGListMaker(dirName, charSet).seek();

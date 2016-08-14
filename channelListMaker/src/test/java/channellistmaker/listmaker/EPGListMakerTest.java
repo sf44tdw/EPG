@@ -70,7 +70,7 @@ public class EPGListMakerTest {
         LOG.info("");
         EPGListMaker instance = new EPGListMaker(new File("./test"), Charset.forName("UTF-8"));
         Set<Document> result = instance.seek();
-        assertEquals(11, result.size());
+        assertEquals(10, result.size());
     }
 
 }
