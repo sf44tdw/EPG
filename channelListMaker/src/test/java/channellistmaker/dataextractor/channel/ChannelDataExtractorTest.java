@@ -21,6 +21,7 @@ import java.io.File;
 import java.lang.invoke.MethodHandles;
 import java.nio.charset.Charset;
 import java.util.Map;
+import java.util.Set;
 import org.apache.commons.collections4.keyvalue.MultiKey;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
@@ -37,47 +38,40 @@ import org.w3c.dom.Document;
  * @author normal
  */
 public class ChannelDataExtractorTest {
-
+    
     private static final Log LOG;
-
+    
     static {
         final Class<?> myClass = MethodHandles.lookup().lookupClass();
         LOG = LogFactory.getLog(myClass);
     }
-
-    private final File F = new File("./test/25.xml");
-
-    private final XMLLoader loader = new XMLLoader(Charset.forName("UTF-8"));
-
-    private final Document doc;
-
+    
     public ChannelDataExtractorTest() {
-        doc = loader.Load(F);
     }
-
+    
     @BeforeClass
     public static void setUpClass() {
     }
-
+    
     @AfterClass
     public static void tearDownClass() {
     }
-
+    
     @Before
     public void setUp() {
     }
-
+    
     @After
     public void tearDown() {
     }
-
+    
     @Test
-    public void testSomeMethod() {
+    public void testSomeMethod0() {
         LOG.info("");
-
         Channel exp = new Channel(25, "ja_JP", "日テレ１", "GR_1040", 32738, 32738, 1040);
-
-        ChannelDataExtractor ex = new ChannelDataExtractor(this.doc);
+        
+        final Document doc = new XMLLoader(Charset.forName("UTF-8")).Load(new File("./test/25.xml"));
+        ChannelDataExtractor ex = new ChannelDataExtractor(doc);
         Map<MultiKey<Integer>, Channel> dest = ex.makeMap();
         Channel c = dest.get(new MultiKey<Integer>(32738, 32738, 1040));
         if (c != null) {
@@ -87,5 +81,22 @@ public class ChannelDataExtractorTest {
             fail("オブジェクトが無い。");
         }
     }
-
+    
+    @Test
+    public void testSomeMethod1() {
+        LOG.info("");
+        
+        final Document doc = new XMLLoader(Charset.forName("UTF-8")).Load(new File("./test/101.xml"));
+        ChannelDataExtractor ex = new ChannelDataExtractor(doc);
+        Map<MultiKey<Integer>, Channel> dest = ex.makeMap();
+        if (dest != null) {
+            Set<MultiKey<Integer>> keys = dest.keySet();
+            for (MultiKey<Integer> k : keys) {
+                LOG.info(dest.get(k));
+            }
+        } else {
+            fail("オブジェクトが無い。");
+        }
+    }
+    
 }

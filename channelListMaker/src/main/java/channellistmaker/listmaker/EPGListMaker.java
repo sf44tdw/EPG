@@ -9,7 +9,6 @@ import channellistmaker.listmaker.fileseeker.FileSeeker;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
 import java.util.List;
 import org.apache.commons.io.filefilter.FileFilterUtils;
 import org.apache.commons.io.filefilter.IOFileFilter;
@@ -66,10 +65,10 @@ public class EPGListMaker {
         for (File F : FL) {
             Document d = new XMLLoader(charset).Load(F);
             if (d != null) {
-                LOG.info("EPGファイルが読み込まれました。 EPG FILE=" + F.toString());
+                LOG.info("EPGファイルが読み込まれました。 EPG FILE = " + F.toString());
                 EPGs.add(d);
             } else {
-                LOG.warn("EPGファイルが読み込まれませんでした。このファイルは無視されます。 EPG FILE=" + F.toString());
+                LOG.warn("EPGファイルが読み込まれませんでした。このファイルは無視されます。 EPG FILE = " + F.toString());
             }
         }
         return EPGs;

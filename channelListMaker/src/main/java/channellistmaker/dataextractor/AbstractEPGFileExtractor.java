@@ -1,7 +1,18 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Copyright (C) 2016 normal
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 package channellistmaker.dataextractor;
 
@@ -48,9 +59,8 @@ public abstract class AbstractEPGFileExtractor<T extends EpgData> {
 
     /**
      * traceレベルのログを取得している場合、ノードとその子ノードのダンプをとる
-     *
      * @param node ノード
-     * @return traceレベルのログを取得している場合、ノードとその子ノード全てのダンプ。そうでない場合は空文字列。
+     * @return traceレベルのログを取得している場合、ノードとその子ノード全てのダンプ。そうでないか、ノードが無い場合は空文字列。
      */
     protected final String getNodeInfo(final Node node) {
         if (LOG.isTraceEnabled()) {
@@ -59,30 +69,34 @@ public abstract class AbstractEPGFileExtractor<T extends EpgData> {
                 return "";
             } else {
                 final StringBuilder sb = new StringBuilder();
-                sb.append("[");
-                sb.append("\n");
+                final String nodeName_t;
+                if (node.getNodeName() != null && !"".equals(node.getNodeName())) {
+                    nodeName_t = node.getNodeName();
+                } else {
+                    nodeName_t = "no_Name";
+                }
+                sb.append(nodeName_t).append(" [ ");
                 /* ノードの種類を出力 */
-                sb.append("Node type= ").append(node.getNodeType());
-                sb.append("\n");
-                /* ノード名を出力 */
-                sb.append("Node name= ").append(node.getNodeName());
-                sb.append("\n");
+                sb.append("Node_type = ").append(node.getNodeType()).append(" ");
+                sb.append(" ");
                 /*(あれば)属性を出力*/
                 NamedNodeMap attrs = node.getAttributes();  // NamedNodeMapの取得
                 if (attrs != null) {
+                    sb.append("Attribute [ ");
                     for (int index = 0; index < attrs.getLength(); index++) {
                         Node attr = attrs.item(index);  // 属性ノード
-                        sb.append("Attribute[");
-                        sb.append("Name = ").append(attr.getNodeName()); // 属性の名前
-                        sb.append("value = ").append(attr.getNodeValue()); // 属性の値
-                        sb.append("]");
-                        sb.append("\n");
+                        sb.append("( ");
+                        sb.append("Attribute_name = ").append(attr.getNodeName()).append(" "); // 属性の名前
+                        sb.append("Attribute_value = ").append(attr.getNodeValue()).append(" "); // 属性の値
+                        sb.append(")");
                     }
+                    sb.append(" ] ");
                 }
-                /* ノードの値を出力 */
-                sb.append("Node value= ").append(node.getNodeValue());
-                sb.append("\n");
+                /* ノードの値 sb.append("] ");を出力 */
+                sb.append("Node_value = ").append(node.getNodeValue()).append(" ");
+                /*(あれば)子ノードの値を出力 */
                 if (node.hasChildNodes()) {
+                    sb.append(" \n");
                     NodeList Children = node.getChildNodes();
                     int Nodes = Children.getLength();
                     for (int i = 0; i < Nodes; i++) {
@@ -90,7 +104,7 @@ public abstract class AbstractEPGFileExtractor<T extends EpgData> {
                         sb.append(getNodeInfo(child));
                     }
                 }
-                sb.append("]");
+                sb.append("] ");
                 return sb.toString();
             }
 
@@ -116,7 +130,10 @@ public abstract class AbstractEPGFileExtractor<T extends EpgData> {
             Node N = nl.item(i);
             try {
                 T record_val = dump(N);
-                records.put(record_val.getKeyfields().getMuiltiKey(), record_val);
+                T ret = records.put(record_val.getKeyfields().getMuiltiKey(), record_val);
+                if (ret != null) {
+                    LOG.info("下記のデータが上書きされました。\n" + ret);
+                }
             } catch (IllegalArgumentException ex) {
                 LOG.warn("データに問題があるため、無視します。", ex);
             }
