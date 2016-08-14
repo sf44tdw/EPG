@@ -1,0 +1,35 @@
+構成に必要な情報
+
+局情報(SERVICE_ID=DIGITAL_TV_SERVICE)
+channel id=("GR_"|"BS_")+service_id
+tp=物理チャンネル番号。地上波(どうやら、地上波のオリジナルネットワーク識別は0x10以上らしい)については受信時にtsファイル名を物理チャンネル番号にしてファイル名から判断するほかない。衛星放送についてはservice_idの値を使用。
+display-name=
+	lang=ja_JP固定
+	ServiceDescriptor.getService_name_String
+以下の3つをキーにして番組と対応付ける。全部が同じ番組がこの局の番組になる。
+transport_stream_id=ServiceDescriptionTableBody.getTransport_stream_id
+original_network_id=ServiceDescriptionTableBody.getOriginal_network_id
+service_id=ServiceDescriptionTableRepeatingPart.getService_id
+
+番組情報
+programme
+	start=EventInformationTableRepeatingPart.getStart_time_Object
+	stop=EventInformationTableRepeatingPart.getStopTime_Object
+	channel=EventInformationTableBody.getService_idで得た値から局情報を検索してchabel_idを代入。
+	event_id=EventInformationTableRepeatingPart.getEvent_id
+	
+title
+	lang=ShortEventDescriptor.getISO_639_language_code
+	ShortEventDescriptor.getEvent_name_String
+
+desc=
+	lang=ShortEventDescriptor.getISO_639_language_code
+	ShortEventDescriptor.getEvent_name_String
+	
+category lang="ja_JP"=NIBBLE_LEVEL_2.getNibble_jp
+category lang="en"=NIBBLE_LEVEL_2.getNibble_en
+
+放送局との対応付け
+transport_stream_id=EventInformationTableBody.getTransport_stream_id
+original_network_id=EventInformationTableBody.getOriginal_network_id
+service_id=EventInformationTableBody.getService_id

@@ -1,0 +1,16 @@
+/DumpTsPacket/target/
+/singlePacketDump/target/
+*.log
+*.log.*
+/libEPG/target/
+/libEPG/nbproject/
+/dumpSection/target/
+/singleSectionDump/target/
+/dumpSDT/target/
+/dumpEIT/target/
+/channelListMaker/nbproject/
+/channelListMaker/target/
+/util/target/
+/util/nbproject/
+/testTool/nbproject/
+/testTool/target/
