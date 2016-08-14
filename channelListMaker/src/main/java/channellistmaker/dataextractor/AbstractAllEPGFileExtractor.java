@@ -9,6 +9,7 @@ import java.util.List;
 import java.lang.invoke.MethodHandles;
 import java.util.Collections;
 import java.util.Map;
+import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import org.apache.commons.collections4.keyvalue.MultiKey;
 import org.apache.commons.logging.Log;
@@ -30,12 +31,12 @@ public abstract class AbstractAllEPGFileExtractor<T extends EpgData, U extends A
         final Class<?> myClass = MethodHandles.lookup().lookupClass();
         LOG = LogFactory.getLog(myClass);
     }
-    private final List<Document> EPGXMLs;
+    private final Set<Document> EPGXMLs;
 
     /**
      * @param EPGXMLs ロード済みのEPG XMLファイルのリスト
      */
-    public AbstractAllEPGFileExtractor(List<Document> EPGXMLs) {
+    public AbstractAllEPGFileExtractor(Set<Document> EPGXMLs) {
         this.EPGXMLs = EPGXMLs;
     }
 
@@ -56,7 +57,7 @@ public abstract class AbstractAllEPGFileExtractor<T extends EpgData, U extends A
         Map<MultiKey<Integer>, T> temp1 = new ConcurrentHashMap<>();
         LOG.info("XMLファイルの数 = " + this.EPGXMLs.size());
         for (Document D : this.EPGXMLs) {
-             Map<MultiKey<Integer>, T> temp2;
+            Map<MultiKey<Integer>, T> temp2;
             temp2 = this.getExtractor(D).makeMap();
             temp1.putAll(temp2);
         }

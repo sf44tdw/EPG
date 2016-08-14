@@ -7,7 +7,6 @@ package channellistmaker.listmaker;
 
 import channellistmaker.listmaker.fileseeker.FileSeeker;
 import java.io.File;
-import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import org.apache.commons.io.filefilter.FileFilterUtils;
@@ -15,6 +14,8 @@ import org.apache.commons.io.filefilter.IOFileFilter;
 import org.w3c.dom.Document;
 import java.lang.invoke.MethodHandles;
 import java.nio.charset.Charset;
+import java.util.HashSet;
+import java.util.Set;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
@@ -59,8 +60,8 @@ public class EPGListMaker {
      *
      * @return 見つかったファイルを変換したDocumentオブジェクトのリスト。読み込みに失敗したファイルは無視する。
      */
-    public synchronized List<Document> seek() {
-        List<Document> EPGs = Collections.synchronizedList(new ArrayList<Document>());
+    public synchronized Set<Document> seek() {
+        Set<Document> EPGs = Collections.synchronizedSet(new HashSet<Document>());
         List<File> FL = this.seeker.seek();
         for (File F : FL) {
             Document d = new XMLLoader(charset).Load(F);
@@ -71,6 +72,6 @@ public class EPGListMaker {
                 LOG.warn("EPGファイルが読み込まれませんでした。このファイルは無視されます。 EPG FILE = " + F.toString());
             }
         }
-        return EPGs;
+        return Collections.unmodifiableSet(EPGs);
     }
 }

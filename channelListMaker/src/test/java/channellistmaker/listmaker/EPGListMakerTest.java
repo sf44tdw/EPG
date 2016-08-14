@@ -19,7 +19,7 @@ package channellistmaker.listmaker;
 import java.io.File;
 import java.lang.invoke.MethodHandles;
 import java.nio.charset.Charset;
-import java.util.List;
+import java.util.Set;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.junit.After;
@@ -69,7 +69,7 @@ public class EPGListMakerTest {
     public void testSeek() {
         LOG.info("");
         EPGListMaker instance = new EPGListMaker(new File("./test"), Charset.forName("UTF-8"));
-        List<Document> result = instance.seek();
+        Set<Document> result = instance.seek();
         assertEquals(11, result.size());
     }
 

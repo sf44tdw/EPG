@@ -6,7 +6,7 @@
 package channellistmaker.dataextractor.channel;
 
 import channellistmaker.dataextractor.AbstractAllEPGFileExtractor;
-import java.util.List;
+import java.util.Set;
 import org.w3c.dom.Document;
 
 
@@ -16,7 +16,7 @@ import org.w3c.dom.Document;
  */
 public class AllChannelDataExtractor extends AbstractAllEPGFileExtractor<Channel,ChannelDataExtractor>{
 
-    public AllChannelDataExtractor(List<Document> EPGXMLs) {
+    public AllChannelDataExtractor(Set<Document> EPGXMLs) {
         super(EPGXMLs);
     }
 
