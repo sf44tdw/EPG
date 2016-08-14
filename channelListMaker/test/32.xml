@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="GR_29752" tp="32">
+    <display-name lang="ja_JP"></display-name>
+    <transport_stream_id>32295</transport_stream_id>
+    <original_network_id>32295</original_network_id>
+    <service_id>29752</service_id>
+  </channel>
+  <channel id="GR_29754" tp="32">
+    <display-name lang="ja_JP"></display-name>
+    <transport_stream_id>32295</transport_stream_id>
+    <original_network_id>32295</original_network_id>
+    <service_id>29754</service_id>
+  </channel>
+  <programme start="20141229120000 +0900" stop="20141229123000 +0900" channel="GR_29752" event_id="20927">
+    <title lang="ja_JP">埼玉ケーブルテレビスペシャル【Ｓ】</title>
+    <desc lang="ja_JP">行田ケーブルテレビ「第１２回全国藩校サミット行田大会」、ジェイコム北関東「タウンウォッチング　草加ランキングベスト２０」</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141229123000 +0900" stop="20141229130000 +0900" channel="GR_29752" event_id="20928">
+    <title lang="ja_JP">Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・美肌改革　若かった時の自分の肌へ【Ｓ】</title>
+    <desc lang="ja_JP">ラメラエッセンス</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229130000 +0900" stop="20141229133000 +0900" channel="GR_29752" event_id="20929">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP">県内の四季の映像を音楽にあわせて紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141229133000 +0900" stop="20141229143000 +0900" channel="GR_29752" event_id="20930">
+    <title lang="ja_JP">カラオケ１ばん【Ｓ】【再】</title>
+    <desc lang="ja_JP">小桜舞子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141229143000 +0900" stop="20141229150000 +0900" channel="GR_29752" event_id="22090">
+    <title lang="ja_JP">ＴＶショッピング・キューサイ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">驚き！グルコサミンの実力</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229150000 +0900" stop="20141229160000 +0900" channel="GR_29752" event_id="20932">
+    <title lang="ja_JP">ダイアモンド☆ユカイとユカイなラーメン研究所〜さのまるといっしょに開運ツアー篇【Ｓ】</title>
+    <desc lang="ja_JP">皆様からのカムバックのご期待に応えて特別番組として帰ってきました。今回は「ラッキー」をテーマに佐野市内を練り歩きます。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141229160000 +0900" stop="20141229163000 +0900" channel="GR_29752" event_id="22233">
+    <title lang="ja_JP">はぴねすくらぶ・はぴねすくらぶ</title>
+    <desc lang="ja_JP">０１２０－００－２２－４４</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141229163000 +0900" stop="20141229170000 +0900" channel="GR_29752" event_id="22002">
+    <title lang="ja_JP">四季　彩の国紀行【Ｓ】</title>
+    <desc lang="ja_JP">県内の四季の映像を音楽にあわせて紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141229170000 +0900" stop="20141229173000 +0900" channel="GR_29752" event_id="21836">
+    <title lang="ja_JP">ＴＶショッピング・キューサイ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">？？？？なコラーゲンでプルプル素肌へ！</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229173000 +0900" stop="20141229174500 +0900" channel="GR_29752" event_id="21147">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141229174500 +0900" stop="20141229175500 +0900" channel="GR_29752" event_id="20934">
+    <title lang="ja_JP">Ｎｅｗｓ＆Ｗｅａｔｈｅｒ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229175500 +0900" stop="20141229180000 +0900" channel="GR_29752" event_id="20935">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20141229180000 +0900" stop="20141229185500 +0900" channel="GR_29752" event_id="20936">
+    <title lang="ja_JP">ＬＩＯＮＳ　ＣＨＡＮＮＥＬ　年末特大号【Ｓ】</title>
+    <desc lang="ja_JP">今シーズンのライオンズを振り返る！▽おにざきカメラ・くましろカメラ結果発表　今シーズンのホームゲーム勝ち試合３１試合をランキング形式で紹介！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141229185500 +0900" stop="20141229190000 +0900" channel="GR_29752" event_id="20937">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20141229190000 +0900" stop="20141229193000 +0900" channel="GR_29752" event_id="22010">
+    <title lang="ja_JP">ユネスコ無形文化遺産登録決定「細川紙のすべて」【Ｓ】</title>
+    <desc lang="ja_JP">ユネスコ無形文化遺産に登録された小川町と東秩父村の細川紙。日本の伝統技術を守るため、そして受け継ぐために奮闘する職人がいた。日本の古き良き伝統技術の継承に迫る。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141229193000 +0900" stop="20141229195500 +0900" channel="GR_29752" event_id="21996">
+    <title lang="ja_JP">日本ふるさと百景【Ｓ】</title>
+    <desc lang="ja_JP">埼玉編３</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229195500 +0900" stop="20141229200000 +0900" channel="GR_29752" event_id="20939">
+    <title lang="ja_JP">街美女アルバム【Ｓ】【再】</title>
+    <desc lang="ja_JP">４ｔｈ　Ｓｅａｓｏｎ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141229200000 +0900" stop="20141229205500 +0900" channel="GR_29752" event_id="20940">
+    <title lang="ja_JP">探偵！ナイトスクープ【Ｓ】</title>
+    <desc lang="ja_JP">局長が大泣きするネタ登場！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141229205500 +0900" stop="20141229210000 +0900" channel="GR_29752" event_id="20941">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20141229210000 +0900" stop="20141229213000 +0900" channel="GR_29752" event_id="20942">
+    <title lang="ja_JP">佐藤しのぶ出逢いのハーモニー　第Ⅲ幕〜Ｌｅｇａｍｉ絆〜【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229213000 +0900" stop="20141229220000 +0900" channel="GR_29752" event_id="22318">
+    <title lang="ja_JP">ショッピングアワー・美皇潤　キャリアビューティたちの２ＷＡＹ美容【Ｓ】</title>
+    <desc lang="ja_JP">美力を導く美容メソッド　美・皇潤</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141229220000 +0900" stop="20141229223000 +0900" channel="GR_29752" event_id="21539">
+    <title lang="ja_JP">街美女アルバム【Ｓ】</title>
+    <desc lang="ja_JP">埼玉県にゆかりのある美女を紹介する街美女アルバム。過去の放送から厳選した街美女たちが再登場！趣味、特技、恋愛、夢など、街美女たちの魅力を一挙にご紹介します！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141229223000 +0900" stop="20141229230000 +0900" channel="GR_29752" event_id="20943">
+    <title lang="ja_JP">バッハプラザ【Ｓ】</title>
+    <desc lang="ja_JP">「ボートレース戸田」「川口オート」</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141229230000 +0900" stop="20141229233000 +0900" channel="GR_29752" event_id="20944">
+    <title lang="ja_JP">趣味バカ【Ｓ】</title>
+    <desc lang="ja_JP">ＮＭＢ４８村上文香が千鳥と満喫ボートレース住之江！！</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229233000 +0900" stop="20141230000000 +0900" channel="GR_29752" event_id="21675">
+    <title lang="ja_JP">街美女アルバム【Ｓ】</title>
+    <desc lang="ja_JP">埼玉県にゆかりのある美女を紹介する街美女アルバム。過去の放送から厳選した街美女たちが再登場！趣味、特技、恋愛、夢など、街美女たちの魅力を一挙にご紹介します！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230000000 +0900" stop="20141230003000 +0900" channel="GR_29752" event_id="20946">
+    <title lang="ja_JP">ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">シャークスチームクリーナーオールインワン　プレミアム</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230003000 +0900" stop="20141230010000 +0900" channel="GR_29752" event_id="20947">
+    <title lang="ja_JP">満天パチランド【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230010000 +0900" stop="20141230013000 +0900" channel="GR_29752" event_id="21767">
+    <title lang="ja_JP">ＳＨＯＰＰＩＮＧ　ＴＶ・ベアミネラルテレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">ベアミネラル（ファンデーション）</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230013000 +0900" stop="20141230020000 +0900" channel="GR_29752" event_id="20949">
+    <title lang="ja_JP">未来定番曲〜Ｆｕｔｕｒｅ　Ｓｔａｎｄａｒｄ〜【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230020000 +0900" stop="20141230023000 +0900" channel="GR_29752" event_id="22016">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">エアウェーブフライヤー</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230023000 +0900" stop="20141230030000 +0900" channel="GR_29752" event_id="20951">
+    <title lang="ja_JP">ｓａｋｕ　ｓａｋｕ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230030000 +0900" stop="20141230030500 +0900" channel="GR_29752" event_id="20952">
+    <title lang="ja_JP">ＳＳＣ５【Ｓ】</title>
+    <desc lang="ja_JP">バクバクドキン　　　　　　　　　ｌｙｒｉｃａｌ　ｓｃｈｏｏｌ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230030500 +0900" stop="20141230030900 +0900" channel="GR_29752" event_id="20953">
+    <title lang="ja_JP">お天気マップ　４【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230045500 +0900" stop="20141230050000 +0900" channel="GR_29752" event_id="20957">
+    <title lang="ja_JP">お天気マップ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230050000 +0900" stop="20141230053000 +0900" channel="GR_29752" event_id="20958">
+    <title lang="ja_JP">ＳＨＯＰＰＩＮＧ　ＴＶ・マナラテレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230053000 +0900" stop="20141230060000 +0900" channel="GR_29752" event_id="20959">
+    <title lang="ja_JP">上杉香緒里とこゆりの歌謡音楽館【Ｓ】</title>
+    <desc lang="ja_JP">水木　良</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230060000 +0900" stop="20141230063000 +0900" channel="GR_29752" event_id="22234">
+    <title lang="ja_JP">はぴねすくらぶ・はぴねすくらぶ</title>
+    <desc lang="ja_JP">０１２０－００－２２－４４</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230063000 +0900" stop="20141230064500 +0900" channel="GR_29752" event_id="20961">
+    <title lang="ja_JP">Ｖ－Ｃｌｉｐｓ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230064500 +0900" stop="20141230065000 +0900" channel="GR_29752" event_id="20962">
+    <title lang="ja_JP">アメ横リズムの歌模様【Ｓ】</title>
+    <desc lang="ja_JP">岡　千秋　「隅田川慕情」（４０周年ＤＶＤ）</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230065000 +0900" stop="20141230065500 +0900" channel="GR_29752" event_id="20963">
+    <title lang="ja_JP">音楽館【Ｓ】</title>
+    <desc lang="ja_JP">さいたまライブ　瀬口侑希</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230065500 +0900" stop="20141230070000 +0900" channel="GR_29752" event_id="20964">
+    <title lang="ja_JP">お天気マップ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230070000 +0900" stop="20141230073000 +0900" channel="GR_29752" event_id="22151">
+    <title lang="ja_JP">ショッピングアワー・コレカットレモンインフォマーシャル【Ｓ】</title>
+    <desc lang="ja_JP">コレカットレモン</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230073000 +0900" stop="20141230080000 +0900" channel="GR_29752" event_id="20966">
+    <title lang="ja_JP">埼玉ケーブルテレビスペシャル【Ｓ】</title>
+    <desc lang="ja_JP">ジェイコムさいたま「地域発ドキュメンタリー　農家レストラン菜七色のランチタイム」</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230080000 +0900" stop="20141230083000 +0900" channel="GR_29752" event_id="20967">
+    <title lang="ja_JP">清水節子と安藤栄子の歌日記【Ｓ】</title>
+    <desc lang="ja_JP">祥田よしてる</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230083000 +0900" stop="20141230090000 +0900" channel="GR_29752" event_id="22092">
+    <title lang="ja_JP">ショッピング・キューサイ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">驚き！グルコサミンの実力</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230090000 +0900" stop="20141230100000 +0900" channel="GR_29752" event_id="20969">
+    <title lang="ja_JP">時代劇　必殺アワー・必殺仕事人　激突！</title>
+    <desc lang="ja_JP">新門辰五郎のまとい</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141230100000 +0900" stop="20141230103000 +0900" channel="GR_29752" event_id="21145">
+    <title lang="ja_JP">ＴＶショッピング・３０日間マル秘コラーゲン生活【Ｓ】</title>
+    <desc lang="ja_JP">パーフェクトワン</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230103000 +0900" stop="20141230112500 +0900" channel="GR_29752" event_id="20971">
+    <title lang="ja_JP">不屈の嫁【字】【Ｓ】</title>
+    <desc lang="ja_JP">第１２話「因縁の相手」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141230112500 +0900" stop="20141230115500 +0900" channel="GR_29752" event_id="22668">
+    <title lang="ja_JP">ダイレクトテレショップ・シャンラブテレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">シャンラブ　プレミアム</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230115500 +0900" stop="20141230120000 +0900" channel="GR_29752" event_id="20973">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20141230120000 +0900" stop="20141230123000 +0900" channel="GR_29752" event_id="20974">
+    <title lang="ja_JP">埼玉ケーブルテレビスペシャル【Ｓ】</title>
+    <desc lang="ja_JP">東松山ケーブルテレビ「zoo っとアニマル♪」、ゆずの里ケーブルテレビ「おでかけ★ゆずみん」</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230123000 +0900" stop="20141230130000 +0900" channel="GR_29752" event_id="20975">
+    <title lang="ja_JP">ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">シャークスチームクリーナーオールインワン　プレミアム</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230130000 +0900" stop="20141230133000 +0900" channel="GR_29752" event_id="21161">
+    <title lang="ja_JP">街美女アルバム【Ｓ】</title>
+    <desc lang="ja_JP">埼玉県にゆかりのある美女を紹介する街美女アルバム。過去の放送から厳選した街美女たちが再登場！趣味、特技、恋愛、夢など、街美女たちの魅力を一挙にご紹介します！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230133000 +0900" stop="20141230135900 +0900" channel="GR_29752" event_id="21834">
+    <title lang="ja_JP">ダイレクトテレショップ・ダイレクトテレショップ【Ｓ】</title>
+    <desc lang="ja_JP">スマイルショッピング</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230135900 +0900" stop="20141230143000 +0900" channel="GR_29752" event_id="20977">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP">県内の四季の映像を音楽にあわせて紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230143000 +0900" stop="20141230150000 +0900" channel="GR_29752" event_id="22017">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">トゥルースリーパー・プレミアム　トゥルースリーパー・コンフォート　低反発ふとん</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230150000 +0900" stop="20141230173000 +0900" channel="GR_29752" event_id="20979">
+    <title lang="ja_JP">野性の証明</title>
+    <desc lang="ja_JP">高倉健主演！薬師丸ひろ子デビュー作！虐殺から少女を救った元自衛隊員が、陰謀に巻き込まれていく様を描く、サスペンスアクション大作。</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20141230173000 +0900" stop="20141230174500 +0900" channel="GR_29752" event_id="20980">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230174500 +0900" stop="20141230175500 +0900" channel="GR_29752" event_id="20981">
+    <title lang="ja_JP">Ｎｅｗｓ＆Ｗｅａｔｈｅｒ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230175500 +0900" stop="20141230180000 +0900" channel="GR_29752" event_id="20982">
+    <title lang="ja_JP">テレ玉くんのうた　スギちゃんと踊ろう【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230180000 +0900" stop="20141230185500 +0900" channel="GR_29752" event_id="20983">
+    <title lang="ja_JP">よしもと大宮芸人大集合！大宮セブン爆笑ライブ【Ｓ】</title>
+    <desc lang="ja_JP">埼玉を拠点とする7 組の芸人「大宮セブン」による爆笑ライブ▽ヨイショマンの先輩芸人ヨイショ▽今後の大宮セブンを占う？大宮セブンチャレンジ　ほか</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230185500 +0900" stop="20141230190000 +0900" channel="GR_29752" event_id="20984">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230190000 +0900" stop="20141230193000 +0900" channel="GR_29752" event_id="22018">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">セラフィット</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230193000 +0900" stop="20141230200000 +0900" channel="GR_29752" event_id="22091">
+    <title lang="ja_JP">風土の祭り　秩父神社の例大祭【Ｓ】</title>
+    <desc lang="ja_JP">秩父神社御鎮座二千百年奉祝番組</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230200000 +0900" stop="20141230203000 +0900" channel="GR_29752" event_id="21146">
+    <title lang="ja_JP">ビューティ・ショッピング・３０日間マル秘コラーゲン生活【Ｓ】</title>
+    <desc lang="ja_JP">パーフェクトワン</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230203000 +0900" stop="20141230214500 +0900" channel="GR_29752" event_id="21760">
+    <title lang="ja_JP">Ｗｅ　ａｒｅ　ＲＥＤＳ！　ＴＨＥ　ＭＯＶＩＥ　開幕までの７日間【Ｓ】</title>
+    <desc lang="ja_JP">２０１４年春、浦和レッズのホーム開幕戦まで、あと７日間。選手、スタッフ、サポーターは、何を想い、その７日間を過ごしてきたのか。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141230214500 +0900" stop="20141230220000 +0900" channel="GR_29752" event_id="21758">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230220000 +0900" stop="20141230223000 +0900" channel="GR_29752" event_id="20990">
+    <title lang="ja_JP">Ｔｈｅ　Ｈｉｔ【Ｓ】</title>
+    <desc lang="ja_JP">年に一度の珍釣行？　中空ルアーさく裂！深江真一</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230223000 +0900" stop="20141230230000 +0900" channel="GR_29752" event_id="20991">
+    <title lang="ja_JP">バッハプラザ【Ｓ】</title>
+    <desc lang="ja_JP">「ボートレース戸田」「川口オート」</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141230230000 +0900" stop="20141230233000 +0900" channel="GR_29752" event_id="20992">
+    <title lang="ja_JP">いろはに千鳥【Ｓ】</title>
+    <desc lang="ja_JP">ダンスインザダーク？〜８本撮りの結末〜</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230233000 +0900" stop="20141231000000 +0900" channel="GR_29752" event_id="20993">
+    <title lang="ja_JP">みんなで　ぱちドキッ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231000000 +0900" stop="20141231003000 +0900" channel="GR_29752" event_id="22019">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">シャークスチームクリーナーオールインワン　プレミアム</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231003000 +0900" stop="20141231010000 +0900" channel="GR_29752" event_id="20995">
+    <title lang="ja_JP">ＣＡＲ　Ｘｓ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231010000 +0900" stop="20141231013000 +0900" channel="GR_29752" event_id="20996">
+    <title lang="ja_JP">山のぼり☆大好き【Ｓ】</title>
+    <desc lang="ja_JP">奥多摩　御前山　（東京都）　登山を始めたい・スキルアップしたい・ファッションも楽しみたい…山のぼりの基本的な知識から楽しみ方を大自然の魅力とともに幅広く紹介</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231013000 +0900" stop="20141231020000 +0900" channel="GR_29752" event_id="20997">
+    <title lang="ja_JP">ＳＨＯＰＰＩＮＧ　ＴＶ・美肌改革　若かった時の自分の肌へ【Ｓ】</title>
+    <desc lang="ja_JP">ラメラエッセンス</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231020000 +0900" stop="20141231023000 +0900" channel="GR_29752" event_id="20998">
+    <title lang="ja_JP">白黒アンジャッシュ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141231023000 +0900" stop="20141231030000 +0900" channel="GR_29752" event_id="21133">
+    <title lang="ja_JP">ＫＯＢＥＬＣＯスポーツスペシャル　第９４回全国高等学校ラグビー大会ハイライト【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141231030000 +0900" stop="20141231041500 +0900" channel="GR_29752" event_id="21136">
+    <title lang="ja_JP">第９４回全国高校ラグビー大会</title>
+    <desc lang="ja_JP">大阪桐蔭（大阪）ＶＳ深谷（埼玉）</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141231041500 +0900" stop="20141231042000 +0900" channel="GR_29752" event_id="20999">
+    <title lang="ja_JP">街美女アルバム【Ｓ】【再】</title>
+    <desc lang="ja_JP">４ｔｈ　Ｓｅａｓｏｎ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141231042000 +0900" stop="20141231042500 +0900" channel="GR_29752" event_id="21000">
+    <title lang="ja_JP">ＳＳＣ５【Ｓ】</title>
+    <desc lang="ja_JP">バクバクドキン　　　　　　　　　ｌｙｒｉｃａｌ　ｓｃｈｏｏｌ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231042500 +0900" stop="20141231042900 +0900" channel="GR_29752" event_id="21001">
+    <title lang="ja_JP">お天気マップ　４【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231045500 +0900" stop="20141231050000 +0900" channel="GR_29752" event_id="21005">
+    <title lang="ja_JP">お天気マップ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231050000 +0900" stop="20141231053000 +0900" channel="GR_29752" event_id="22020">
+    <title lang="ja_JP">ＳＨＯＰＰＩＮＧ　ＴＶ・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">トゥルースリーパー・プレミアム　トゥルースリーパー・コンフォート　低反発ふとん</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231053000 +0900" stop="20141231060000 +0900" channel="GR_29752" event_id="21007">
+    <title lang="ja_JP">アートハート倶楽部【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231060000 +0900" stop="20141231063000 +0900" channel="GR_29752" event_id="21762">
+    <title lang="ja_JP">生活情報・グットモットプライステレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">０１２０－０２８－２８２</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231063000 +0900" stop="20141231064500 +0900" channel="GR_29752" event_id="21009">
+    <title lang="ja_JP">Ｖ－Ｃｌｉｐｓ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231064500 +0900" stop="20141231065000 +0900" channel="GR_29752" event_id="21010">
+    <title lang="ja_JP">アメ横リズムの歌模様【Ｓ】</title>
+    <desc lang="ja_JP">岡　千秋　「隅田川慕情」（４０周年ＤＶＤ）</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231065000 +0900" stop="20141231065500 +0900" channel="GR_29752" event_id="21011">
+    <title lang="ja_JP">音楽館【Ｓ】</title>
+    <desc lang="ja_JP">さいたまライブ　瀬口侑希</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231065500 +0900" stop="20141231070000 +0900" channel="GR_29752" event_id="21012">
+    <title lang="ja_JP">お天気マップ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231070000 +0900" stop="20141231073000 +0900" channel="GR_29752" event_id="22152">
+    <title lang="ja_JP">ショッピングアワー・コレカットレモンインフォマーシャル【Ｓ】</title>
+    <desc lang="ja_JP">コレカットレモン</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231073000 +0900" stop="20141231080000 +0900" channel="GR_29752" event_id="21014">
+    <title lang="ja_JP">埼玉ケーブルテレビスペシャル【Ｓ】</title>
+    <desc lang="ja_JP">蕨ケーブルビジョン「ＶＯＩＣＥ」</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231080000 +0900" stop="20141231083000 +0900" channel="GR_29752" event_id="21015">
+    <title lang="ja_JP">第９３回全国高校サッカー選手権大会【Ｓ】</title>
+    <desc lang="ja_JP">【開会式】</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141231083000 +0900" stop="20141231090000 +0900" channel="GR_29752" event_id="22149">
+    <title lang="ja_JP">ＴＶショッピング・ドクターリセラ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">アクアスタート１ヶ月セット</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231090000 +0900" stop="20141231100000 +0900" channel="GR_29752" event_id="21017">
+    <title lang="ja_JP">時代劇　必殺アワー・必殺仕事人　激突！</title>
+    <desc lang="ja_JP">対決！邪剣ＶＳ剛剣</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141231100000 +0900" stop="20141231103000 +0900" channel="GR_29752" event_id="22327">
+    <title lang="ja_JP">ＴＶショッピング・大慶堂テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">あなたの不安解消！　テレビ漢方〜電話ダイレクト無料相談〜</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231103000 +0900" stop="20141231112500 +0900" channel="GR_29752" event_id="21019">
+    <title lang="ja_JP">大王の夢【字】【Ｓ】</title>
+    <desc lang="ja_JP">第２５話「決死の抗戦」</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141231112500 +0900" stop="20141231115500 +0900" channel="GR_29752" event_id="22021">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">ワンダーコア</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231115500 +0900" stop="20141231120000 +0900" channel="GR_29752" event_id="21021">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20141231120000 +0900" stop="20141231135500 +0900" channel="GR_29752" event_id="21022">
+    <title lang="ja_JP">第９３回全国高校サッカー選手権大会【Ｓ】</title>
+    <desc lang="ja_JP">１回戦　昌平（埼玉）ＶＳ米子北（鳥取）</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141231135500 +0900" stop="20141231140000 +0900" channel="GR_29752" event_id="21023">
+    <title lang="ja_JP">テレ玉くんのうた　スギちゃんと踊ろう【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231140000 +0900" stop="20141231143000 +0900" channel="GR_29752" event_id="21024">
+    <title lang="ja_JP">いい伊豆みつけた【Ｓ】</title>
+    <desc lang="ja_JP">情報満載☆伊豆・春の行楽はコレで決まり！！（東伊豆町・河津町・下田市・南伊豆町・松崎町）</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231143000 +0900" stop="20141231150000 +0900" channel="GR_29752" event_id="22022">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">シャークスチームクリーナーオールインワン　プレミアム</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231150000 +0900" stop="20141231164000 +0900" channel="GR_29752" event_id="21026">
+    <title lang="ja_JP">オートレースＳＧ　スーパースター王座決定戦【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141231164000 +0900" stop="20141231173000 +0900" channel="GR_29752" event_id="21027">
+    <title lang="ja_JP">埼玉ケーブルテレビスペシャル【Ｓ】</title>
+    <desc lang="ja_JP">入間ケーブルテレビ「教育対談“教えて！子ども未来室のこと！”」、本庄ケーブルテレビ「章吾と正子のおじゃまでＳＨＯＷ」</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231173000 +0900" stop="20141231183000 +0900" channel="GR_29752" event_id="21028">
+    <title lang="ja_JP">報道特別番組２０１４　埼玉この一年を振り返る【Ｓ】</title>
+    <desc lang="ja_JP">今年１年の埼玉県にかかわる出来事を振り返ります。　大雪被害、若田光一さん、細川和紙のユネスコ登録など今年１年の埼玉を特集、中継を交えて振り返ります。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231183000 +0900" stop="20141231185900 +0900" channel="GR_29752" event_id="21029">
+    <title lang="ja_JP">報道特別番組　サクラモヒラ　１９年の形【Ｓ】</title>
+    <desc lang="ja_JP">バングラデシュで女性の就職活動支援などを行なう会社「サクラモヒラ」の活動に密着。長い年月の活動を通し、関わる人々にもたらした変化を追うドキュメンタリー。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231185900 +0900" stop="20141231205000 +0900" channel="GR_29752" event_id="21030">
+    <title lang="ja_JP">戦場にかける橋【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141231205000 +0900" stop="20141231205500 +0900" channel="GR_29752" event_id="22155">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231205500 +0900" stop="20141231210000 +0900" channel="GR_29752" event_id="21031">
+    <title lang="ja_JP">テレ玉くんのうた　スギちゃんと踊ろう【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101003000 +0900" stop="20150101013000 +0900" channel="GR_29752" event_id="21037">
+    <title lang="ja_JP">パチンコ　パチスロ　エンタメ情報パチＦＵＮ！【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101013000 +0900" stop="20150101020000 +0900" channel="GR_29752" event_id="22147">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">スタイルプラス　スイーパー</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101020000 +0900" stop="20150101023000 +0900" channel="GR_29752" event_id="21039">
+    <title lang="ja_JP">つながりファンタジーいつも！ガリゲル【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150101023000 +0900" stop="20150101030000 +0900" channel="GR_29752" event_id="21040">
+    <title lang="ja_JP">ＤＤＴプロレス中継　さいたまースラム！【Ｓ】</title>
+    <desc lang="ja_JP">闘い詣のイッテンイチ</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150101060000 +0900" stop="20150101063000 +0900" channel="GR_29752" event_id="22240">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">シャークスチームクリーナーオールインワン　プレミアム</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101063000 +0900" stop="20150101064500 +0900" channel="GR_29752" event_id="21071">
+    <title lang="ja_JP">Ｖ－Ｃｌｉｐｓ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101064500 +0900" stop="20150101065000 +0900" channel="GR_29752" event_id="21072">
+    <title lang="ja_JP">アメ横リズムの歌模様【Ｓ】</title>
+    <desc lang="ja_JP">岡　千秋　「隅田川慕情」（４０周年ＤＶＤ）</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101065000 +0900" stop="20150101065500 +0900" channel="GR_29752" event_id="21073">
+    <title lang="ja_JP">音楽館【Ｓ】</title>
+    <desc lang="ja_JP">さいたまライブ　瀬口侑希</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101065500 +0900" stop="20150101070000 +0900" channel="GR_29752" event_id="21074">
+    <title lang="ja_JP">お天気マップ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101070000 +0900" stop="20150101073000 +0900" channel="GR_29752" event_id="21075">
+    <title lang="ja_JP">ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">ヒルズダイエット　パステルゼリーアイ</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101073000 +0900" stop="20150101080000 +0900" channel="GR_29752" event_id="21076">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP">県内の四季の映像を音楽にあわせて紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101080000 +0900" stop="20150101083000 +0900" channel="GR_29752" event_id="21077">
+    <title lang="ja_JP">心の演歌【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101083000 +0900" stop="20150101090000 +0900" channel="GR_29752" event_id="22614">
+    <title lang="ja_JP">Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・ドクターリセラ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">アクアスタート１ヶ月セット</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101090000 +0900" stop="20150101090500 +0900" channel="GR_29752" event_id="21157">
+    <title lang="ja_JP">新年のご挨拶【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101090500 +0900" stop="20150101091000 +0900" channel="GR_29752" event_id="21158">
+    <title lang="ja_JP">新年のご挨拶【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101091000 +0900" stop="20150101091500 +0900" channel="GR_29752" event_id="21159">
+    <title lang="ja_JP">新年のご挨拶【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101091500 +0900" stop="20150101092000 +0900" channel="GR_29752" event_id="21160">
+    <title lang="ja_JP">新年のご挨拶【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101092000 +0900" stop="20150101093000 +0900" channel="GR_29752" event_id="21079">
+    <title lang="ja_JP">彩の国紀行（秋・冬編）【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101093000 +0900" stop="20150101094500 +0900" channel="GR_29752" event_id="21155">
+    <title lang="ja_JP">新春知事に聞く【Ｓ】</title>
+    <desc lang="ja_JP">「新春知事に聞く」　上田清司埼玉県知事に、今年度力を入れている政策や、今後進めていこうという政策、年頭にあたって２０１５年の抱負などを聞く。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101094500 +0900" stop="20150101100000 +0900" channel="GR_29752" event_id="22154">
+    <title lang="ja_JP">知ればきっと好きになる、さいたま市【Ｓ】</title>
+    <desc lang="ja_JP">新春特別番組</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101100000 +0900" stop="20150101103000 +0900" channel="GR_29752" event_id="21154">
+    <title lang="ja_JP">こんにちは県議会です「新春インタビュー」【手】【Ｓ】</title>
+    <desc lang="ja_JP">「新春インタビュー」　長峰宏芳　埼玉県議会議長、加藤裕康　副議長と、県議会各会派の代表者５人に、２０１５年の抱負などを聞く。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101103000 +0900" stop="20150101112500 +0900" channel="GR_29752" event_id="21305">
+    <title lang="ja_JP">新春狂言【Ｓ】</title>
+    <desc lang="ja_JP">「柑子」「米市」</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101112500 +0900" stop="20150101115500 +0900" channel="GR_29752" event_id="22612">
+    <title lang="ja_JP">ＴＶショッピング・日本薬師堂テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">スマイルショッピング　日本薬師堂スペシャル</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101115500 +0900" stop="20150101120000 +0900" channel="GR_29752" event_id="21130">
+    <title lang="ja_JP">テレ玉くんのうた　アナウンサーと踊ろう【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101120000 +0900" stop="20150101143000 +0900" channel="GR_29752" event_id="21108">
+    <title lang="ja_JP">第２４回新春カラオケ大賞【Ｓ】</title>
+    <desc lang="ja_JP">決勝大会</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101143000 +0900" stop="20150101150000 +0900" channel="GR_29752" event_id="21085">
+    <title lang="ja_JP">ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">セラフィット</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101150000 +0900" stop="20150101172500 +0900" channel="GR_29752" event_id="21086">
+    <title lang="ja_JP">Ｓｈａｌｌ　ｗｅ　ダンス？【Ｓ】</title>
+    <desc lang="ja_JP">平凡なサラリーマンが社交ダンスと出会って生きる喜びを見出す姿を描くハートフル・コメディ映画！</desc>
+    <category lang="ja_JP">映画</category>
+    <category lang="en">cinema</category>
+  </programme>
+  <programme start="20150101172500 +0900" stop="20150101174000 +0900" channel="GR_29752" event_id="41567">
+    <title lang="ja_JP">四季　彩の国紀行【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101174000 +0900" stop="20150101174500 +0900" channel="GR_29752" event_id="21088">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101174500 +0900" stop="20150101175500 +0900" channel="GR_29752" event_id="21089">
+    <title lang="ja_JP">Ｎｅｗｓ＆Ｗｅａｔｈｅｒ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101175500 +0900" stop="20150101180000 +0900" channel="GR_29752" event_id="21090">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20150101180000 +0900" stop="20150101183000 +0900" channel="GR_29752" event_id="21091">
+    <title lang="ja_JP">“和”が支えた１８８日間日本人初ＩＳＳコマンダー若田光一さん【Ｓ】</title>
+    <desc lang="ja_JP">宇宙飛行士・若田光一さんが宇宙で大切にした“和”の心や活動を語ります。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101183000 +0900" stop="20150101190000 +0900" channel="GR_29752" event_id="21148">
+    <title lang="ja_JP">彩の国新春特番「２０１５埼玉を語る」【Ｓ】</title>
+    <desc lang="ja_JP">彩の国新春特別対談「２０１５埼玉を語る」</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101190000 +0900" stop="20150101215500 +0900" channel="GR_29752" event_id="21129">
+    <title lang="ja_JP">第２４回埼玉政財界人チャリティ歌謡祭【Ｓ】</title>
+    <desc lang="ja_JP">県内の政界・財界のトップリーダー１７名による歌い初めと、新年の抱負をお送りします。司会は堀尾正明氏。ゲスト歌手・千昌夫氏による歌謡ショーもお楽しみに。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101215500 +0900" stop="20150101220000 +0900" channel="GR_29752" event_id="22320">
+    <title lang="ja_JP">彩の国　自然【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101220000 +0900" stop="20150101223000 +0900" channel="GR_29752" event_id="21094">
+    <title lang="ja_JP">ビッグスギのＳＴＥＰ　ＵＰゴルフ【Ｓ】</title>
+    <desc lang="ja_JP">南房総・館山レッスン編ＰａｒｔⅡ－１</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150101223000 +0900" stop="20150101230000 +0900" channel="GR_29752" event_id="21095">
+    <title lang="ja_JP">バッハプラザ【Ｓ】</title>
+    <desc lang="ja_JP">「川口オート・前検」　▽川口オート：報知新聞社杯ニューイヤーカップ〜準優勝戦８バトル〜・前検</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150101230000 +0900" stop="20150101233000 +0900" channel="GR_29752" event_id="21149">
+    <title lang="ja_JP">街美女アルバム【Ｓ】</title>
+    <desc lang="ja_JP">埼玉県にゆかりのある美女を紹介する街美女アルバム。過去の放送から厳選した街美女たちが再登場！趣味、特技、恋愛、夢など、街美女たちの魅力を一挙にご紹介します！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150101233000 +0900" stop="20150102000000 +0900" channel="GR_29752" event_id="21096">
+    <title lang="ja_JP">近未来回胴伝説ガチスロ　ハンターバトル勃発！！【Ｓ】【終】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102030500 +0900" stop="20150102042000 +0900" channel="GR_29752" event_id="21144">
+    <title lang="ja_JP">第９４回全国高校ラグビー大会</title>
+    <desc lang="ja_JP">深谷高校が勝ち上がっている場合のみ放送します</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150102042000 +0900" stop="20150102042500 +0900" channel="GR_29752" event_id="21103">
+    <title lang="ja_JP">街美女アルバム【Ｓ】【再】</title>
+    <desc lang="ja_JP">４ｔｈ　Ｓｅａｓｏｎ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150102042500 +0900" stop="20150102043000 +0900" channel="GR_29752" event_id="21104">
+    <title lang="ja_JP">ＳＳＣ５【Ｓ】</title>
+    <desc lang="ja_JP">バクバクドキン　　　　　　　　　ｌｙｒｉｃａｌ　ｓｃｈｏｏｌ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150102043000 +0900" stop="20150102043400 +0900" channel="GR_29752" event_id="21105">
+    <title lang="ja_JP">お天気マップ　４【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102045500 +0900" stop="20150102050000 +0900" channel="GR_29752" event_id="21165">
+    <title lang="ja_JP">お天気マップ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102050000 +0900" stop="20150102053000 +0900" channel="GR_29752" event_id="22628">
+    <title lang="ja_JP">ＴＶショッピング・エバーライフＴＶショッピング【Ｓ】</title>
+    <desc lang="ja_JP">明日への一歩を</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102053000 +0900" stop="20150102054500 +0900" channel="GR_29752" event_id="21167">
+    <title lang="ja_JP">入山アキ子とマイク河原のここ一番の歌謡曲【Ｓ】</title>
+    <desc lang="ja_JP">松永ひとみ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150102054500 +0900" stop="20150102060000 +0900" channel="GR_29752" event_id="21168">
+    <title lang="ja_JP">山崎ていじのさわやか歌謡曲【Ｓ】</title>
+    <desc lang="ja_JP">岡　ゆう子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150102060000 +0900" stop="20150102063000 +0900" channel="GR_29752" event_id="22242">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">トゥルースリーパー・プレミアム　トゥルースリーパー・コンフォート　低反発ふとん</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102063000 +0900" stop="20150102064500 +0900" channel="GR_29752" event_id="21170">
+    <title lang="ja_JP">Ｖ－Ｃｌｉｐｓ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150102064500 +0900" stop="20150102065000 +0900" channel="GR_29752" event_id="21171">
+    <title lang="ja_JP">アメ横リズムの歌模様【Ｓ】</title>
+    <desc lang="ja_JP">岡　千秋　「隅田川慕情」（４０周年ＤＶＤ）</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150102065000 +0900" stop="20150102065500 +0900" channel="GR_29752" event_id="21172">
+    <title lang="ja_JP">音楽館【Ｓ】</title>
+    <desc lang="ja_JP">さいたまライブ　瀬口侑希</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150102065500 +0900" stop="20150102070000 +0900" channel="GR_29752" event_id="21173">
+    <title lang="ja_JP">お天気マップ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102070000 +0900" stop="20150102073000 +0900" channel="GR_29752" event_id="21174">
+    <title lang="ja_JP">ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">シャークスチームクリーナーオールインワン　プレミアム</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102073000 +0900" stop="20150102080000 +0900" channel="GR_29752" event_id="21175">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP">県内の四季の映像を音楽にあわせて紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150102080000 +0900" stop="20150102083000 +0900" channel="GR_29752" event_id="21176">
+    <title lang="ja_JP">ミュージックパーク「歌仲間全員集合」【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150102083000 +0900" stop="20150102090000 +0900" channel="GR_29752" event_id="21177">
+    <title lang="ja_JP">Ｓｈｏｐ　Ｍａｇｎｉｆｉｃａ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103090000 +0900" stop="20150103093000 +0900" channel="GR_29752" event_id="22323">
+    <title lang="ja_JP">四季　彩の国紀行【Ｓ】</title>
+    <desc lang="ja_JP">県内の四季の映像を音楽にあわせて紹介します。　県内の四季の映像を音楽にあわせて紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150103093000 +0900" stop="20150103094000 +0900" channel="GR_29752" event_id="21241">
+    <title lang="ja_JP">わが街川越【手】【Ｓ】</title>
+    <desc lang="ja_JP">きもので巡る川越願い旅　〜初大師と初詣コース〜</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103094000 +0900" stop="20150103094500 +0900" channel="GR_29752" event_id="21242">
+    <title lang="ja_JP">彩の国　自然【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103094500 +0900" stop="20150103100000 +0900" channel="GR_29752" event_id="22310">
+    <title lang="ja_JP">さわやかショッピング・グットモットプライステレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">０１２０－２３－０９０９</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103100000 +0900" stop="20150103103000 +0900" channel="GR_29752" event_id="21244">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP">県内の四季の映像を音楽にあわせて紹介します。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150103103000 +0900" stop="20150103110000 +0900" channel="GR_29752" event_id="21245">
+    <title lang="ja_JP">ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">セラフィット</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103110000 +0900" stop="20150103112500 +0900" channel="GR_29752" event_id="21307">
+    <title lang="ja_JP">日本ふるさと百景【Ｓ】</title>
+    <desc lang="ja_JP">埼玉編２</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103112500 +0900" stop="20150103113000 +0900" channel="GR_29752" event_id="21246">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20150103113000 +0900" stop="20150103120000 +0900" channel="GR_29752" event_id="22634">
+    <title lang="ja_JP">ＴＶショッピング・キューサイ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">ヒアルロン酸コラーゲン</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103150000 +0900" stop="20150103155500 +0900" channel="GR_29752" event_id="22246">
+    <title lang="ja_JP">テレビショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">トゥルースリーパープレミアム　トゥルースリーパーコンフォート　低反発ふとん・セラフィット</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103155500 +0900" stop="20150103160000 +0900" channel="GR_29752" event_id="21252">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20150103160000 +0900" stop="20150103170000 +0900" channel="GR_29752" event_id="21253">
+    <title lang="ja_JP">快傑えみちゃんねる【Ｓ】【HV】</title>
+    <desc lang="ja_JP">今や関西の主婦代表から全国の主婦代表へとスケールアップした話術の天才上沼恵美子が毎週豪華なゲストを迎え過激すぎる大爆笑トークを１時間たっぷり繰り広げます。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150103170000 +0900" stop="20150103173000 +0900" channel="GR_29752" event_id="22630">
+    <title lang="ja_JP">ダイレクトテレショップ・エバーライフＴＶショッピング【Ｓ】</title>
+    <desc lang="ja_JP">鮫肝海王　千葉・森末　若さと元気のヒミツ</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103173000 +0900" stop="20150103174500 +0900" channel="GR_29752" event_id="21362">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150103174500 +0900" stop="20150103175500 +0900" channel="GR_29752" event_id="21255">
+    <title lang="ja_JP">Ｎｅｗｓ＆Ｗｅａｔｈｅｒ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103175500 +0900" stop="20150103180000 +0900" channel="GR_29752" event_id="21256">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20150104030000 +0900" stop="20150104033000 +0900" channel="GR_29752" event_id="21273">
+    <title lang="ja_JP">ＫＯＢＥＬＣＯスポーツスペシャル　第９４回全国高等学校ラグビー大会ハイライト【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150104033000 +0900" stop="20150104044500 +0900" channel="GR_29752" event_id="21274">
+    <title lang="ja_JP">第９４回全国高校ラグビー大会</title>
+    <desc lang="ja_JP">深谷高校が勝ち上がっている場合のみ放送します</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150104044500 +0900" stop="20150104045000 +0900" channel="GR_29752" event_id="21275">
+    <title lang="ja_JP">街美女アルバム【Ｓ】【再】</title>
+    <desc lang="ja_JP">４ｔｈ　Ｓｅａｓｏｎ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104045000 +0900" stop="20150104045500 +0900" channel="GR_29752" event_id="21276">
+    <title lang="ja_JP">ＳＳＣ５【Ｓ】</title>
+    <desc lang="ja_JP">バクバクドキン　　　　　　　　　ｌｙｒｉｃａｌ　ｓｃｈｏｏｌ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104045500 +0900" stop="20150104050000 +0900" channel="GR_29752" event_id="21310">
+    <title lang="ja_JP">お天気マップ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104050000 +0900" stop="20150104051500 +0900" channel="GR_29752" event_id="21311">
+    <title lang="ja_JP">カラなび歌謡曲【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104051500 +0900" stop="20150104053000 +0900" channel="GR_29752" event_id="21312">
+    <title lang="ja_JP">藤原浩とビュースノの朝ナビ歌謡曲【Ｓ】</title>
+    <desc lang="ja_JP">あさみちゆき</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104053000 +0900" stop="20150104060000 +0900" channel="GR_29752" event_id="22633">
+    <title lang="ja_JP">お買い物生活情報・まるごと！得ダネ市！</title>
+    <desc lang="ja_JP">①マルチホームベーカリー　　　　　　　　②両面焼きフライパン</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104060000 +0900" stop="20150104063000 +0900" channel="GR_29752" event_id="21314">
+    <title lang="ja_JP">ビッグスギのＳＴＥＰ　ＵＰゴルフ【Ｓ】【再】</title>
+    <desc lang="ja_JP">南房総・館山レッスン編ＰａｒｔⅡ－１</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150104063000 +0900" stop="20150104070000 +0900" channel="GR_29752" event_id="22236">
+    <title lang="ja_JP">お買い物チャンネル・プライムマーケットデザインＴＶショッピング【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104070000 +0900" stop="20150104073000 +0900" channel="GR_29752" event_id="21316">
+    <title lang="ja_JP">演歌街道【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104073000 +0900" stop="20150104080000 +0900" channel="GR_29752" event_id="22230">
+    <title lang="ja_JP">ダイレクトテレショップ・森永製菓　ＴＶショッピング〜おいしいコラーゲンドリンク【Ｓ】</title>
+    <desc lang="ja_JP">森永製菓　ＴＶショッピング</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104080000 +0900" stop="20150104081500 +0900" channel="GR_29752" event_id="21318">
+    <title lang="ja_JP">童謡コーラス  名曲大合唱</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104081500 +0900" stop="20150104083000 +0900" channel="GR_29752" event_id="21319">
+    <title lang="ja_JP">大城バネサと走裕介の歌の彩は【Ｓ】</title>
+    <desc lang="ja_JP">大沢桃子</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104083000 +0900" stop="20150104090000 +0900" channel="GR_29752" event_id="22249">
+    <title lang="ja_JP">ＴＶショッピング・ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">トゥルースリーパー・プレミアム　トゥルースリーパー・コンフォート　低反発ふとん</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104090000 +0900" stop="20150104091500 +0900" channel="GR_29752" event_id="21321">
+    <title lang="ja_JP">西川ひとみの歌日和【Ｓ】</title>
+    <desc lang="ja_JP">山口ひろみ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104091500 +0900" stop="20150104092500 +0900" channel="GR_29752" event_id="21322">
+    <title lang="ja_JP">ふれあい戸田【字】【Ｓ】</title>
+    <desc lang="ja_JP">「未来の科学者を育むために」〜戸田市の理科教育〜</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104092500 +0900" stop="20150104093000 +0900" channel="GR_29752" event_id="21323">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20150104093000 +0900" stop="20150104094000 +0900" channel="GR_29752" event_id="21324">
+    <title lang="ja_JP">わが街川越【手】【Ｓ】【再】</title>
+    <desc lang="ja_JP">きもので巡る川越願い旅　〜初大師と初詣コース〜</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104094000 +0900" stop="20150104094500 +0900" channel="GR_29752" event_id="21325">
+    <title lang="ja_JP">彩の国　自然【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104094500 +0900" stop="20150104100000 +0900" channel="GR_29752" event_id="22637">
+    <title lang="ja_JP">お買い物チャンネル・キューサイ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">長生きするのは嬉しいけれど　楽しく元気に暮らしたい</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104100000 +0900" stop="20150104101500 +0900" channel="GR_29752" event_id="21327">
+    <title lang="ja_JP">彩の国百科【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104101500 +0900" stop="20150104103000 +0900" channel="GR_29752" event_id="21328">
+    <title lang="ja_JP">みんなの音楽会ＴＶ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104103000 +0900" stop="20150104104500 +0900" channel="GR_29752" event_id="21329">
+    <title lang="ja_JP">四季　彩の国紀行【Ｓ】</title>
+    <desc lang="ja_JP">ダリア（長瀞町）・梨の受粉（春日部市）・ハナビシソウ園（長瀞町吉見町）・チューリップ（越谷市）・戸田橋花火大会（戸田市）・寄居北條まつり（寄居町）</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104104500 +0900" stop="20150104110000 +0900" channel="GR_29752" event_id="21330">
+    <title lang="ja_JP">のびのびシティさいたま市【手】【Ｓ】</title>
+    <desc lang="ja_JP">さいたま市発祥！　　サツマイモの女王〜紅赤〜</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104110000 +0900" stop="20150104113000 +0900" channel="GR_29752" event_id="22235">
+    <title lang="ja_JP">はぴねすくらぶ・はぴねすくらぶ</title>
+    <desc lang="ja_JP">０１２０－００－２２－４４</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104113000 +0900" stop="20150104120000 +0900" channel="GR_29752" event_id="21332">
+    <title lang="ja_JP">街美女アルバム【Ｓ】</title>
+    <desc lang="ja_JP">埼玉県にゆかりのある美女を紹介する街美女アルバム。過去の放送から厳選した街美女たちが再登場！趣味、特技、恋愛、夢など、街美女たちの魅力を一挙にご紹介します！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104120000 +0900" stop="20150104123000 +0900" channel="GR_29752" event_id="21333">
+    <title lang="ja_JP">ショップジャパン【Ｓ】</title>
+    <desc lang="ja_JP">ヒルズダイエット　パステルゼリーアイ</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104123000 +0900" stop="20150104133000 +0900" channel="GR_29752" event_id="21334">
+    <title lang="ja_JP">お正月アニメスペシャル【Ｓ】</title>
+    <desc lang="ja_JP">「あの山に登ろうよ」「ヒロシマへの旅」</desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20150104133000 +0900" stop="20150104140000 +0900" channel="GR_29752" event_id="22616">
+    <title lang="ja_JP">Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・３０日間マル秘コラーゲン生活【Ｓ】</title>
+    <desc lang="ja_JP">パーフェクトワン</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104140000 +0900" stop="20150104150000 +0900" channel="GR_29752" event_id="21336">
+    <title lang="ja_JP">ＪＲＡ競馬中継【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150104150000 +0900" stop="20150104155500 +0900" channel="GR_29752" event_id="22831">
+    <title lang="ja_JP">テレビショッピング・健やか元気人</title>
+    <desc lang="ja_JP">健やか元気人</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104155500 +0900" stop="20150104160000 +0900" channel="GR_29752" event_id="21338">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20150104160000 +0900" stop="20150104165500 +0900" channel="GR_29752" event_id="21339">
+    <title lang="ja_JP">ええじゃないか。【Ｓ】【HV】</title>
+    <desc lang="ja_JP">埼玉県熊谷市でおもてなしをテーマに取材。極彩色の彫刻が美しい国宝の寺。地元食材の絶品ホテルディナー</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104165500 +0900" stop="20150104170000 +0900" channel="GR_29752" event_id="21340">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20150104170000 +0900" stop="20150104173000 +0900" channel="GR_29752" event_id="22638">
+    <title lang="ja_JP">ＴＶショッピング・美肌改革　若かった時の自分の肌へ【Ｓ】</title>
+    <desc lang="ja_JP">ラメラエッセンス</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104173000 +0900" stop="20150104174500 +0900" channel="GR_29752" event_id="21342">
+    <title lang="ja_JP">方言彼女。０（ＬＯＶＥ）【Ｓ】</title>
+    <desc lang="ja_JP">悩める方言女子のこころの相談室</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104174500 +0900" stop="20150104175500 +0900" channel="GR_29752" event_id="21343">
+    <title lang="ja_JP">Ｎｅｗｓ＆Ｗｅａｔｈｅｒ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104175500 +0900" stop="20150104180000 +0900" channel="GR_29752" event_id="21344">
+    <title lang="ja_JP">街美女アルバム【Ｓ】【再】</title>
+    <desc lang="ja_JP">４ｔｈ　Ｓｅａｓｏｎ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104180000 +0900" stop="20150104183000 +0900" channel="GR_29752" event_id="21345">
+    <title lang="ja_JP">彩の国新春特番「２０１５埼玉を語る」【Ｓ】【再】</title>
+    <desc lang="ja_JP">彩の国新春特別対談「２０１５埼玉を語る」</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104183000 +0900" stop="20150104190000 +0900" channel="GR_29752" event_id="21346">
+    <title lang="ja_JP">フィッシング倶楽部【Ｓ】【再】</title>
+    <desc lang="ja_JP">ワカサギチーム対決！！勝敗の行方は・・・</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104190000 +0900" stop="20150104213000 +0900" channel="GR_29752" event_id="21347">
+    <title lang="ja_JP">第２４回新春カラオケ大賞【Ｓ】【再】</title>
+    <desc lang="ja_JP">決勝大会</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150105090000 +0900" stop="20150105100000 +0900" channel="GR_29752" event_id="21394">
+    <title lang="ja_JP">時代劇　必殺アワー・必殺仕事人　激突！</title>
+    <desc lang="ja_JP">主水、出勤日数をごまかす</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150105100000 +0900" stop="20150105103000 +0900" channel="GR_29752" event_id="22832">
+    <title lang="ja_JP">ショッピング・健やか元気人</title>
+    <desc lang="ja_JP">健やか元気人</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105103000 +0900" stop="20150105112500 +0900" channel="GR_29752" event_id="21396">
+    <title lang="ja_JP">シュガーケーキガーデン【字】【Ｓ】</title>
+    <desc lang="ja_JP">Ｃａｋｅ１４</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150105112500 +0900" stop="20150105115500 +0900" channel="GR_29752" event_id="22617">
+    <title lang="ja_JP">わくわくビューティー・３０日間マル秘コラーゲン生活【Ｓ】</title>
+    <desc lang="ja_JP">パーフェクトワン</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105115500 +0900" stop="20150105120000 +0900" channel="GR_29752" event_id="21398">
+    <title lang="ja_JP">Ｎｅｗｓ＆Ｗｅａｔｈｅｒ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105120000 +0900" stop="20150105123000 +0900" channel="GR_29752" event_id="21399">
+    <title lang="ja_JP">ありがとッ！【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105123000 +0900" stop="20150105130000 +0900" channel="GR_29752" event_id="22636">
+    <title lang="ja_JP">Ｓｈｏｐｐｉｎｇ　Ｔｉｍｅ・キューサイ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">驚き！グルコサミンの実力</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105130000 +0900" stop="20150105143000 +0900" channel="GR_29752" event_id="21401">
+    <title lang="ja_JP">カラオケ１ばん【Ｓ】【再】</title>
+    <desc lang="ja_JP">オーナー大会　紅白に分かれてお送りするお店対抗戦。今年のＭＶＰに輝くお店は！？</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150105143000 +0900" stop="20150105150000 +0900" channel="GR_29752" event_id="22635">
+    <title lang="ja_JP">ＴＶショッピング・キューサイ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">ヒアルロン酸コラーゲン</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105150000 +0900" stop="20150105155500 +0900" channel="GR_29752" event_id="21403">
+    <title lang="ja_JP">時代劇アワー・大江戸捜査網</title>
+    <desc lang="ja_JP">天狗の館が燃えた</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150105155500 +0900" stop="20150105160000 +0900" channel="GR_29752" event_id="21404">
+    <title lang="ja_JP">アメ横リズムの歌模様【Ｓ】</title>
+    <desc lang="ja_JP">吉村明紘　「門前仲町ブルース」</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150105160000 +0900" stop="20150105163000 +0900" channel="GR_29752" event_id="22650">
+    <title lang="ja_JP">はぴねすくらぶ・はぴねすくらぶ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105163000 +0900" stop="20150105174500 +0900" channel="GR_29752" event_id="21406">
+    <title lang="ja_JP">ごごたま【Ｓ】</title>
+    <desc lang="ja_JP">てつお▽初詣中継▽旬をお届け！▽武州和牛１０キロは…▽キッチン</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105174500 +0900" stop="20150105180000 +0900" channel="GR_29752" event_id="21407">
+    <title lang="ja_JP">テレ玉イブニングＮＥＷＳ【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105180000 +0900" stop="20150105195500 +0900" channel="GR_29752" event_id="21408">
+    <title lang="ja_JP">第９３回全国高校サッカー選手権大会【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150105195500 +0900" stop="20150105200000 +0900" channel="GR_29752" event_id="21409">
+    <title lang="ja_JP">街美女アルバム【Ｓ】</title>
+    <desc lang="ja_JP">５ｔｈ　Ｓｅａｓｏｎ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150105200000 +0900" stop="20150105205500 +0900" channel="GR_29752" event_id="21410">
+    <title lang="ja_JP">探偵！ナイトスクープ【Ｓ】</title>
+    <desc lang="ja_JP">“番組には運がある！”と言われる依頼登場</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150105205500 +0900" stop="20150105210000 +0900" channel="GR_29752" event_id="21411">
+    <title lang="ja_JP">テレ玉くんのうた【Ｓ】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20141229143000 +0900" stop="20141229150000 +0900" channel="GR_29754" event_id="22090">
+    <title lang="ja_JP">ＴＶショッピング・キューサイ　テレビショッピング【Ｓ】</title>
+    <desc lang="ja_JP">驚き！グルコサミンの実力</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229150000 +0900" stop="20141229160000 +0900" channel="GR_29754" event_id="20932">
+    <title lang="ja_JP">ダイアモンド☆ユカイとユカイなラーメン研究所〜さのまるといっしょに開運ツアー篇【Ｓ】</title>
+    <desc lang="ja_JP">皆様からのカムバックのご期待に応えて特別番組として帰ってきました。今回は「ラッキー」をテーマに佐野市内を練り歩きます。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+</tv>

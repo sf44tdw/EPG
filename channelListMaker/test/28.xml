@@ -1,0 +1,1931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="GR_1088" tp="28">
+    <display-name lang="ja_JP">放送大学１</display-name>
+    <transport_stream_id>32744</transport_stream_id>
+    <original_network_id>32744</original_network_id>
+    <service_id>1088</service_id>
+  </channel>
+  <channel id="GR_1089" tp="28">
+    <display-name lang="ja_JP">放送大学２</display-name>
+    <transport_stream_id>32744</transport_stream_id>
+    <original_network_id>32744</original_network_id>
+    <service_id>1089</service_id>
+  </channel>
+  <channel id="GR_1090" tp="28">
+    <display-name lang="ja_JP">放送大学３</display-name>
+    <transport_stream_id>32744</transport_stream_id>
+    <original_network_id>32744</original_network_id>
+    <service_id>1090</service_id>
+  </channel>
+  <programme start="20141229120000 +0900" stop="20141229124500 +0900" channel="GR_1088" event_id="20659">
+    <title lang="ja_JP">食と健康　第2回</title>
+    <desc lang="ja_JP">「糖質」奈良女子大学大学院教授 菊崎　泰枝</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229124500 +0900" stop="20141229130000 +0900" channel="GR_1088" event_id="20660">
+    <title lang="ja_JP">授業科目案内〜大学の窓「発音をめぐる冒険ほか」</title>
+    <desc lang="ja_JP">「発音をめぐる冒険ほか」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229130000 +0900" stop="20141229134500 +0900" channel="GR_1088" event_id="20661">
+    <title lang="ja_JP">認知行動療法　第1回「認知行動療法とは何か－特徴とその成り立ち」</title>
+    <desc lang="ja_JP">東京大学大学院教授 下山　晴彦</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229134500 +0900" stop="20141229143000 +0900" channel="GR_1088" event_id="20666">
+    <title lang="ja_JP">認知行動療法　第2回「認知行動療法を支える原理とその活かし方」</title>
+    <desc lang="ja_JP">新潟大学教授 神村　栄一　フリーアナウンサー 河田　京子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229143000 +0900" stop="20141229151500 +0900" channel="GR_1088" event_id="20669">
+    <title lang="ja_JP">特別講義・紛争予防学とは何か</title>
+    <desc lang="ja_JP">「紛争予防学」とは何か◇東京外国語大学大学院教授 伊勢崎　賢治</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229151500 +0900" stop="20141229160000 +0900" channel="GR_1088" event_id="20670">
+    <title lang="ja_JP">母性看護学　第1回「母性看護学の概要」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 齋藤　いずみ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229160000 +0900" stop="20141229164500 +0900" channel="GR_1088" event_id="20671">
+    <title lang="ja_JP">母性看護学　第2回「統計値から見る日本の母子保健水準」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 齋藤　いずみ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229164500 +0900" stop="20141229173000 +0900" channel="GR_1088" event_id="20672">
+    <title lang="ja_JP">問題解決の進め方　第1回</title>
+    <desc lang="ja_JP">「問題とは何か」放送大学客員教授 遠山　紘司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229173000 +0900" stop="20141229181500 +0900" channel="GR_1088" event_id="20673">
+    <title lang="ja_JP">問題解決の進め方　第2回</title>
+    <desc lang="ja_JP">「問題を見つける」放送大学客員教授 遠山　紘司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229181500 +0900" stop="20141229190000 +0900" channel="GR_1088" event_id="20674">
+    <title lang="ja_JP">数学の歴史　第1回「古代エジプトの数学」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229190000 +0900" stop="20141229194500 +0900" channel="GR_1088" event_id="20675">
+    <title lang="ja_JP">数学の歴史　第2回「古代ギリシャの数学」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229194500 +0900" stop="20141229200000 +0900" channel="GR_1088" event_id="20676">
+    <title lang="ja_JP">授業科目案内〜大学の窓「発音をめぐる冒険ほか」</title>
+    <desc lang="ja_JP">「発音をめぐる冒険ほか」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229200000 +0900" stop="20141229204500 +0900" channel="GR_1088" event_id="20677">
+    <title lang="ja_JP">大学院案内２０１５「修士課程・博士後期課程」</title>
+    <desc lang="ja_JP">「修士課程・博士後期課程」放送大学教授　宮本みち子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229204500 +0900" stop="20141229213000 +0900" channel="GR_1088" event_id="20678">
+    <title lang="ja_JP">心理学概論　第1回</title>
+    <desc lang="ja_JP">「まなみさん一家の日常」放送大学准教授 星　薫　放送大学准教授 森　津太子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229213000 +0900" stop="20141229221500 +0900" channel="GR_1088" event_id="20683">
+    <title lang="ja_JP">心理学概論　第2回</title>
+    <desc lang="ja_JP">「教育についての心理学」放送大学准教授 星　薫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229221500 +0900" stop="20141229230000 +0900" channel="GR_1088" event_id="20686">
+    <title lang="ja_JP">和歌文学の世界　第1回「歌枕の世界」</title>
+    <desc lang="ja_JP">東京大学大学院教授 渡部　泰明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229230000 +0900" stop="20141229231500 +0900" channel="GR_1088" event_id="20689">
+    <title lang="ja_JP">授業科目案内〜大学の窓「発音をめぐる冒険ほか」</title>
+    <desc lang="ja_JP">「発音をめぐる冒険ほか」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229231500 +0900" stop="20141230000000 +0900" channel="GR_1088" event_id="20690">
+    <title lang="ja_JP">和歌文学の世界　第2回「霞と時雨の風景」</title>
+    <desc lang="ja_JP">東京大学大学院教授 渡部　泰明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230000000 +0900" stop="20141230001500 +0900" channel="GR_1088" event_id="20691">
+    <title lang="ja_JP">放送大学イメージソング・学歌</title>
+    <desc lang="ja_JP">「『と・も・た・ち』『人間の贅沢、ひとつ』歌・小椋佳　『放送大学学歌・斉唱』」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230060000 +0900" stop="20141230064500 +0900" channel="GR_1088" event_id="20719">
+    <title lang="ja_JP">小児看護学　第3回</title>
+    <desc lang="ja_JP">「幼児と家族」日本赤十字看護大学教授 筒井　真優美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230064500 +0900" stop="20141230073000 +0900" channel="GR_1088" event_id="20720">
+    <title lang="ja_JP">小児看護学　第4回</title>
+    <desc lang="ja_JP">「学童期・思春期の子どもと家族」日本赤十字看護大学准教授 川名　るり</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230073000 +0900" stop="20141230081500 +0900" channel="GR_1088" event_id="20721">
+    <title lang="ja_JP">ソフトウェアのしくみ　第3回「制御構造と構造化プログラミング」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230081500 +0900" stop="20141230090000 +0900" channel="GR_1088" event_id="20722">
+    <title lang="ja_JP">ソフトウェアのしくみ　第4回「サブルーチン」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230090000 +0900" stop="20141230094500 +0900" channel="GR_1088" event_id="20723">
+    <title lang="ja_JP">色を探究する　第3回「自然界と色Ⅰ〜色の起源・物体の色の原因〜」</title>
+    <desc lang="ja_JP">放送大学教授 濱田　嘉昭　放送大学准教授 佐藤　仁美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230094500 +0900" stop="20141230103000 +0900" channel="GR_1088" event_id="20724">
+    <title lang="ja_JP">色を探究する　第4回「自然界と色Ⅱ〜動植物や鉱物の色とその働き〜」</title>
+    <desc lang="ja_JP">放送大学教授 濱田　嘉昭　放送大学准教授 佐藤　仁美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230103000 +0900" stop="20141230111500 +0900" channel="GR_1088" event_id="20725">
+    <title lang="ja_JP">アーカイブス・「国際政治（’００）〜００７の独立運動〜」</title>
+    <desc lang="ja_JP">「国際政治（’００）〜００７の独立運動〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230111500 +0900" stop="20141230120000 +0900" channel="GR_1088" event_id="20726">
+    <title lang="ja_JP">食と健康　第3回</title>
+    <desc lang="ja_JP">「脂質」奈良女子大学大学院教授 菊﨑　泰枝</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230120000 +0900" stop="20141230124500 +0900" channel="GR_1088" event_id="20727">
+    <title lang="ja_JP">食と健康　第4回</title>
+    <desc lang="ja_JP">「タンパク質」東京大学名誉教授 清水　誠</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230124500 +0900" stop="20141230130000 +0900" channel="GR_1088" event_id="20728">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230130000 +0900" stop="20141230134500 +0900" channel="GR_1088" event_id="20729">
+    <title lang="ja_JP">認知行動療法　第3回「認知行動療法のプロセス（１）－関係性構築と面接技術の基礎」</title>
+    <desc lang="ja_JP">成蹊大学准教授 林　潤一郎</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230134500 +0900" stop="20141230143000 +0900" channel="GR_1088" event_id="20734">
+    <title lang="ja_JP">認知行動療法　第4回</title>
+    <desc lang="ja_JP">「認知行動療法のプロセス（２）－ケース・フォーミュレーション」東京大学大学院教授 下山　晴彦</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230143000 +0900" stop="20141230151500 +0900" channel="GR_1088" event_id="20737">
+    <title lang="ja_JP">あなたの知りたい放送大学「コースガイド」</title>
+    <desc lang="ja_JP">「コースガイド」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230151500 +0900" stop="20141230160000 +0900" channel="GR_1088" event_id="20738">
+    <title lang="ja_JP">母性看護学　第3回「統計値から見る諸外国の母子保健水準」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 齋藤　いずみ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230160000 +0900" stop="20141230164500 +0900" channel="GR_1088" event_id="20739">
+    <title lang="ja_JP">母性看護学　第4回「生殖のメカニズム」</title>
+    <desc lang="ja_JP">新潟大学大学院保健学研究科教授 定方　美恵子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230164500 +0900" stop="20141230173000 +0900" channel="GR_1088" event_id="20740">
+    <title lang="ja_JP">問題解決の進め方　第3回</title>
+    <desc lang="ja_JP">「目標を設定する」放送大学客員教授 遠山　紘司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230173000 +0900" stop="20141230181500 +0900" channel="GR_1088" event_id="20741">
+    <title lang="ja_JP">問題解決の進め方　第4回</title>
+    <desc lang="ja_JP">「解決への手順を決める」放送大学客員教授 遠山　紘司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230181500 +0900" stop="20141230190000 +0900" channel="GR_1088" event_id="20742">
+    <title lang="ja_JP">数学の歴史　第3回「エウクレイデス『原論』と論証数学」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230190000 +0900" stop="20141230194500 +0900" channel="GR_1088" event_id="20743">
+    <title lang="ja_JP">数学の歴史　第4回「アラビア数学の成立と展開」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230194500 +0900" stop="20141230200000 +0900" channel="GR_1088" event_id="20744">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230200000 +0900" stop="20141230204500 +0900" channel="GR_1088" event_id="20745">
+    <title lang="ja_JP">特別講義・神仏習合の島</title>
+    <desc lang="ja_JP">「地域学シリーズ　神仏習合の島〜世界文化遺産・厳島〜」龍谷大学教授 岸田　裕之</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230204500 +0900" stop="20141230213000 +0900" channel="GR_1088" event_id="20746">
+    <title lang="ja_JP">心理学概論　第3回</title>
+    <desc lang="ja_JP">「発達についての心理学」放送大学准教授 星　薫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230213000 +0900" stop="20141230221500 +0900" channel="GR_1088" event_id="20751">
+    <title lang="ja_JP">心理学概論　第4回</title>
+    <desc lang="ja_JP">「認知についての心理学」放送大学准教授 星　薫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230221500 +0900" stop="20141230230000 +0900" channel="GR_1088" event_id="20754">
+    <title lang="ja_JP">和歌文学の世界　第3回「和泉式部の抒情」</title>
+    <desc lang="ja_JP">東京大学大学院教授 渡部　泰明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230230000 +0900" stop="20141230231500 +0900" channel="GR_1088" event_id="20757">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230231500 +0900" stop="20141231000000 +0900" channel="GR_1088" event_id="20758">
+    <title lang="ja_JP">和歌文学の世界　第4回「『伊勢物語』の和歌」</title>
+    <desc lang="ja_JP">電気通信大学教授 島内　景二</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231060000 +0900" stop="20141231064500 +0900" channel="GR_1088" event_id="20785">
+    <title lang="ja_JP">小児看護学　第5回</title>
+    <desc lang="ja_JP">「病気や入院が子どもと家族に与える影響とその看護」日本赤十字看護大学教授 筒井　真優美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231064500 +0900" stop="20141231073000 +0900" channel="GR_1088" event_id="20786">
+    <title lang="ja_JP">小児看護学　第6回</title>
+    <desc lang="ja_JP">「急性期にある子どもと家族　その①」日本赤十字看護大学准教授 江本　リナ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231073000 +0900" stop="20141231081500 +0900" channel="GR_1088" event_id="20787">
+    <title lang="ja_JP">ソフトウェアのしくみ　第5回「アルゴリズム」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231081500 +0900" stop="20141231090000 +0900" channel="GR_1088" event_id="20788">
+    <title lang="ja_JP">ソフトウェアのしくみ　第6回「高水準プログラム言語」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231090000 +0900" stop="20141231094500 +0900" channel="GR_1088" event_id="20789">
+    <title lang="ja_JP">色を探究する　第5回「色と言葉」</title>
+    <desc lang="ja_JP">放送大学准教授 佐藤　仁美　放送大学准教授 大橋　理枝</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231094500 +0900" stop="20141231103000 +0900" channel="GR_1088" event_id="20790">
+    <title lang="ja_JP">色を探究する　第6回「文化と色」</title>
+    <desc lang="ja_JP">放送大学准教授 佐藤　仁美　放送大学准教授 大橋　理枝　放送大学客員教授 本多　俊和</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231103000 +0900" stop="20141231111500 +0900" channel="GR_1088" event_id="20791">
+    <title lang="ja_JP">アーカイブス・比較思想論（’８６）〜比較思想論とは何かほか〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「比較思想論（’８６）〜比較思想論とは何かほか〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231111500 +0900" stop="20141231120000 +0900" channel="GR_1088" event_id="20792">
+    <title lang="ja_JP">食と健康　第5回</title>
+    <desc lang="ja_JP">「ビタミンとミネラル」放送大学教授 小城　勝相</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231120000 +0900" stop="20141231124500 +0900" channel="GR_1088" event_id="20793">
+    <title lang="ja_JP">食と健康　第6回</title>
+    <desc lang="ja_JP">「食品の嗜好成分」奈良女子大学大学院教授 菊﨑　泰枝</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231124500 +0900" stop="20141231130000 +0900" channel="GR_1088" event_id="20794">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231130000 +0900" stop="20141231134500 +0900" channel="GR_1088" event_id="20795">
+    <title lang="ja_JP">認知行動療法　第5回</title>
+    <desc lang="ja_JP">「認知行動療法の基本技法（１）－セルフモニターと行動活性化」新潟大学教授 神村　栄一　フリーアナウンサー 河田　京子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231134500 +0900" stop="20141231143000 +0900" channel="GR_1088" event_id="20800">
+    <title lang="ja_JP">認知行動療法　第6回「認知行動療法の基本技法（２）－リラクセーション」</title>
+    <desc lang="ja_JP">東京大学大学院教授 下山　晴彦</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231143000 +0900" stop="20141231151500 +0900" channel="GR_1088" event_id="20803">
+    <title lang="ja_JP">特別講義「自然災害では死なせない〜ある災害社会工学者の格闘〜」片田　敏孝</title>
+    <desc lang="ja_JP">群馬大学理工学研究院教授 片田　敏孝</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231151500 +0900" stop="20141231160000 +0900" channel="GR_1088" event_id="20804">
+    <title lang="ja_JP">母性看護学　第5回「妊娠期」</title>
+    <desc lang="ja_JP">新潟大学大学院保健学研究科教授 定方　美恵子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231160000 +0900" stop="20141231164500 +0900" channel="GR_1088" event_id="20805">
+    <title lang="ja_JP">母性看護学　第6回「分娩期」</title>
+    <desc lang="ja_JP">新潟大学大学院保健学研究科教授 定方　美恵子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231164500 +0900" stop="20141231173000 +0900" channel="GR_1088" event_id="20806">
+    <title lang="ja_JP">問題解決の進め方　第5回</title>
+    <desc lang="ja_JP">「解決への姿勢」放送大学名誉教授 東　千秋　放送大学客員教授 遠山　紘司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231173000 +0900" stop="20141231181500 +0900" channel="GR_1088" event_id="20807">
+    <title lang="ja_JP">問題解決の進め方　第6回</title>
+    <desc lang="ja_JP">「情報を収集し整理する」放送大学客員准教授 柴山　盛生</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231181500 +0900" stop="20141231190000 +0900" channel="GR_1088" event_id="20808">
+    <title lang="ja_JP">数学の歴史　第5回「アラビアの代数学」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231190000 +0900" stop="20141231194500 +0900" channel="GR_1088" event_id="20809">
+    <title lang="ja_JP">数学の歴史　第6回「中世西洋の数学」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231194500 +0900" stop="20141231200000 +0900" channel="GR_1088" event_id="20810">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231200000 +0900" stop="20141231204500 +0900" channel="GR_1088" event_id="20811">
+    <title lang="ja_JP">特別番組「学ぶ仲間「あなたが主役」」</title>
+    <desc lang="ja_JP">「学ぶ仲間「あなたが主役」」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231204500 +0900" stop="20141231213000 +0900" channel="GR_1088" event_id="20812">
+    <title lang="ja_JP">心理学概論　第5回</title>
+    <desc lang="ja_JP">「学習についての心理学」放送大学准教授 星　薫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231213000 +0900" stop="20141231221500 +0900" channel="GR_1088" event_id="20817">
+    <title lang="ja_JP">心理学概論　第6回</title>
+    <desc lang="ja_JP">「犯罪についての心理学」放送大学准教授 森　津太子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231221500 +0900" stop="20141231230000 +0900" channel="GR_1088" event_id="20820">
+    <title lang="ja_JP">和歌文学の世界　第5回「『源氏物語』の和歌」</title>
+    <desc lang="ja_JP">電気通信大学教授 島内　景二</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231230000 +0900" stop="20141231231500 +0900" channel="GR_1088" event_id="20823">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231231500 +0900" stop="20150101000000 +0900" channel="GR_1088" event_id="20824">
+    <title lang="ja_JP">和歌文学の世界　第6回「西行の恋歌」</title>
+    <desc lang="ja_JP">東京大学大学院教授 渡部　泰明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101060000 +0900" stop="20150101064500 +0900" channel="GR_1088" event_id="20851">
+    <title lang="ja_JP">小児看護学　第7回</title>
+    <desc lang="ja_JP">「急性期にある子どもと家族　その②」日本赤十字看護大学准教授 江本　リナ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101064500 +0900" stop="20150101073000 +0900" channel="GR_1088" event_id="20852">
+    <title lang="ja_JP">小児看護学　第8回</title>
+    <desc lang="ja_JP">「慢性期にある子どもと家族／外来における看護」日本赤十字看護大学准教授 川名るり</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101073000 +0900" stop="20150101081500 +0900" channel="GR_1088" event_id="20853">
+    <title lang="ja_JP">ソフトウェアのしくみ　第7回「オブジェクト指向プログラム言語（１）」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101081500 +0900" stop="20150101090000 +0900" channel="GR_1088" event_id="20854">
+    <title lang="ja_JP">ソフトウェアのしくみ　第8回「オブジェクト指向プログラム言語（２）」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101090000 +0900" stop="20150101094500 +0900" channel="GR_1088" event_id="20855">
+    <title lang="ja_JP">色を探究する　第7回</title>
+    <desc lang="ja_JP">「社会の中の色〜ジェンダーの視点を中心に〜」放送大学准教授 佐藤　仁美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101094500 +0900" stop="20150101103000 +0900" channel="GR_1088" event_id="20856">
+    <title lang="ja_JP">大学院案内２０１５「修士課程・博士後期課程」</title>
+    <desc lang="ja_JP">「修士課程・博士後期課程」放送大学教授　宮本みち子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101103000 +0900" stop="20150101111500 +0900" channel="GR_1088" event_id="20857">
+    <title lang="ja_JP">特別講義・画文共鳴</title>
+    <desc lang="ja_JP">「画文共鳴〜文学と美術の交流〜」甲南大学文学部教授 木股　知史</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101111500 +0900" stop="20150101120000 +0900" channel="GR_1088" event_id="20858">
+    <title lang="ja_JP">食と健康　第7回</title>
+    <desc lang="ja_JP">「消化・吸収・代謝系」東京大学名誉教授 清水　誠</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101120000 +0900" stop="20150101124500 +0900" channel="GR_1088" event_id="20859">
+    <title lang="ja_JP">特別講義・近代小説の誕生</title>
+    <desc lang="ja_JP">「近代小説の誕生－バルザック『人間喜劇』をめぐって」大手前大学副学長 柏木　隆雄</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101124500 +0900" stop="20150101130000 +0900" channel="GR_1088" event_id="20860">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101130000 +0900" stop="20150101134500 +0900" channel="GR_1088" event_id="20861">
+    <title lang="ja_JP">認知行動療法　第7回「認知行動療法の技法群（１）－応用行動分析①」</title>
+    <desc lang="ja_JP">同志社大学教授 武藤　崇　フリーアナウンサー 河田　京子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101134500 +0900" stop="20150101143000 +0900" channel="GR_1088" event_id="20866">
+    <title lang="ja_JP">特別講義「ウナギ　大回遊の謎を追う」塚本　勝巳</title>
+    <desc lang="ja_JP">日本大学教授 塚本　勝巳</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101143000 +0900" stop="20150101151500 +0900" channel="GR_1088" event_id="20869">
+    <title lang="ja_JP">特別講義「伝承芸能の魅力－薩摩川内市の東郷文弥節人形浄瑠璃－」</title>
+    <desc lang="ja_JP">鹿児島大学名誉教授 中山　右尚　鹿児島国際大学教授 野中　哲照</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101151500 +0900" stop="20150101160000 +0900" channel="GR_1088" event_id="20870">
+    <title lang="ja_JP">母性看護学　第7回「産褥期」</title>
+    <desc lang="ja_JP">東京医科歯科大学講師 三隅　順子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101160000 +0900" stop="20150101164500 +0900" channel="GR_1088" event_id="20871">
+    <title lang="ja_JP">母性看護学　第8回「新生児期」</title>
+    <desc lang="ja_JP">東京医科歯科大学講師 三隅　順子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101164500 +0900" stop="20150101173000 +0900" channel="GR_1088" event_id="20872">
+    <title lang="ja_JP">問題解決の進め方　第7回</title>
+    <desc lang="ja_JP">「グラフを活用する」元北里大学教授 大林　康二</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101173000 +0900" stop="20150101181500 +0900" channel="GR_1088" event_id="20873">
+    <title lang="ja_JP">問題解決の進め方　第8回</title>
+    <desc lang="ja_JP">「数値情報を扱う」放送大学客員教授 遠山　紘司　元北里大学教授 大林　康二</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101181500 +0900" stop="20150101190000 +0900" channel="GR_1088" event_id="20874">
+    <title lang="ja_JP">数学の歴史　第7回「中世算法学派」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101190000 +0900" stop="20150101194500 +0900" channel="GR_1088" event_id="20875">
+    <title lang="ja_JP">特別講義・渡り鳥の旅を追う</title>
+    <desc lang="ja_JP">「渡り鳥の旅を追う」東京大学名誉教授 樋口　広芳</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101194500 +0900" stop="20150101200000 +0900" channel="GR_1088" event_id="20876">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101200000 +0900" stop="20150101204500 +0900" channel="GR_1088" event_id="20877">
+    <title lang="ja_JP">特別講義・アディクション</title>
+    <desc lang="ja_JP">「アディクション〜その現実と回復への支援〜」横浜市立大学大学院教授 松下　年子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101204500 +0900" stop="20150101213000 +0900" channel="GR_1088" event_id="20878">
+    <title lang="ja_JP">心理学概論　第7回</title>
+    <desc lang="ja_JP">「性格についての心理学」放送大学准教授 森　津太子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101213000 +0900" stop="20150101221500 +0900" channel="GR_1088" event_id="20883">
+    <title lang="ja_JP">あなたの知りたい放送大学「コースガイド」</title>
+    <desc lang="ja_JP">「コースガイド」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101221500 +0900" stop="20150101230000 +0900" channel="GR_1088" event_id="20886">
+    <title lang="ja_JP">和歌文学の世界　第7回「藤原定家の方法」</title>
+    <desc lang="ja_JP">東京大学大学院教授 渡部　泰明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101230000 +0900" stop="20150101231500 +0900" channel="GR_1088" event_id="20889">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101231500 +0900" stop="20150102000000 +0900" channel="GR_1088" event_id="20890">
+    <title lang="ja_JP">和歌文学の世界　第8回「叙景歌の系譜」</title>
+    <desc lang="ja_JP">東京大学大学院教授 渡部　泰明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102060000 +0900" stop="20150102064500 +0900" channel="GR_1088" event_id="20917">
+    <title lang="ja_JP">小児看護学　第9回</title>
+    <desc lang="ja_JP">「子どもへの説明」日本赤十字看護大学教授 筒井　真優美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102064500 +0900" stop="20150102073000 +0900" channel="GR_1088" event_id="20918">
+    <title lang="ja_JP">小児看護学　第10回</title>
+    <desc lang="ja_JP">「先天性の疾患を持つ子どもと家族の看護」日本赤十字看護大学准教授 川名　るり</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102073000 +0900" stop="20150102081500 +0900" channel="GR_1088" event_id="20919">
+    <title lang="ja_JP">ソフトウェアのしくみ　第9回「マルチメディア」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102081500 +0900" stop="20150102090000 +0900" channel="GR_1088" event_id="20920">
+    <title lang="ja_JP">ソフトウェアのしくみ　第10回「オペレーティングシステム」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102090000 +0900" stop="20150102094500 +0900" channel="GR_1088" event_id="20921">
+    <title lang="ja_JP">色を探究する　第8回「生活の中の色」</title>
+    <desc lang="ja_JP">放送大学准教授 佐藤　仁美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102094500 +0900" stop="20150102103000 +0900" channel="GR_1088" event_id="20922">
+    <title lang="ja_JP">色を探究する　第9回「日本の伝統色〜漆器の色を中心に〜」</title>
+    <desc lang="ja_JP">放送大学准教授 佐藤　仁美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102103000 +0900" stop="20150102111500 +0900" channel="GR_1088" event_id="20923">
+    <title lang="ja_JP">特別講義「脳波で動く１／ｆゆらぎ癒しロボット」白石　昌武</title>
+    <desc lang="ja_JP">茨城大学名誉教授 白石　昌武　アナウンサー 鷹觜　亜希子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102111500 +0900" stop="20150102120000 +0900" channel="GR_1088" event_id="20924">
+    <title lang="ja_JP">食と健康　第8回</title>
+    <desc lang="ja_JP">「食品と免疫」東京大学名誉教授 清水　誠</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102120000 +0900" stop="20150102124500 +0900" channel="GR_1088" event_id="20925">
+    <title lang="ja_JP">食と健康　第9回</title>
+    <desc lang="ja_JP">「生体内酸化」放送大学教授 小城　勝相</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102124500 +0900" stop="20150102130000 +0900" channel="GR_1088" event_id="20926">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102130000 +0900" stop="20150102134500 +0900" channel="GR_1088" event_id="20927">
+    <title lang="ja_JP">認知行動療法　第8回「認知行動療法の技法群（１）－応用行動分析②」</title>
+    <desc lang="ja_JP">同志社大学教授 武藤　崇　フリーアナウンサー 河田　京子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102134500 +0900" stop="20150102143000 +0900" channel="GR_1088" event_id="20932">
+    <title lang="ja_JP">認知行動療法　第9回</title>
+    <desc lang="ja_JP">「認知行動療法の技法群（２）－エクスポージャーの基礎とその段階的な進め方」新潟大学教授 神村　栄一　フリーアナウンサー 河田　京子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102143000 +0900" stop="20150102151500 +0900" channel="GR_1088" event_id="20935">
+    <title lang="ja_JP">大学院案内２０１５「修士課程・博士後期課程」</title>
+    <desc lang="ja_JP">「修士課程・博士後期課程」放送大学教授　宮本みち子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102151500 +0900" stop="20150102160000 +0900" channel="GR_1088" event_id="20936">
+    <title lang="ja_JP">母性看護学　第9回「ハイリスク妊娠・分娩・産褥・新生児」</title>
+    <desc lang="ja_JP">東京医科歯科大学講師 三隅　順子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102160000 +0900" stop="20150102164500 +0900" channel="GR_1088" event_id="20937">
+    <title lang="ja_JP">母性看護学　第10回「ハイリスク妊娠・分娩・産褥期の事例」</title>
+    <desc lang="ja_JP">昭和大学病院講師 佐藤　陽子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102164500 +0900" stop="20150102173000 +0900" channel="GR_1088" event_id="20938">
+    <title lang="ja_JP">問題解決の進め方　第9回</title>
+    <desc lang="ja_JP">「図解化して見る」放送大学客員准教授 柴山　盛生</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102173000 +0900" stop="20150102181500 +0900" channel="GR_1088" event_id="20939">
+    <title lang="ja_JP">問題解決の進め方　第10回</title>
+    <desc lang="ja_JP">「分析的に考える」放送大学客員准教授 柴山　盛生</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102181500 +0900" stop="20150102190000 +0900" channel="GR_1088" event_id="20940">
+    <title lang="ja_JP">数学の歴史　第8回「イタリアの３次方程式」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102190000 +0900" stop="20150102194500 +0900" channel="GR_1088" event_id="20941">
+    <title lang="ja_JP">数学の歴史　第9回「ルネサンス数学」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102194500 +0900" stop="20150102200000 +0900" channel="GR_1088" event_id="20942">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102200000 +0900" stop="20150102204500 +0900" channel="GR_1088" event_id="20943">
+    <title lang="ja_JP">アーカイブス・古代史を掘る</title>
+    <desc lang="ja_JP">もう一度みたい名講義　特別講義編〜放送大学アーカイブス〜「古代史を掘る」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102204500 +0900" stop="20150102213000 +0900" channel="GR_1088" event_id="20944">
+    <title lang="ja_JP">心理学概論　第8回</title>
+    <desc lang="ja_JP">「臨床心理学」放送大学准教授 森　津太子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102213000 +0900" stop="20150102221500 +0900" channel="GR_1088" event_id="20949">
+    <title lang="ja_JP">心理学概論　第9回</title>
+    <desc lang="ja_JP">「判断と意思決定の心理学」放送大学准教授 森　津太子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102221500 +0900" stop="20150102230000 +0900" channel="GR_1088" event_id="20952">
+    <title lang="ja_JP">和歌文学の世界　第9回「九相図の和歌」</title>
+    <desc lang="ja_JP">東京大学大学院教授 渡部　泰明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102230000 +0900" stop="20150102231500 +0900" channel="GR_1088" event_id="20955">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102231500 +0900" stop="20150103000000 +0900" channel="GR_1088" event_id="20956">
+    <title lang="ja_JP">和歌文学の世界　第10回「和歌・連歌・俳諧」</title>
+    <desc lang="ja_JP">放送大学教授 島内　裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103060000 +0900" stop="20150103064500 +0900" channel="GR_1088" event_id="20983">
+    <title lang="ja_JP">小児看護学　第11回</title>
+    <desc lang="ja_JP">「手術を受ける子どもと家族の看護」日本赤十字看護大学准教授 川名　るり</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103064500 +0900" stop="20150103073000 +0900" channel="GR_1088" event_id="20984">
+    <title lang="ja_JP">小児看護学　第12回</title>
+    <desc lang="ja_JP">「子どもの事故と救急」日本赤十字看護大学准教授 江本　リナ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103073000 +0900" stop="20150103081500 +0900" channel="GR_1088" event_id="20985">
+    <title lang="ja_JP">ソフトウェアのしくみ　第11回「リスト構造とデータベース（１）」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103081500 +0900" stop="20150103090000 +0900" channel="GR_1088" event_id="20986">
+    <title lang="ja_JP">ソフトウェアのしくみ　第12回「リスト構造とデータベース（２）」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103090000 +0900" stop="20150103094500 +0900" channel="GR_1088" event_id="20987">
+    <title lang="ja_JP">色を探究する　第10回「古典文学に見る色」</title>
+    <desc lang="ja_JP">放送大学准教授 佐藤　仁美　放送大学准教授 大橋　理枝</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103094500 +0900" stop="20150103103000 +0900" channel="GR_1088" event_id="20988">
+    <title lang="ja_JP">色を探究する　第11回「黒い聖母」</title>
+    <desc lang="ja_JP">放送大学教授 青山　昌文</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103103000 +0900" stop="20150103111500 +0900" channel="GR_1088" event_id="20989">
+    <title lang="ja_JP">特別番組「学ぶ仲間「あなたが主役」」</title>
+    <desc lang="ja_JP">「学ぶ仲間「あなたが主役」」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103111500 +0900" stop="20150103120000 +0900" channel="GR_1088" event_id="20990">
+    <title lang="ja_JP">食と健康　第10回</title>
+    <desc lang="ja_JP">「生活習慣病と食生活Ⅰ肥満とやせ・メタボリックシンドローム」新潟大学大学院教授 曽根　博仁</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103120000 +0900" stop="20150103124500 +0900" channel="GR_1088" event_id="20991">
+    <title lang="ja_JP">食と健康　第11回</title>
+    <desc lang="ja_JP">「生活習慣病と食生活Ⅱ糖尿病」新潟大学大学院教授 曽根　博仁</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103124500 +0900" stop="20150103130000 +0900" channel="GR_1088" event_id="20992">
+    <title lang="ja_JP">授業科目案内〜大学の窓「日常生活のデジタルメディア」</title>
+    <desc lang="ja_JP">「日常生活のデジタルメディア」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103130000 +0900" stop="20150103134500 +0900" channel="GR_1088" event_id="20993">
+    <title lang="ja_JP">認知行動療法　第10回</title>
+    <desc lang="ja_JP">「認知行動療法の技法群（２）－集中的・持続的エクスポージャー」新潟大学教授 神村　栄一　フリーアナウンサー 河田　京子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103134500 +0900" stop="20150103143000 +0900" channel="GR_1088" event_id="20998">
+    <title lang="ja_JP">認知行動療法　第11回「認知行動療法の技法群（３）－認知療法①」</title>
+    <desc lang="ja_JP">東京大学大学院専任講師 石丸　径一郎　フリーアナウンサー 河田　京子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103143000 +0900" stop="20150103151500 +0900" channel="GR_1088" event_id="21001">
+    <title lang="ja_JP">特別講義「女性アスリートの育成と支援、その課題」小笠原　悦子</title>
+    <desc lang="ja_JP">順天堂大学大学院教授 小笠原　悦子　アナウンサー 斎藤　綾乃</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103151500 +0900" stop="20150103160000 +0900" channel="GR_1088" event_id="21002">
+    <title lang="ja_JP">母性看護学　第11回「周産期の安全と質の保証」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 齋藤　いずみ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103160000 +0900" stop="20150103164500 +0900" channel="GR_1088" event_id="21003">
+    <title lang="ja_JP">母性看護学　第12回「母性看護学における倫理的諸問題」</title>
+    <desc lang="ja_JP">新潟大学大学院保健学研究科教授 定方　美恵子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103164500 +0900" stop="20150103173000 +0900" channel="GR_1088" event_id="21004">
+    <title lang="ja_JP">問題解決の進め方　第11回</title>
+    <desc lang="ja_JP">「発想を広げる」放送大学客員准教授 柴山　盛生</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103173000 +0900" stop="20150103181500 +0900" channel="GR_1088" event_id="21005">
+    <title lang="ja_JP">問題解決の進め方　第12回</title>
+    <desc lang="ja_JP">「コミュニケーションの取り方」放送大学名誉教授 東　千秋　放送大学客員教授 遠山　紘司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103181500 +0900" stop="20150103190000 +0900" channel="GR_1088" event_id="21006">
+    <title lang="ja_JP">数学の歴史　第10回「デカルトの時代の数学」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103190000 +0900" stop="20150103194500 +0900" channel="GR_1088" event_id="21007">
+    <title lang="ja_JP">数学の歴史　第11回「対数の発見」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103194500 +0900" stop="20150103200000 +0900" channel="GR_1088" event_id="21008">
+    <title lang="ja_JP">授業科目案内〜大学の窓「日常生活のデジタルメディア」</title>
+    <desc lang="ja_JP">「日常生活のデジタルメディア」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103200000 +0900" stop="20150103204500 +0900" channel="GR_1088" event_id="21009">
+    <title lang="ja_JP">アーカイブス・生と死を考える</title>
+    <desc lang="ja_JP">もう一度みたい名講義　特別講義編〜放送大学アーカイブス〜「生と死を考える」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103204500 +0900" stop="20150103213000 +0900" channel="GR_1088" event_id="21010">
+    <title lang="ja_JP">心理学概論　第10回</title>
+    <desc lang="ja_JP">「産業心理学」放送大学准教授 星　薫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103213000 +0900" stop="20150103221500 +0900" channel="GR_1088" event_id="21015">
+    <title lang="ja_JP">心理学概論　第11回</title>
+    <desc lang="ja_JP">「組織心理学」放送大学准教授 森　津太子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103221500 +0900" stop="20150103230000 +0900" channel="GR_1088" event_id="21018">
+    <title lang="ja_JP">和歌文学の世界　第11回「武家文化と和歌」</title>
+    <desc lang="ja_JP">放送大学教授 島内　裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103230000 +0900" stop="20150103231500 +0900" channel="GR_1088" event_id="21021">
+    <title lang="ja_JP">授業科目案内〜大学の窓「日常生活のデジタルメディア」</title>
+    <desc lang="ja_JP">「日常生活のデジタルメディア」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103231500 +0900" stop="20150104000000 +0900" channel="GR_1088" event_id="21022">
+    <title lang="ja_JP">和歌文学の世界　第12回「橘守部と歌論」</title>
+    <desc lang="ja_JP">放送大学教授 島内　裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104060000 +0900" stop="20150104064500 +0900" channel="GR_1088" event_id="21049">
+    <title lang="ja_JP">小児看護学　第13回</title>
+    <desc lang="ja_JP">「障害のある子どもと家族／在宅ケア」京都大学大学院教授 鈴木　真知子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104064500 +0900" stop="20150104073000 +0900" channel="GR_1088" event_id="21050">
+    <title lang="ja_JP">小児看護学　第14回</title>
+    <desc lang="ja_JP">「隔離・活動制限／痛み」日本赤十字看護大学准教授 江本　リナ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104073000 +0900" stop="20150104081500 +0900" channel="GR_1088" event_id="21051">
+    <title lang="ja_JP">小児看護学　第15回</title>
+    <desc lang="ja_JP">「子どもの死と家族への看護」日本赤十字看護大学教授 筒井　真優美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104081500 +0900" stop="20150104090000 +0900" channel="GR_1088" event_id="21052">
+    <title lang="ja_JP">ソフトウェアのしくみ　第13回「応用ソフトウェア」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一　フリーアナウンサー 遠藤　由実</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104090000 +0900" stop="20150104094500 +0900" channel="GR_1088" event_id="21053">
+    <title lang="ja_JP">色を探究する　第12回「『ベアトゥス黙示録注解』写本挿絵」</title>
+    <desc lang="ja_JP">放送大学教授 青山　昌文</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104094500 +0900" stop="20150104103000 +0900" channel="GR_1088" event_id="21054">
+    <title lang="ja_JP">色を探究する　第13回「環境の中の色彩Ⅰ（建築学的視点）」</title>
+    <desc lang="ja_JP">東京工業大学名誉教授 仙田　満</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104103000 +0900" stop="20150104111500 +0900" channel="GR_1088" event_id="21055">
+    <title lang="ja_JP">あなたの知りたい放送大学「コースガイド」</title>
+    <desc lang="ja_JP">「コースガイド」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104111500 +0900" stop="20150104120000 +0900" channel="GR_1088" event_id="21056">
+    <title lang="ja_JP">食と健康　第12回</title>
+    <desc lang="ja_JP">「生活習慣病と食生活Ⅲ動脈硬化とその他の生活習慣病」新潟大学大学院教授 曽根　博仁</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104120000 +0900" stop="20150104124500 +0900" channel="GR_1088" event_id="21057">
+    <title lang="ja_JP">食と健康　第13回</title>
+    <desc lang="ja_JP">「食品安全とリスク分析」北海道大学名誉教授 一色　賢司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104124500 +0900" stop="20150104130000 +0900" channel="GR_1088" event_id="21058">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104130000 +0900" stop="20150104134500 +0900" channel="GR_1088" event_id="21059">
+    <title lang="ja_JP">認知行動療法　第12回「認知行動療法の技法群（３）－認知療法②」</title>
+    <desc lang="ja_JP">東京大学大学院専任講師 石丸　径一郎　フリーアナウンサー 河田　京子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104134500 +0900" stop="20150104143000 +0900" channel="GR_1088" event_id="21064">
+    <title lang="ja_JP">認知行動療法　第13回「第３世代の認知行動療法－ＡＣＴを中心に」</title>
+    <desc lang="ja_JP">同志社大学教授 武藤　崇</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104143000 +0900" stop="20150104151500 +0900" channel="GR_1088" event_id="21067">
+    <title lang="ja_JP">特別講義・和紙彫塑の美を究める</title>
+    <desc lang="ja_JP">「和紙彫塑の美を究める」和紙彫塑家 内海　清美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104151500 +0900" stop="20150104160000 +0900" channel="GR_1088" event_id="21068">
+    <title lang="ja_JP">母性看護学　第13回「ライフサイクル思春期」</title>
+    <desc lang="ja_JP">神戸大学大学院保健学研究科准教授 千場　直美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104160000 +0900" stop="20150104164500 +0900" channel="GR_1088" event_id="21069">
+    <title lang="ja_JP">母性看護学　第14回「ライフサイクル更年期・老年期」</title>
+    <desc lang="ja_JP">神戸大学大学院保健学研究科准教授 千場　直美</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104164500 +0900" stop="20150104173000 +0900" channel="GR_1088" event_id="21070">
+    <title lang="ja_JP">母性看護学　第15回「世界の周産期医療システムと日本の課題」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 齋藤　いずみ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104173000 +0900" stop="20150104181500 +0900" channel="GR_1088" event_id="21071">
+    <title lang="ja_JP">問題解決の進め方　第13回</title>
+    <desc lang="ja_JP">「個人と組織での進め方」放送大学客員教授 遠山　紘司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104181500 +0900" stop="20150104190000 +0900" channel="GR_1088" event_id="21072">
+    <title lang="ja_JP">数学の歴史　第12回「ニュートン」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104190000 +0900" stop="20150104194500 +0900" channel="GR_1088" event_id="21073">
+    <title lang="ja_JP">数学の歴史　第13回「ライプニッツ」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 三浦　伸夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104194500 +0900" stop="20150104200000 +0900" channel="GR_1088" event_id="21074">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104200000 +0900" stop="20150104204500 +0900" channel="GR_1088" event_id="21075">
+    <title lang="ja_JP">アーカイブス・チンパンジーからみた世界</title>
+    <desc lang="ja_JP">もう一度みたい名講義　特別講義編〜放送大学アーカイブス〜「チンパンジーからみた世界」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104204500 +0900" stop="20150104213000 +0900" channel="GR_1088" event_id="21076">
+    <title lang="ja_JP">心理学概論　第12回</title>
+    <desc lang="ja_JP">「消費者行動と心理学」放送大学准教授 森　津太子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104213000 +0900" stop="20150104221500 +0900" channel="GR_1088" event_id="21081">
+    <title lang="ja_JP">心理学概論　第13回</title>
+    <desc lang="ja_JP">「心理学的測定」放送大学准教授 星　薫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104221500 +0900" stop="20150104230000 +0900" channel="GR_1088" event_id="21084">
+    <title lang="ja_JP">和歌文学の世界　第13回「樋口一葉の和歌」</title>
+    <desc lang="ja_JP">放送大学教授 島内　裕子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104230000 +0900" stop="20150104231500 +0900" channel="GR_1088" event_id="21087">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104231500 +0900" stop="20150105000000 +0900" channel="GR_1088" event_id="21088">
+    <title lang="ja_JP">生命起源の謎に迫るGADV仮説</title>
+    <desc lang="ja_JP">特別講義「生命起源の謎に迫るＧＡＤＶ仮説」放送大学奈良学習センター所長 池原　健二</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105000000 +0900" stop="20150105001500 +0900" channel="GR_1088" event_id="21089">
+    <title lang="ja_JP">放送大学イメージソング・学歌</title>
+    <desc lang="ja_JP">「『人間の贅沢、ひとつ』『と・も・た・ち』歌・小椋佳『放送大学学歌・混声四部合唱』」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105060000 +0900" stop="20150105064500 +0900" channel="GR_1088" event_id="21117">
+    <title lang="ja_JP">映像メディアとCGの基礎　第13回</title>
+    <desc lang="ja_JP">「立体視システム」放送大学教授 近藤　智嗣　フリーアナウンサー・レポーター 宮田　英里</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105064500 +0900" stop="20150105073000 +0900" channel="GR_1088" event_id="21118">
+    <title lang="ja_JP">自治体ガバナンス　第13回「自治体のネットワーク」</title>
+    <desc lang="ja_JP">早稲田大学政治経済学術院教授 稲継　裕昭</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105073000 +0900" stop="20150105081500 +0900" channel="GR_1088" event_id="21119">
+    <title lang="ja_JP">社会学入門　第13回</title>
+    <desc lang="ja_JP">「情報化・グローバル化の進展と今後の日本」九州工業大学教授 安河内恵子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105081500 +0900" stop="20150105090000 +0900" channel="GR_1088" event_id="21120">
+    <title lang="ja_JP">エネルギーと社会　第13回</title>
+    <desc lang="ja_JP">「自動車とエネルギー」東京工業大学特命教授 柏木　孝夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105090000 +0900" stop="20150105094500 +0900" channel="GR_1088" event_id="21121">
+    <title lang="ja_JP">情報の世界　第13回</title>
+    <desc lang="ja_JP">「情報活動と法環境」関西大学准教授 福島　力洋　きき手 岩田　まこ都</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105094500 +0900" stop="20150105103000 +0900" channel="GR_1088" event_id="21122">
+    <title lang="ja_JP">疾病の成立と回復促進　　第13回</title>
+    <desc lang="ja_JP">「内部環境調節機能の障害」名古屋大学大学院教授 山内　豊明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105103000 +0900" stop="20150105111500 +0900" channel="GR_1088" event_id="21123">
+    <title lang="ja_JP">動物の科学　第13回</title>
+    <desc lang="ja_JP">「動物の行動とホルモン」東京大学大学院教授 石浦  章一</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105111500 +0900" stop="20150105120000 +0900" channel="GR_1088" event_id="21124">
+    <title lang="ja_JP">初歩からの物理学　第13回</title>
+    <desc lang="ja_JP">「電磁波とアインシュタイン」放送大学教授 米谷　民明</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105120000 +0900" stop="20150105124500 +0900" channel="GR_1088" event_id="21125">
+    <title lang="ja_JP">地域社会の教育的再編　　第13回</title>
+    <desc lang="ja_JP">「人材の養成と移動〜職能形成の過程〜」放送大学准教授 岡崎　友典　國學院大学教授 夏秋　英房</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105124500 +0900" stop="20150105130000 +0900" channel="GR_1088" event_id="21126">
+    <title lang="ja_JP">授業科目案内〜大学の窓「産業とデザイン・都市社会の社会学」</title>
+    <desc lang="ja_JP">「産業とデザイン・都市社会の社会学」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105130000 +0900" stop="20150105134500 +0900" channel="GR_1088" event_id="21127">
+    <title lang="ja_JP">博物館資料保存論　第13回</title>
+    <desc lang="ja_JP">「博物館におけるIPM：総合的有害生物管理（1）」九州国立博物館特任研究員 本田　光子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105134500 +0900" stop="20150105143000 +0900" channel="GR_1088" event_id="21132">
+    <title lang="ja_JP">現代地球科学　第13回</title>
+    <desc lang="ja_JP">「地震と火山のしくみ」名古屋大学名誉教授 藤井　直之</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105143000 +0900" stop="20150105151500 +0900" channel="GR_1088" event_id="21135">
+    <title lang="ja_JP">循環器病の健康科学　13回</title>
+    <desc lang="ja_JP">「日本人の循環器病」日本公衆衛生協会会長 多田羅　浩三</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105151500 +0900" stop="20150105160000 +0900" channel="GR_1088" event_id="21136">
+    <title lang="ja_JP">心理学概論　第13回</title>
+    <desc lang="ja_JP">「心理学的測定」放送大学准教授 星　薫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105160000 +0900" stop="20150105164500 +0900" channel="GR_1088" event_id="21137">
+    <title lang="ja_JP">コンピュータのしくみ　第13回「制御部１」</title>
+    <desc lang="ja_JP">放送大学長 岡部　洋一</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105164500 +0900" stop="20150105173000 +0900" channel="GR_1088" event_id="21138">
+    <title lang="ja_JP">芸術史と芸術理論　第13回</title>
+    <desc lang="ja_JP">「２０世紀美術〜戦争の世紀の芸術〜」放送大学教授 青山  昌文</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105173000 +0900" stop="20150105181500 +0900" channel="GR_1088" event_id="21139">
+    <title lang="ja_JP">博物館概論　第13回</title>
+    <desc lang="ja_JP">「記憶と博物館」国立民族学博物館教授 吉田  憲司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105181500 +0900" stop="20150105190000 +0900" channel="GR_1088" event_id="21140">
+    <title lang="ja_JP">物質・材料工学と社会　　第13回</title>
+    <desc lang="ja_JP">「原子炉、飛行体」放送大学客員教授 秋鹿　研一　東京工業大学名誉教授 藤井　靖彦</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105190000 +0900" stop="20150105194500 +0900" channel="GR_1088" event_id="21141">
+    <title lang="ja_JP">在宅看護論　第13回</title>
+    <desc lang="ja_JP">「在宅ターミナルケア」茨城県立中央病院看護局長 角田　直枝</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105194500 +0900" stop="20150105200000 +0900" channel="GR_1088" event_id="21142">
+    <title lang="ja_JP">授業科目案内〜大学の窓「産業とデザイン・都市社会の社会学」</title>
+    <desc lang="ja_JP">「産業とデザイン・都市社会の社会学」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105200000 +0900" stop="20150105204500 +0900" channel="GR_1088" event_id="21143">
+    <title lang="ja_JP">日本美術史　第13回「早過ぎた近代ー江戸時代中期（２）・後期（１）」</title>
+    <desc lang="ja_JP">東京大学教授 佐藤　康宏</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105204500 +0900" stop="20150105213000 +0900" channel="GR_1088" event_id="21144">
+    <title lang="ja_JP">日本政治外交史　第13回「政治改革と細川護煕内閣」</title>
+    <desc lang="ja_JP">放送大学教授 御厨　貴　東京大学教授 牧原　出</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105213000 +0900" stop="20150105221500 +0900" channel="GR_1088" event_id="21149">
+    <title lang="ja_JP">中国語Ⅰ　第13回「北京小吃」</title>
+    <desc lang="ja_JP">放送大学准教授 宮本　徹　名古屋大学特任准教授 盧　建</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105221500 +0900" stop="20150105230000 +0900" channel="GR_1088" event_id="21152">
+    <title lang="ja_JP">アジアと漢字文化　第13回</title>
+    <desc lang="ja_JP">「日本語と漢字（１）」成城大学教授 陳　力衛</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105230000 +0900" stop="20150105231500 +0900" channel="GR_1088" event_id="21155">
+    <title lang="ja_JP">授業科目案内〜大学の窓「産業とデザイン・都市社会の社会学」</title>
+    <desc lang="ja_JP">「産業とデザイン・都市社会の社会学」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105231500 +0900" stop="20150106000000 +0900" channel="GR_1088" event_id="21156">
+    <title lang="ja_JP">太陽系の科学　第13回「無数の惑星系の中で」</title>
+    <desc lang="ja_JP">国立天文台名誉教授 海部　宣男　科学コミュニケーター 岡山　悠子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229130000 +0900" stop="20141229134500 +0900" channel="GR_1089" event_id="20662">
+    <title lang="ja_JP">ファイナンス入門　第1回</title>
+    <desc lang="ja_JP">「ファイナンス概論」放送大学准教授 齋藤　正章　高崎経済大学教授 阿部　圭司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229134500 +0900" stop="20141229143000 +0900" channel="GR_1089" event_id="20667">
+    <title lang="ja_JP">ファイナンス入門　第2回</title>
+    <desc lang="ja_JP">「時間の価値と割引現在価値」高崎経済大学教授 阿部　圭司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229143000 +0900" stop="20141229151500 +0900" channel="GR_1089" event_id="20669">
+    <title lang="ja_JP">特別講義・紛争予防学とは何か</title>
+    <desc lang="ja_JP">「紛争予防学」とは何か◇東京外国語大学大学院教授 伊勢崎　賢治</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229151500 +0900" stop="20141229160000 +0900" channel="GR_1089" event_id="20670">
+    <title lang="ja_JP">母性看護学　第1回「母性看護学の概要」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 齋藤　いずみ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229204500 +0900" stop="20141229213000 +0900" channel="GR_1089" event_id="20679">
+    <title lang="ja_JP">特別講義・欧文絵本ちりめん本の魅力</title>
+    <desc lang="ja_JP">「欧文絵本ちりめん本の魅力」梅花女子大学名誉教授 石澤　小枝子　雄松堂書店古書部長 新田　勇</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229213000 +0900" stop="20141229221500 +0900" channel="GR_1089" event_id="20684">
+    <title lang="ja_JP">人体の構造と機能　第1回</title>
+    <desc lang="ja_JP">「人体の基本構造と機能」大阪大学名誉教授 大和谷　厚</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229221500 +0900" stop="20141229230000 +0900" channel="GR_1089" event_id="20687">
+    <title lang="ja_JP">人体の構造と機能　第2回</title>
+    <desc lang="ja_JP">「恒常性の維持」早稲田大学大学院教授 彼末　一之</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230130000 +0900" stop="20141230134500 +0900" channel="GR_1089" event_id="20730">
+    <title lang="ja_JP">ファイナンス入門　第3回</title>
+    <desc lang="ja_JP">「リスクとリターン」高崎経済大学教授 阿部　圭司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230134500 +0900" stop="20141230143000 +0900" channel="GR_1089" event_id="20735">
+    <title lang="ja_JP">ファイナンス入門　第4回</title>
+    <desc lang="ja_JP">「ポートフォリオのリターンとリスク」高崎経済大学教授 阿部　圭司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230204500 +0900" stop="20141230213000 +0900" channel="GR_1089" event_id="20747">
+    <title lang="ja_JP">屏風絵から見える近世の日本</title>
+    <desc lang="ja_JP">特別講義「屏風絵から見える近世の日本〜泰西王侯騎馬図屏風〜」放送大学教授 杉森  哲也</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230213000 +0900" stop="20141230221500 +0900" channel="GR_1089" event_id="20752">
+    <title lang="ja_JP">人体の構造と機能　第3回</title>
+    <desc lang="ja_JP">「栄養と代謝」大阪大学名誉教授 大和谷　厚</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230221500 +0900" stop="20141230230000 +0900" channel="GR_1089" event_id="20755">
+    <title lang="ja_JP">人体の構造と機能　第4回</title>
+    <desc lang="ja_JP">「生体の防御機構：免疫」愛媛大学大学院教授 佐伯　由香</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231130000 +0900" stop="20141231134500 +0900" channel="GR_1089" event_id="20796">
+    <title lang="ja_JP">ファイナンス入門　第5回</title>
+    <desc lang="ja_JP">「ＣＡＰＭ－資本資産評価モデル－」高崎経済大学教授 阿部　圭司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231134500 +0900" stop="20141231143000 +0900" channel="GR_1089" event_id="20801">
+    <title lang="ja_JP">ファイナンス入門　第6回</title>
+    <desc lang="ja_JP">「デリバティブ－派生証券（１）－」高崎経済大学教授 阿部　圭司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231204500 +0900" stop="20141231213000 +0900" channel="GR_1089" event_id="20813">
+    <title lang="ja_JP">特別講義・日本漫画と文化多様性</title>
+    <desc lang="ja_JP">「日本漫画と文化多様性〜世界に拡散する絵物語コミュニケーション〜」東京工業大学大学院教授 出口　弘</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231213000 +0900" stop="20141231221500 +0900" channel="GR_1089" event_id="20818">
+    <title lang="ja_JP">人体の構造と機能　第5回</title>
+    <desc lang="ja_JP">「神経系の構成と機能」早稲田大学大学院教授 彼末　一之</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231221500 +0900" stop="20141231230000 +0900" channel="GR_1089" event_id="20821">
+    <title lang="ja_JP">人体の構造と機能　第6回</title>
+    <desc lang="ja_JP">「内分泌系のしくみと働き」東京都健康長寿医療センター研究員 内田　さえ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101130000 +0900" stop="20150101134500 +0900" channel="GR_1089" event_id="20862">
+    <title lang="ja_JP">ファイナンス入門　第7回</title>
+    <desc lang="ja_JP">「デリバティブ－派生証券（２）－」高崎経済大学教授 阿部　圭司</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101134500 +0900" stop="20150101143000 +0900" channel="GR_1089" event_id="20867">
+    <title lang="ja_JP">ファイナンス入門　第8回</title>
+    <desc lang="ja_JP">「資金調達」放送大学准教授 齋藤　正章</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101204500 +0900" stop="20150101213000 +0900" channel="GR_1089" event_id="20879">
+    <title lang="ja_JP">特別講義・江戸時代のからくり文化</title>
+    <desc lang="ja_JP">「江戸時代のからくり文化〜座敷からくりに見る日本のエンジニアの源流〜」京都市立芸術大学教授　後藤　静雄　江戸からくり復元師　峰崎　十五</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101213000 +0900" stop="20150101221500 +0900" channel="GR_1089" event_id="20884">
+    <title lang="ja_JP">人体の構造と機能　第7回</title>
+    <desc lang="ja_JP">「血液の組成と機能」大阪大学名誉教授 大和谷　厚</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101221500 +0900" stop="20150101230000 +0900" channel="GR_1089" event_id="20887">
+    <title lang="ja_JP">人体の構造と機能　第8回</title>
+    <desc lang="ja_JP">「循環器系（１）：心臓の構造と機能」愛媛大学大学院教授 佐伯　由香</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102130000 +0900" stop="20150102134500 +0900" channel="GR_1089" event_id="20928">
+    <title lang="ja_JP">ファイナンス入門　第9回</title>
+    <desc lang="ja_JP">「財務諸表と財務業績の測定」放送大学准教授 齋藤　正章</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102134500 +0900" stop="20150102143000 +0900" channel="GR_1089" event_id="20933">
+    <title lang="ja_JP">ファイナンス入門　第10回</title>
+    <desc lang="ja_JP">「資本コスト」放送大学准教授 齋藤　正章</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102204500 +0900" stop="20150102213000 +0900" channel="GR_1089" event_id="20945">
+    <title lang="ja_JP">特別講義・いま地球の片隅で</title>
+    <desc lang="ja_JP">放送大学客員教授 松本　忠夫　東京大学大学院教授 塚谷　裕一</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102213000 +0900" stop="20150102221500 +0900" channel="GR_1089" event_id="20950">
+    <title lang="ja_JP">人体の構造と機能　第9回</title>
+    <desc lang="ja_JP">「循環器系(2):血管系とリンパ系の構造と機能」早稲田大学大学院教授 彼末　一之</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102221500 +0900" stop="20150102230000 +0900" channel="GR_1089" event_id="20953">
+    <title lang="ja_JP">人体の構造と機能　第10回</title>
+    <desc lang="ja_JP">「呼吸器系の構成と機能」愛媛大学大学院教授 佐伯　由香</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103130000 +0900" stop="20150103134500 +0900" channel="GR_1089" event_id="20994">
+    <title lang="ja_JP">ファイナンス入門　第11回</title>
+    <desc lang="ja_JP">「資金運用-投資決定ルール－」放送大学准教授 齋藤　正章</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103134500 +0900" stop="20150103143000 +0900" channel="GR_1089" event_id="20999">
+    <title lang="ja_JP">ファイナンス入門　第12回</title>
+    <desc lang="ja_JP">「企業価値評価」放送大学准教授 齋藤　正章</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103204500 +0900" stop="20150103213000 +0900" channel="GR_1089" event_id="21011">
+    <title lang="ja_JP">ポアンカレ予想とトポロジーの100年</title>
+    <desc lang="ja_JP">特別講義「ポアンカレ予想とトポロジーの100年」東京工業大学教授 小島　定吉</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103213000 +0900" stop="20150103221500 +0900" channel="GR_1089" event_id="21016">
+    <title lang="ja_JP">人体の構造と機能　第11回</title>
+    <desc lang="ja_JP">「消化器系の構成と機能」東京都健康長寿医療センター研究員 内田　さえ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103221500 +0900" stop="20150103230000 +0900" channel="GR_1089" event_id="21019">
+    <title lang="ja_JP">人体の構造と機能　第12回</title>
+    <desc lang="ja_JP">「尿の生成と排尿:泌尿器系の構成と機能」愛媛大学大学院教授 佐伯　由香</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104130000 +0900" stop="20150104134500 +0900" channel="GR_1089" event_id="21060">
+    <title lang="ja_JP">ファイナンス入門　第13回</title>
+    <desc lang="ja_JP">「情報非対称」放送大学准教授 齋藤　正章</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104134500 +0900" stop="20150104143000 +0900" channel="GR_1089" event_id="21065">
+    <title lang="ja_JP">特別講義・眠りの文化論</title>
+    <desc lang="ja_JP">京都大学大学院教授 重田　眞義</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104204500 +0900" stop="20150104213000 +0900" channel="GR_1089" event_id="21077">
+    <title lang="ja_JP">特別講義・ドストエフスキーと現代</title>
+    <desc lang="ja_JP">「ドストエフスキーと現代」名古屋外国語大学長 亀山　郁夫</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104213000 +0900" stop="20150104221500 +0900" channel="GR_1089" event_id="21082">
+    <title lang="ja_JP">人体の構造と機能　第13回</title>
+    <desc lang="ja_JP">「運動器系の構成と運動のしくみ」早稲田大学大学院教授 彼末　一之</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104221500 +0900" stop="20150104230000 +0900" channel="GR_1089" event_id="21085">
+    <title lang="ja_JP">大学院案内２０１５「修士課程・博士後期課程」</title>
+    <desc lang="ja_JP">「修士課程・博士後期課程」放送大学教授　宮本みち子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105130000 +0900" stop="20150105134500 +0900" channel="GR_1089" event_id="21128">
+    <title lang="ja_JP">アジアと漢字文化　第13回</title>
+    <desc lang="ja_JP">「日本語と漢字（１）」成城大学教授 陳　力衛</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105134500 +0900" stop="20150105143000 +0900" channel="GR_1089" event_id="21133">
+    <title lang="ja_JP">太陽系の科学　第13回「無数の惑星系の中で」</title>
+    <desc lang="ja_JP">国立天文台名誉教授 海部　宣男　科学コミュニケーター 岡山　悠子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105204500 +0900" stop="20150105213000 +0900" channel="GR_1089" event_id="21145">
+    <title lang="ja_JP">映像メディアとCGの基礎　第13回</title>
+    <desc lang="ja_JP">「立体視システム」放送大学教授 近藤　智嗣　フリーアナウンサー・レポーター 宮田　英里</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105213000 +0900" stop="20150105221500 +0900" channel="GR_1089" event_id="21150">
+    <title lang="ja_JP">自治体ガバナンス　第13回「自治体のネットワーク」</title>
+    <desc lang="ja_JP">早稲田大学政治経済学術院教授 稲継　裕昭</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105221500 +0900" stop="20150105230000 +0900" channel="GR_1089" event_id="21153">
+    <title lang="ja_JP">社会学入門　第13回</title>
+    <desc lang="ja_JP">「情報化・グローバル化の進展と今後の日本」九州工業大学教授 安河内恵子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229130000 +0900" stop="20141229131500 +0900" channel="GR_1090" event_id="20663">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「大学案内２０１５」</title>
+    <desc lang="ja_JP">「大学案内２０１５」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229131500 +0900" stop="20141229133000 +0900" channel="GR_1090" event_id="20664">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229133000 +0900" stop="20141229134500 +0900" channel="GR_1090" event_id="20665">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「スペシャルインタビュー・湖月わたるさん」</title>
+    <desc lang="ja_JP">「スペシャルインタビュー・湖月わたるさん」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229134500 +0900" stop="20141229143000 +0900" channel="GR_1090" event_id="20668">
+    <title lang="ja_JP">もう一度みたい名講義　特別講義編〜放送大学アーカイブス〜</title>
+    <desc lang="ja_JP">「わたしの学問研究〜古代との対話を求めて〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229143000 +0900" stop="20141229151500 +0900" channel="GR_1090" event_id="20669">
+    <title lang="ja_JP">特別講義・紛争予防学とは何か</title>
+    <desc lang="ja_JP">「紛争予防学」とは何か◇東京外国語大学大学院教授 伊勢崎　賢治</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229151500 +0900" stop="20141229160000 +0900" channel="GR_1090" event_id="20670">
+    <title lang="ja_JP">母性看護学　第1回「母性看護学の概要」</title>
+    <desc lang="ja_JP">神戸大学大学院教授 齋藤　いずみ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229204500 +0900" stop="20141229210000 +0900" channel="GR_1090" event_id="20680">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「大学案内２０１５」</title>
+    <desc lang="ja_JP">「大学案内２０１５」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229210000 +0900" stop="20141229211500 +0900" channel="GR_1090" event_id="20681">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229211500 +0900" stop="20141229213000 +0900" channel="GR_1090" event_id="20682">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「スペシャルインタビュー・湖月わたるさん」</title>
+    <desc lang="ja_JP">「スペシャルインタビュー・湖月わたるさん」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229213000 +0900" stop="20141229221500 +0900" channel="GR_1090" event_id="20685">
+    <title lang="ja_JP">アーカイブス・宇宙像の変遷（’９１）〜宇宙とは・宇宙観とは〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「宇宙像の変遷（’９１）〜宇宙とは・宇宙観とは〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229221500 +0900" stop="20141229230000 +0900" channel="GR_1090" event_id="20688">
+    <title lang="ja_JP">フォトジャーナリズムとは何か</title>
+    <desc lang="ja_JP">特別講義「フォトジャーナリズムとは何か」フォトジャーナリスト・DAYS　JAPAN編集長 広河　隆一</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230130000 +0900" stop="20141230131500 +0900" channel="GR_1090" event_id="20731">
+    <title lang="ja_JP">授業科目案内〜大学の窓「市民生活と裁判・市民社会と法」</title>
+    <desc lang="ja_JP">「市民生活と裁判・市民社会と法」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230131500 +0900" stop="20141230133000 +0900" channel="GR_1090" event_id="20732">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230133000 +0900" stop="20141230134500 +0900" channel="GR_1090" event_id="20733">
+    <title lang="ja_JP">放送大学イメージソング・学歌</title>
+    <desc lang="ja_JP">「『人間の贅沢、ひとつ』『と・も・た・ち』歌・小椋佳『放送大学学歌・混声四部合唱』」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230134500 +0900" stop="20141230143000 +0900" channel="GR_1090" event_id="20736">
+    <title lang="ja_JP">もう一度みたい名講義　特別講義編〜放送大学アーカイブス〜</title>
+    <desc lang="ja_JP">「わたしの学問研究〜都市の姿　建築のこころ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230204500 +0900" stop="20141230210000 +0900" channel="GR_1090" event_id="20748">
+    <title lang="ja_JP">授業科目案内〜大学の窓「市民生活と裁判・市民社会と法」</title>
+    <desc lang="ja_JP">「市民生活と裁判・市民社会と法」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230210000 +0900" stop="20141230211500 +0900" channel="GR_1090" event_id="20749">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230211500 +0900" stop="20141230213000 +0900" channel="GR_1090" event_id="20750">
+    <title lang="ja_JP">放送大学イメージソング・学歌</title>
+    <desc lang="ja_JP">「『人間の贅沢、ひとつ』『と・も・た・ち』歌・小椋佳『放送大学学歌・混声四部合唱』」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230213000 +0900" stop="20141230221500 +0900" channel="GR_1090" event_id="20753">
+    <title lang="ja_JP">アーカイブス・カオスとフラクタル入門（’９２）〜自己相似集合の例〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「カオスとフラクタル入門（’９２）〜自己相似集合の例〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230221500 +0900" stop="20141230230000 +0900" channel="GR_1090" event_id="20756">
+    <title lang="ja_JP">大学院案内２０１５「修士課程・博士後期課程」</title>
+    <desc lang="ja_JP">「修士課程・博士後期課程」放送大学教授　宮本みち子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231130000 +0900" stop="20141231131500 +0900" channel="GR_1090" event_id="20797">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「大学院案内２０１５」</title>
+    <desc lang="ja_JP">「大学院案内２０１５」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231131500 +0900" stop="20141231133000 +0900" channel="GR_1090" event_id="20798">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231133000 +0900" stop="20141231134500 +0900" channel="GR_1090" event_id="20799">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「学習センター活用法」</title>
+    <desc lang="ja_JP">「学習センター活用法」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231134500 +0900" stop="20141231143000 +0900" channel="GR_1090" event_id="20802">
+    <title lang="ja_JP">あなたの知りたい放送大学「コースガイド」</title>
+    <desc lang="ja_JP">「コースガイド」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231204500 +0900" stop="20141231210000 +0900" channel="GR_1090" event_id="20814">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「大学院案内２０１５」</title>
+    <desc lang="ja_JP">「大学院案内２０１５」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231210000 +0900" stop="20141231211500 +0900" channel="GR_1090" event_id="20815">
+    <title lang="ja_JP">大学の窓「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</title>
+    <desc lang="ja_JP">「全国の公開講座紹介・オンライン授業2015年度4月からスタート」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231211500 +0900" stop="20141231213000 +0900" channel="GR_1090" event_id="20816">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「学習センター活用法」</title>
+    <desc lang="ja_JP">「学習センター活用法」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231213000 +0900" stop="20141231221500 +0900" channel="GR_1090" event_id="20819">
+    <title lang="ja_JP">アーカイブス・動物の行動と社会（’９２）〜動物行動学とはほか〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「動物の行動と社会（’９２）〜動物行動学とはほか〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231221500 +0900" stop="20141231230000 +0900" channel="GR_1090" event_id="20822">
+    <title lang="ja_JP">特別番組「映像で見つめる放送大学の30年」</title>
+    <desc lang="ja_JP">「映像で見つめる放送大学の30年」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101130000 +0900" stop="20150101131500 +0900" channel="GR_1090" event_id="20863">
+    <title lang="ja_JP">授業科目案内〜大学の窓「中国語Ⅰ」</title>
+    <desc lang="ja_JP">「中国語Ⅰ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101131500 +0900" stop="20150101133000 +0900" channel="GR_1090" event_id="20864">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101133000 +0900" stop="20150101134500 +0900" channel="GR_1090" event_id="20865">
+    <title lang="ja_JP">放送大学イメージソング・学歌</title>
+    <desc lang="ja_JP">「『と・も・た・ち』『人間の贅沢、ひとつ』歌・小椋佳　『放送大学学歌・斉唱』」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101134500 +0900" stop="20150101143000 +0900" channel="GR_1090" event_id="20868">
+    <title lang="ja_JP">アーカイブス・哲学的人間学（’９２）〜人間の自由〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「哲学的人間学（’９２）〜人間の自由〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101204500 +0900" stop="20150101210000 +0900" channel="GR_1090" event_id="20880">
+    <title lang="ja_JP">授業科目案内〜大学の窓「中国語Ⅰ」</title>
+    <desc lang="ja_JP">「中国語Ⅰ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101210000 +0900" stop="20150101211500 +0900" channel="GR_1090" event_id="20881">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101211500 +0900" stop="20150101213000 +0900" channel="GR_1090" event_id="20882">
+    <title lang="ja_JP">放送大学イメージソング・学歌</title>
+    <desc lang="ja_JP">「『と・も・た・ち』『人間の贅沢、ひとつ』歌・小椋佳　『放送大学学歌・斉唱』」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101213000 +0900" stop="20150101221500 +0900" channel="GR_1090" event_id="20885">
+    <title lang="ja_JP">アーカイブス・生活と芸術（’９０）〜茶室の世界〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「生活と芸術（’９０）〜茶室の世界〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101221500 +0900" stop="20150101230000 +0900" channel="GR_1090" event_id="20888">
+    <title lang="ja_JP">特別講義・細胞の声を聞く</title>
+    <desc lang="ja_JP">京都大学大学院教授 高橋　淑子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102130000 +0900" stop="20150102131500 +0900" channel="GR_1090" event_id="20929">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「大学案内２０１５」</title>
+    <desc lang="ja_JP">「大学案内２０１５」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102131500 +0900" stop="20150102133000 +0900" channel="GR_1090" event_id="20930">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102133000 +0900" stop="20150102134500 +0900" channel="GR_1090" event_id="20931">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「らくらくパソコン術」</title>
+    <desc lang="ja_JP">「らくらくパソコン術」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102134500 +0900" stop="20150102143000 +0900" channel="GR_1090" event_id="20934">
+    <title lang="ja_JP">特別講義・近世長崎の翻訳システム</title>
+    <desc lang="ja_JP">「近世長崎の翻訳システム」放送大学長崎学習センター客員教授 若木　太一　長崎歴史文化博物館研究所長 原田　博二</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102204500 +0900" stop="20150102210000 +0900" channel="GR_1090" event_id="20946">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「大学案内２０１５」</title>
+    <desc lang="ja_JP">「大学案内２０１５」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102210000 +0900" stop="20150102211500 +0900" channel="GR_1090" event_id="20947">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102211500 +0900" stop="20150102213000 +0900" channel="GR_1090" event_id="20948">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「らくらくパソコン術」</title>
+    <desc lang="ja_JP">「らくらくパソコン術」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102213000 +0900" stop="20150102221500 +0900" channel="GR_1090" event_id="20951">
+    <title lang="ja_JP">アーカイブス・構造と解釈（’８８）〜構造主義における構造〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「構造と解釈（’８８）〜構造主義における構造〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102221500 +0900" stop="20150102230000 +0900" channel="GR_1090" event_id="20954">
+    <title lang="ja_JP">あなたの知りたい放送大学「コースガイド」</title>
+    <desc lang="ja_JP">「コースガイド」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103130000 +0900" stop="20150103131500 +0900" channel="GR_1090" event_id="20995">
+    <title lang="ja_JP">授業科目案内〜大学の窓〜</title>
+    <desc lang="ja_JP">「生物界の変遷」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103131500 +0900" stop="20150103133000 +0900" channel="GR_1090" event_id="20996">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103133000 +0900" stop="20150103134500 +0900" channel="GR_1090" event_id="20997">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「スペシャルインタビュー・湖月わたるさん」</title>
+    <desc lang="ja_JP">「スペシャルインタビュー・湖月わたるさん」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103134500 +0900" stop="20150103143000 +0900" channel="GR_1090" event_id="21000">
+    <title lang="ja_JP">自分がわかる細胞健康科学〜細胞・身体連携力学応答機構とスローエクササイズ効果〜</title>
+    <desc lang="ja_JP">東京大学名誉教授 跡見　順子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103204500 +0900" stop="20150103210000 +0900" channel="GR_1090" event_id="21012">
+    <title lang="ja_JP">授業科目案内〜大学の窓〜</title>
+    <desc lang="ja_JP">「生物界の変遷」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103210000 +0900" stop="20150103211500 +0900" channel="GR_1090" event_id="21013">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103211500 +0900" stop="20150103213000 +0900" channel="GR_1090" event_id="21014">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「スペシャルインタビュー・湖月わたるさん」</title>
+    <desc lang="ja_JP">「スペシャルインタビュー・湖月わたるさん」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103213000 +0900" stop="20150103221500 +0900" channel="GR_1090" event_id="21017">
+    <title lang="ja_JP">特別講義「遷移金属触媒の魔法の力　〜サステイナブルな２１世紀への鍵〜」根岸　英一</title>
+    <desc lang="ja_JP">パデュー大学特別教授 根岸　英一</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103221500 +0900" stop="20150103230000 +0900" channel="GR_1090" event_id="21020">
+    <title lang="ja_JP">アーカイブス・ヨーロッパ論Ⅱ（’８７）〜ヨーロッパの農村社会（１）〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「ヨーロッパ論Ⅱ（’８７）〜ヨーロッパの農村社会（１）〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104130000 +0900" stop="20150104131500 +0900" channel="GR_1090" event_id="21061">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「大学院案内２０１５」</title>
+    <desc lang="ja_JP">「大学院案内２０１５」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104131500 +0900" stop="20150104133000 +0900" channel="GR_1090" event_id="21062">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104133000 +0900" stop="20150104134500 +0900" channel="GR_1090" event_id="21063">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「図書館活用法」</title>
+    <desc lang="ja_JP">「図書館活用法」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104134500 +0900" stop="20150104143000 +0900" channel="GR_1090" event_id="21066">
+    <title lang="ja_JP">大学院案内２０１５「修士課程・博士後期課程」</title>
+    <desc lang="ja_JP">「修士課程・博士後期課程」放送大学教授　宮本みち子</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104204500 +0900" stop="20150104210000 +0900" channel="GR_1090" event_id="21078">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「大学院案内２０１５」</title>
+    <desc lang="ja_JP">「大学院案内２０１５」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104210000 +0900" stop="20150104211500 +0900" channel="GR_1090" event_id="21079">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104211500 +0900" stop="20150104213000 +0900" channel="GR_1090" event_id="21080">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「図書館活用法」</title>
+    <desc lang="ja_JP">「図書館活用法」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104213000 +0900" stop="20150104221500 +0900" channel="GR_1090" event_id="21083">
+    <title lang="ja_JP">アーカイブス・地球と宇宙（’８５）〜宇宙の階層構造ほか〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「地球と宇宙（’８５）〜宇宙の階層構造ほか〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104221500 +0900" stop="20150104230000 +0900" channel="GR_1090" event_id="21086">
+    <title lang="ja_JP">放送大学30周年記念特集「学ぶ。世界が変わる。〜学生が語るまなびの体験〜」</title>
+    <desc lang="ja_JP">「学ぶ。世界が変わる。〜学生が語るまなびの体験〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105130000 +0900" stop="20150105131500 +0900" channel="GR_1090" event_id="21129">
+    <title lang="ja_JP">授業科目案内〜大学の窓「食安全性学」</title>
+    <desc lang="ja_JP">「食安全性学」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105131500 +0900" stop="20150105133000 +0900" channel="GR_1090" event_id="21130">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105133000 +0900" stop="20150105134500 +0900" channel="GR_1090" event_id="21131">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「学ぶ仲間２」</title>
+    <desc lang="ja_JP">「学ぶ仲間２」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105134500 +0900" stop="20150105143000 +0900" channel="GR_1090" event_id="21134">
+    <title lang="ja_JP">もう一度みたい名講義　特別講義編〜放送大学アーカイブス〜</title>
+    <desc lang="ja_JP">「物理学に終わりは来るのか－仁科芳雄記念シンポジウムから－」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105204500 +0900" stop="20150105210000 +0900" channel="GR_1090" event_id="21146">
+    <title lang="ja_JP">授業科目案内〜大学の窓「食安全性学」</title>
+    <desc lang="ja_JP">「食安全性学」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105210000 +0900" stop="20150105211500 +0900" channel="GR_1090" event_id="21147">
+    <title lang="ja_JP">大学の窓「学長新春メッセージ」</title>
+    <desc lang="ja_JP">「学長新春メッセージ」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105211500 +0900" stop="20150105213000 +0900" channel="GR_1090" event_id="21148">
+    <title lang="ja_JP">Ｔｈａｔ’ｓ放送大学「学ぶ仲間２」</title>
+    <desc lang="ja_JP">「学ぶ仲間２」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105213000 +0900" stop="20150105221500 +0900" channel="GR_1090" event_id="21151">
+    <title lang="ja_JP">あなたの知りたい放送大学「コースガイド」</title>
+    <desc lang="ja_JP">「コースガイド」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105221500 +0900" stop="20150105230000 +0900" channel="GR_1090" event_id="21154">
+    <title lang="ja_JP">アーカイブス・データ解析法の基本（&apos;88）〜データにおける質と量〜</title>
+    <desc lang="ja_JP">もう一度みたい名講義〜放送大学アーカイブス〜「データ解析法の基本（&apos;88）〜データにおける質と量〜」</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+</tv>

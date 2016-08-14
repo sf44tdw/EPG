@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="tsEPG2xml" generator-info-url="http://localhost/">
+  <channel id="GR_1024" tp="27">
+    <display-name lang="ja_JP">ＮＨＫ総合１・東京</display-name>
+    <transport_stream_id>32736</transport_stream_id>
+    <original_network_id>32736</original_network_id>
+    <service_id>1024</service_id>
+  </channel>
+  <programme start="20141229120003 +0900" stop="20141229121500 +0900" channel="GR_1024" event_id="4648">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229121500 +0900" stop="20141229125500 +0900" channel="GR_1024" event_id="4650">
+    <title lang="ja_JP">「花子とアン」ダイジェスト　こぴっと一挙放送！「大正編」（１）【字】</title>
+    <desc lang="ja_JP">あの感動をもう一度！連続テレビ小説「花子とアン」第１２週、第１３週「大正編」をダイジェストでお送りします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141229125500 +0900" stop="20141229130000 +0900" channel="GR_1024" event_id="5570">
+    <title lang="ja_JP">年末年始プレマップ「大河ドラマ編」</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」をもっと楽しむための関連番組をまとめて紹介。主演の井上真央さんや物語の舞台・幕末長州の魅力に迫る多彩な番組を、ドラマの開始前に。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141229130000 +0900" stop="20141229130500 +0900" channel="GR_1024" event_id="4653">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229130500 +0900" stop="20141229153000 +0900" channel="GR_1024" event_id="4654">
+    <title lang="ja_JP">「花子とアン」ダイジェスト　こぴっと一挙放送！「大正編」（２）【字】</title>
+    <desc lang="ja_JP">あの感動をもう一度！連続テレビ小説「花子とアン」を第１４週から第２０週まで「大正編」をダイジェストでお送りします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141229153000 +0900" stop="20141229153500 +0900" channel="GR_1024" event_id="4671">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229153500 +0900" stop="20141229174100 +0900" channel="GR_1024" event_id="4672">
+    <title lang="ja_JP">「花子とアン」ダイジェスト　こぴっと一挙放送！「昭和編」【字】</title>
+    <desc lang="ja_JP">連続テレビ小説「花子とアン」を第２１週から最終週まで「昭和編」をダイジェストでお送りします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141229174100 +0900" stop="20141229175100 +0900" channel="GR_1024" event_id="8740">
+    <title lang="ja_JP">世界で一番美しい瞬間（とき）１０ｍｉｎ．▽赤毛のアンの島　紅葉のときめきカナダ【字】</title>
+    <desc lang="ja_JP">世界で一番美しい島と呼ばれ「赤毛のアン」の物語が生まれたプリンス・エドワード島。この島が１年のうちで最も美しく輝く秋。燃えるような紅葉に彩られるときを旅する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141229175100 +0900" stop="20141229175600 +0900" channel="GR_1024" event_id="5571">
+    <title lang="ja_JP">年末年始プレマップ「大河ドラマ編」</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」をもっと楽しむための関連番組をまとめて紹介。主演の井上真央さんや物語の舞台・幕末長州の魅力に迫る多彩な番組を、ドラマの開始前に。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141229175600 +0900" stop="20141229180000 +0900" channel="GR_1024" event_id="8751">
+    <title lang="ja_JP">復興支援ソング「花は咲く」</title>
+    <desc lang="ja_JP">東日本大震災の被災地の復興支援曲「花は咲く」フルバージョン。作詞・岩井俊二、作曲・菅野よう子。出演は東北にゆかりの歌手・タレント・スポーツ選手など３４組が参加。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141229180000 +0900" stop="20141229180500 +0900" channel="GR_1024" event_id="4693">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229180500 +0900" stop="20141229185000 +0900" channel="GR_1024" event_id="4694">
+    <title lang="ja_JP">大相撲この一年【字】</title>
+    <desc lang="ja_JP">▽北の富士が今年の土俵を斬る！　▽嘉風登場　▽能町みね子の絶妙トーク！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141229185000 +0900" stop="20141229185500 +0900" channel="GR_1024" event_id="4699">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229185500 +0900" stop="20141229190003 +0900" channel="GR_1024" event_id="4700">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229190003 +0900" stop="20141229193000 +0900" channel="GR_1024" event_id="4703">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽エアアジア機が消息不明・何が起きたのか　【キャスター】守本奈実，【サブキャスター】瀧川剛史，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229193000 +0900" stop="20141229204200 +0900" channel="GR_1024" event_id="4704">
+    <title lang="ja_JP">スポーツハイライト２０１４【字】</title>
+    <desc lang="ja_JP">感動！興奮！名場面一挙に▽錦織の躍進支えた言葉▽浅田真央こだわり続けたあの技▽遠藤が語るブラジルＷ杯▽４２歳稲葉“全力”貫いた２０年▽スタジオでは上村愛子の秘話</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141229204200 +0900" stop="20141229204500 +0900" channel="GR_1024" event_id="14228">
+    <title lang="ja_JP">明日へ１ｍｉｎ．「羽生結弦　世界へ届ける“花は咲く”」</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141229204500 +0900" stop="20141229210000 +0900" channel="GR_1024" event_id="4711">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229210000 +0900" stop="20141229223000 +0900" channel="GR_1024" event_id="4713">
+    <title lang="ja_JP">国民総参加クイズＳＨＯＷ！　ＱＢ４７　２０１４年末ＳＰ【双】</title>
+    <desc lang="ja_JP">クイズに答えて、アナタの地元の日本一に！視聴者参加クイズ番組　紅白＆大河クイズ　【参加方法】ｎｈｋ．ｊｐ／ｑｂ４７【司会】東野幸治【ツイッター】＠ｎｈｋ＿ｑｂ</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141229223000 +0900" stop="20141229224000 +0900" channel="GR_1024" event_id="4714">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141229224000 +0900" stop="20141230000000 +0900" channel="GR_1024" event_id="4716">
+    <title lang="ja_JP">出前迅速！高専ロボコン２０１４　全国大会「“ソバの出前”で真剣対決！」【字】</title>
+    <desc lang="ja_JP">ユニークなハイテクロボットが国技館に大集結！山積みの「そばのセイロ」をいかに早く出前できるか真剣対決する。笑いあり涙ありの熱戦を、敦士・足立梨花が密着リポート！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230000000 +0900" stop="20141230000500 +0900" channel="GR_1024" event_id="5011">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230000500 +0900" stop="20141230000700 +0900" channel="GR_1024" event_id="5012">
+    <title lang="ja_JP">ドキュメンタリーで振り返る２０１４〜世界はどう動いたか〜</title>
+    <desc lang="ja_JP">２０１４年、世界は大きく揺れ動いた。世界はどこへ向おうとしているのか。ＢＳ１の番組「ドキュメンタリーＷＡＶＥ」がとらえた各国の激動の現場を見ながら考えていく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230000700 +0900" stop="20141230005600 +0900" channel="GR_1024" event_id="14278">
+    <title lang="ja_JP">ドキュメンタリーＷＡＶＥ「引き裂かれる祖国で〜ウクライナ・独立広場の若者たち〜」</title>
+    <desc lang="ja_JP">いまウクライナで一体何が起きているのか。渦中の人々は何を考えているのか。首都キエフの独立広場にカメラを据え、欧米とロシアに挟まれ苦悩する危機の本質に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230005600 +0900" stop="20141230010500 +0900" channel="GR_1024" event_id="14279">
+    <title lang="ja_JP">ドキュメンタリーで振り返る２０１４〜世界はどう動いたか〜</title>
+    <desc lang="ja_JP">２０１４年、世界は大きく揺れ動いた。世界はどこへ向おうとしているのか。ＢＳ１の番組「ドキュメンタリーＷＡＶＥ」がとらえた各国の激動の現場を見ながら考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230010500 +0900" stop="20141230015400 +0900" channel="GR_1024" event_id="14280">
+    <title lang="ja_JP">ドキュメンタリーＷＡＶＥ「議会占拠２４日間の記録〜中台急接近に揺れる台湾〜」</title>
+    <desc lang="ja_JP">３月１８日、台湾の学生たちが議会を占拠した。前代未聞の事態はなぜ起きたのか？学生リーダーなどの証言から闘いの２４日間を描く。中台接近の背景は？真の民主主義とは？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230015400 +0900" stop="20141230020300 +0900" channel="GR_1024" event_id="14281">
+    <title lang="ja_JP">ドキュメンタリーで振り返る２０１４〜世界はどう動いたか〜</title>
+    <desc lang="ja_JP">２０１４年、世界は大きく揺れ動いた。世界はどこへ向おうとしているのか。ＢＳ１の番組「ドキュメンタリーＷＡＶＥ」がとらえた各国の激動の現場を見ながら考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230020300 +0900" stop="20141230025200 +0900" channel="GR_1024" event_id="14282">
+    <title lang="ja_JP">ドキュメンタリーＷＡＶＥ「イラク　終わりなき戦争〜ある家族　１０年の記録〜」</title>
+    <desc lang="ja_JP">大量破壊兵器を理由に米英軍がイラクに侵攻してから１０年以上。いまだイラクに平和な日は訪れていない。バグダッドのある一家に焦点を合わせ、終わらぬ戦争の実像を描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230025200 +0900" stop="20141230030100 +0900" channel="GR_1024" event_id="14283">
+    <title lang="ja_JP">ドキュメンタリーで振り返る２０１４〜世界はどう動いたか〜</title>
+    <desc lang="ja_JP">２０１４年、世界は大きく揺れ動いた。世界はどこへ向おうとしているのか。ＢＳ１の番組「ドキュメンタリーＷＡＶＥ」がとらえた各国の激動の現場を見ながら考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230030100 +0900" stop="20141230035000 +0900" channel="GR_1024" event_id="14286">
+    <title lang="ja_JP">ドキュメンタリーＷＡＶＥ▽激増する不法入国の子供たち〜揺れ動く米国移民政策の陰で</title>
+    <desc lang="ja_JP">中米諸国からアメリカへの不法入国を目指す“子供たち”が急増。１１月の中間選挙の焦点になった。国境の両側にカメラを据え、移民政策に翻弄される人々を見つめる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230035000 +0900" stop="20141230035900 +0900" channel="GR_1024" event_id="14287">
+    <title lang="ja_JP">ドキュメンタリーで振り返る２０１４〜世界はどう動いたか〜</title>
+    <desc lang="ja_JP">２０１４年、世界は大きく揺れ動いた。世界はどこへ向おうとしているのか。ＢＳ１の番組「ドキュメンタリーＷＡＶＥ」がとらえた各国の激動の現場を見ながら考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230035900 +0900" stop="20141230044800 +0900" channel="GR_1024" event_id="14288">
+    <title lang="ja_JP">ドキュメンタリーＷＡＶＥ「漂流する韓国社会〜セウォル号沈没事故　遺族の８か月〜」</title>
+    <desc lang="ja_JP">４月１６日、韓国南西部で起きた旅客船セウォル号の沈没事故。事故の後、遺族たちが一貫して求めてきたのが徹底した真相の究明だ。遺族たちの８か月を追った。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230044800 +0900" stop="20141230045500 +0900" channel="GR_1024" event_id="14289">
+    <title lang="ja_JP">ドキュメンタリーで振り返る２０１４〜世界はどう動いたか〜</title>
+    <desc lang="ja_JP">２０１４年、世界は大きく揺れ動いた。世界はどこへ向おうとしているのか。ＢＳ１の番組「ドキュメンタリーＷＡＶＥ」がとらえた各国の激動の現場を見ながら考える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230045500 +0900" stop="20141230050000 +0900" channel="GR_1024" event_id="14292">
+    <title lang="ja_JP">ＮＨＫプレマップ　しあわせニュース２０１４冬＜１２月３０日午後５時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230050000 +0900" stop="20141230051000 +0900" channel="GR_1024" event_id="5013">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230051000 +0900" stop="20141230055800 +0900" channel="GR_1024" event_id="11921">
+    <title lang="ja_JP">地球イチバン「世界一のハニーハンター〜ネパール・ヒマラヤ〜」【字】【再】</title>
+    <desc lang="ja_JP">ヒマラヤの山麓に生息する世界最大のミツバチが生む、グルメ垂ぜんの幻の蜂蜜ヒマラヤン・ハニー。高さ１００ｍの断崖絶壁で、人生最後の蜜採りに挑む山岳民族の古老を追う</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230055800 +0900" stop="20141230060000 +0900" channel="GR_1024" event_id="11927">
+    <title lang="ja_JP">ＮＨＫプレマップ　木曜時代劇「風の峠〜銀漢の賦〜」＜１月１５日夜８時スタート＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230060000 +0900" stop="20141230061500 +0900" channel="GR_1024" event_id="5015">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230061500 +0900" stop="20141230064400 +0900" channel="GR_1024" event_id="8211">
+    <title lang="ja_JP">妄想ニホン料理「大人はわかってくれない　お子様ランチの巻」【字】【再】</title>
+    <desc lang="ja_JP">日本料理をまったく知らない海外の料理人が、簡単なヒントだけを頼りに作ったら？生み出される、奇想天外なニホン料理の数々！　今回のお題は「お子様ランチ」だ。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230064400 +0900" stop="20141230064900 +0900" channel="GR_1024" event_id="8217">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「京都御所」＜１月１日午前７：２０から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230064900 +0900" stop="20141230065400 +0900" channel="GR_1024" event_id="8215">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」のみどころ＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」のみどころを紹介。主人公・杉文を育んだ家族の絆。文の兄・吉田松陰とその友・小田村伊之助との友情や、松下村塾の塾生たちと文の青春の日々を描く。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230065400 +0900" stop="20141230070000 +0900" channel="GR_1024" event_id="5018">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230070000 +0900" stop="20141230072000 +0900" channel="GR_1024" event_id="5023">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230072000 +0900" stop="20141230074500 +0900" channel="GR_1024" event_id="5703">
+    <title lang="ja_JP">耳をすませば　第２回「米倉斉加年・赤瀬川原平」【字】</title>
+    <desc lang="ja_JP">ユニークな才能で世の中に一石を投じながらも、今年惜しまれつつ亡くなった俳優・米倉斉加年さんと作家・赤瀬川原平さんのこだわりの原点が語られる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230074500 +0900" stop="20141230080000 +0900" channel="GR_1024" event_id="13016">
+    <title lang="ja_JP">世界ふれあい街歩き　ちょっとお散歩「バルセロナ新市街〜スペイン〜」【字】</title>
+    <desc lang="ja_JP">「世界ふれあい街歩き」で歩いた人気の街を１５分で楽しめる「お散歩」バージョンをお届けします。路地裏の絶景、街角グルメ、地元の人とのふれあいなどご堪能ください。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230080000 +0900" stop="20141230093000 +0900" channel="GR_1024" event_id="5029">
+    <title lang="ja_JP">連続テレビ小説　マッサン総集編　前編　Ｄｅａｒ　Ｍｏｔｈｅｒ〜縁は異なもの【解】【字】</title>
+    <desc lang="ja_JP">連続テレビ小説「マッサン」の全２５週のうち前半の第１３週までのマッサンとエリーの夫婦の冒険物語をたっぷりの名場面とともに振り返る総集編としてお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141230093000 +0900" stop="20141230100000 +0900" channel="GR_1024" event_id="6644">
+    <title lang="ja_JP">ワタシ　ただいま冒険中！！〜「マッサン」ヒロイン　秘密の舞台裏〜【字】【再】</title>
+    <desc lang="ja_JP">連続テレビ小説「マッサン」で注目の初の海外からのヒロイン、シャーロット・ケイト・フォックスさん。その奮闘ぶりをドラマの舞台裏を通して描く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141230100000 +0900" stop="20141230100500 +0900" channel="GR_1024" event_id="5035">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230100500 +0900" stop="20141230105000 +0900" channel="GR_1024" event_id="11989">
+    <title lang="ja_JP">超絶　凄（すご）ワザ！「究極の“真球”を目指せ」【字】</title>
+    <desc lang="ja_JP">この世に存在しない完璧な球体「真球」を目指す対決、好評に応え緊急アンコール放送！２組の腕利き技術者が球を製作。長さ２０ｍ、幅７．５ｃｍの水平な台を転がり切れるか</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230105000 +0900" stop="20141230110000 +0900" channel="GR_1024" event_id="9553">
+    <title lang="ja_JP">羽生結弦　世界へ届ける「花は咲く」ｆｒｏｍ　ＮＨＫ杯フィギュア【字】</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141230110000 +0900" stop="20141230115000 +0900" channel="GR_1024" event_id="5037">
+    <title lang="ja_JP">おしえて！ガッカイ　３日で若返りスペシャル【字】【再】</title>
+    <desc lang="ja_JP">伝説の番組が、一夜かぎりの復活！最強の頭脳集団「ガッカイ」が、あなたのどんな願いもかなえる！「３日間で１年分若返りたい」「来年ツキたい」。ベストアンサーは何！？</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230115000 +0900" stop="20141230115400 +0900" channel="GR_1024" event_id="5574">
+    <title lang="ja_JP">ＮＨＫプレマップ　しあわせニュース２０１４冬＜１２月３０日午後５時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230115400 +0900" stop="20141230120003 +0900" channel="GR_1024" event_id="5043">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230120003 +0900" stop="20141230121500 +0900" channel="GR_1024" event_id="5046">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230121500 +0900" stop="20141230130000 +0900" channel="GR_1024" event_id="5048">
+    <title lang="ja_JP">大相撲この一年【字】【再】</title>
+    <desc lang="ja_JP">▽北の富士が今年の土俵を斬る！　▽嘉風登場　▽能町みね子の絶妙トーク！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141230130000 +0900" stop="20141230130500 +0900" channel="GR_1024" event_id="5053">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230130500 +0900" stop="20141230140000 +0900" channel="GR_1024" event_id="5054">
+    <title lang="ja_JP">年忘れ漫才競演２０１４【字】</title>
+    <desc lang="ja_JP">東京漫才の年に一度の祭典「第４５回漫才大会」から、よりすぐりの爆笑漫才をお届けします。ナビゲーターのナイツが漫才の魅力を爆笑ネタ盛りだくさんでたっぷりと解説。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230140000 +0900" stop="20141230150000 +0900" channel="GR_1024" event_id="6921">
+    <title lang="ja_JP">新　クイズ面白ゼミナール【字】</title>
+    <desc lang="ja_JP">かつて視聴率４０％を誇った、伝説の名番組復活！スタジオに登場する奇想天外な仕掛けのクイズの数々で、楽しく世の中の仕組みを解き明かします。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230150000 +0900" stop="20141230150500 +0900" channel="GR_1024" event_id="5058">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230150500 +0900" stop="20141230153000 +0900" channel="GR_1024" event_id="8731">
+    <title lang="ja_JP">ＹＡＭＡＧＵＴＩＣ“花燃ゆ”トークｉｎ萩時代まつり【字】</title>
+    <desc lang="ja_JP">来年の大河ドラマ「花燃ゆ」の主人公・文を演じる井上真央さんと、高杉晋作役の高良健吾さんが、ドラマの見どころや舞台裏をたっぷりと語るスペシャルトーク番組！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230153000 +0900" stop="20141230162000 +0900" channel="GR_1024" event_id="10741">
+    <title lang="ja_JP">ＳＯＮＧＳスペシャル「時を駆けるサザンオールスターズ　変わりゆくニッポン」【字】【再】</title>
+    <desc lang="ja_JP">最新曲「東京ＶＩＣＴＯＲＹ」「天国オン・ザ・ビーチ」誕生秘話＆スタジオでのスペシャルパフォーマンス！初ＯＡ！桑田佳祐がお気に入りのポップソングを歌ったライブから</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230162000 +0900" stop="20141230175000 +0900" channel="GR_1024" event_id="5060">
+    <title lang="ja_JP">花子とアン　スピンオフスペシャル「朝市の嫁さん」【解】【字】</title>
+    <desc lang="ja_JP">朝市（窪田正孝）は花子（吉高由里子）に結婚の報告をするため上京。その頃、婚約者のちづ江（石橋杏奈）も、朝市が思いを寄せていた花子はどんな女性か知るために東京へ。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141230175000 +0900" stop="20141230180000 +0900" channel="GR_1024" event_id="14229">
+    <title lang="ja_JP">ドラマ１０「全力離婚相談」のすべて【字】</title>
+    <desc lang="ja_JP">離婚相談室を立ち上げた竹内美晴が、毎回さまざまな夫婦の修羅場を、弁護士の知識と経験を生かして解決していく物語。メイキング映像などを交え、その魅力をお届けする。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141230180000 +0900" stop="20141230180500 +0900" channel="GR_1024" event_id="5066">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230180500 +0900" stop="20141230185000 +0900" channel="GR_1024" event_id="5067">
+    <title lang="ja_JP">あなたが主役５０ボイス「紅白歌合戦ボイス」【字】</title>
+    <desc lang="ja_JP">「紅白歌合戦」制作の舞台裏に潜入。魅力を先取り。出場歌手やスタッフなど５０人が語る「負けたくない」思いとは？懐かしき名場面の秘話とは？本番が、ますます楽しみに！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230185000 +0900" stop="20141230185500 +0900" channel="GR_1024" event_id="5072">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230185500 +0900" stop="20141230190003 +0900" channel="GR_1024" event_id="5073">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230190003 +0900" stop="20141230193000 +0900" channel="GR_1024" event_id="5076">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽大きく動いた株・為替　今年最終日の市場は…　【キャスター】武田真一，【サブキャスター】上條倫子，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230193000 +0900" stop="20141230204500 +0900" channel="GR_1024" event_id="5077">
+    <title lang="ja_JP">クイズ１００人力「妖怪対決」【字】</title>
+    <desc lang="ja_JP">今回は妖怪対決！妖怪ウォッチ、ゲゲゲの鬼太郎、江戸の百鬼夜行など、新旧人気妖怪たちが大集合！座敷わらし・カッパ目撃？国内の最新情報も満載！鈴木福くんも大奮闘！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230204500 +0900" stop="20141230210000 +0900" channel="GR_1024" event_id="5082">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230210000 +0900" stop="20141230214700 +0900" channel="GR_1024" event_id="5084">
+    <title lang="ja_JP">ＬＩＦＥ！２０１４　年の瀬　紅白コラボＳＰ【字】</title>
+    <desc lang="ja_JP">「ＬＩＦＥ！」と「第６５回紅白歌合戦」がコラボ！紅白両司会や出場歌手も参戦、紅白を笑いで盛り上げます。これを見れば紅白歌合戦が１００倍楽しくなる？</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141230214700 +0900" stop="20141230215000 +0900" channel="GR_1024" event_id="5576">
+    <title lang="ja_JP">年末年始プレマップ「大河ドラマ編」</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」をもっと楽しむための関連番組をまとめて紹介。主演の井上真央さんや物語の舞台・幕末長州の魅力に迫る多彩な番組を、ドラマの開始前に。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141230215000 +0900" stop="20141230220000 +0900" channel="GR_1024" event_id="14230">
+    <title lang="ja_JP">ＮＨＫのど自慢　熱唱熱演名場面「２０１３ダイジェスト」（１）【字】</title>
+    <desc lang="ja_JP">笑いあり涙ありの熱唱熱演名場面。平成２５年の「ＮＨＫのど自慢」に出場した方々のハイライトシーンをたっぷりとお届けする。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141230220000 +0900" stop="20141230225000 +0900" channel="GR_1024" event_id="5091">
+    <title lang="ja_JP">大人ドリル年末スペシャル「２０１５年ニッポンはこうなる！？」【字】</title>
+    <desc lang="ja_JP">難しい社会問題のポイントをクイズを交えて分かりやすく伝える「大人ドリル」。今回はＮＨＫ解説委員たちが２０１５年を大予想！どうなるアベノミクス？国際関係も激変！？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141230225000 +0900" stop="20141230230000 +0900" channel="GR_1024" event_id="5096">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141230230000 +0900" stop="20141231001500 +0900" channel="GR_1024" event_id="5098">
+    <title lang="ja_JP">プレシャス　ブルー「カリブ海　クジラの親子と出会う旅」【字】</title>
+    <desc lang="ja_JP">世界の海を素潜りで撮影し“人魚”と呼ばれるフリーダイバー、二木あい。マッコウクジラが子育てをするドミニカ国の海で、クジラ親子のありのままの姿の撮影に挑む。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231001500 +0900" stop="20141231002000 +0900" channel="GR_1024" event_id="5385">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231002000 +0900" stop="20141231005000 +0900" channel="GR_1024" event_id="5387">
+    <title lang="ja_JP">ＳＯＮＧＳ「絢香〜“花子とアン”との出会い〜」【字】【再】</title>
+    <desc lang="ja_JP">連続テレビ小説「花子とアン」の主題歌「にじいろ」を歌う絢香が、撮影現場に花子役の吉高由里子を訪ね、主題歌にこめた思いやドラマのメッセージを語り合う。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231005000 +0900" stop="20141231012000 +0900" channel="GR_1024" event_id="5391">
+    <title lang="ja_JP">ＳＯＮＧＳ「美輪明宏〜美輪明宏が誘う“花子とアン”の世界〜」【字】【再】</title>
+    <desc lang="ja_JP">連続テレビ小説「花子とアン」の語りを担当している美輪明宏さんが、舞台となっている大正モダンの世界へ案内。ドラマでも話題沸騰となった「愛の讃歌」日本語版を歌う。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231012000 +0900" stop="20141231015000 +0900" channel="GR_1024" event_id="5395">
+    <title lang="ja_JP">ＳＯＮＧＳ▽ＳＥＫＡＩ　ＮＯ　ＯＷＡＲＩ〜世界の終わりで見つけた僕らの居場所【字】【再】</title>
+    <desc lang="ja_JP">今、子どもから大人まで、幅広い世代に大人気の４人組バンド。なぜいま彼らの音楽が支持を集め続けるのか？原点のライブハウスなどを訪ね、セカオワ音楽の魅力にせまる。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231015000 +0900" stop="20141231022000 +0900" channel="GR_1024" event_id="5399">
+    <title lang="ja_JP">ＳＯＮＧＳ「松田聖子〜３５周年スペシャルヒットメドレー〜」【字】【再】</title>
+    <desc lang="ja_JP">デビュー３５周年の松田聖子が、大ヒット曲の数々を３０分間歌い続けるノンストップメドレー。「ＳＯＮＧＳ」放送３００回記念の特別企画。番組全体が歌のメドレーとなる。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231022000 +0900" stop="20141231025000 +0900" channel="GR_1024" event_id="5403">
+    <title lang="ja_JP">ＳＯＮＧＳ「福山雅治〜理想への挑戦者〜」【字】【再】</title>
+    <desc lang="ja_JP">今年、全国ドームツアーと初の海外公演を行った福山雅治。２月にプロモーションのため、台湾・香港を訪問した。ミュージシャンとして進化し続ける福山雅治に迫る。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231025000 +0900" stop="20141231032000 +0900" channel="GR_1024" event_id="5407">
+    <title lang="ja_JP">ＳＯＮＧＳ「ゴールデンボンバー〜シークレットの幕が開く〜」【字】【再】</title>
+    <desc lang="ja_JP">思い出の場所でシークレットライブを敢行。国民的ヒット曲「女々しくて」ほかをハイテンションで披露する。バンド結成当時を深く知るメンバー“ゆかりの人”とも再会する。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231032000 +0900" stop="20141231035000 +0900" channel="GR_1024" event_id="5411">
+    <title lang="ja_JP">ＳＯＮＧＳ「椎名林檎〜どうなる？東京五輪〜」【字】【再】</title>
+    <desc lang="ja_JP">「カーネーション」や「ＮＩＰＰＯＮ」ほか最新楽曲のスペシャルパフォーマンス！そして６年後の東京五輪の開会式について、盟友・野田秀樹＆蜷川実花と真剣トークバトル！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231035000 +0900" stop="20141231042000 +0900" channel="GR_1024" event_id="5415">
+    <title lang="ja_JP">ＳＯＮＧＳ「石川さゆり　椎名林檎を歌う〜花の京都　芸の心にふれる〜」【字】【再】</title>
+    <desc lang="ja_JP">椎名林檎が石川さゆりへ新曲を書き下ろしプロデュース。テレビ初共演を果たす。２人はスタジオで息のあったコラボレーションを披露したほか、着物姿で春の京都を訪問する。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231042000 +0900" stop="20141231045000 +0900" channel="GR_1024" event_id="5419">
+    <title lang="ja_JP">ＳＯＮＧＳ「長渕剛〜スペシャルライブ・歌よ、残れ！〜」【字】【再】</title>
+    <desc lang="ja_JP">永久保存版！ヒット曲満載の「スタジオスペシャルライブ」。そして、「トークセッション」ではファンと１対１で人生について語り、リクエストに応える「弾き語り」が実現。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231045000 +0900" stop="20141231050000 +0900" channel="GR_1024" event_id="14052">
+    <title lang="ja_JP">「アニメ　山賊の娘ローニャ」１０分ダイジェスト（２）【字】</title>
+    <desc lang="ja_JP">【ＢＳプレミアム】毎週（土）午後７時〜放送中の「アニメ　山賊の娘ローニャ」。主人公ローニャとビルクの出会い以降、盛り上がりを見せるシリーズ中盤のダイジェスト！</desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20141231050000 +0900" stop="20141231051000 +0900" channel="GR_1024" event_id="5424">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231051000 +0900" stop="20141231060000 +0900" channel="GR_1024" event_id="9797">
+    <title lang="ja_JP">地球イチバン「世界で一番　大きなお金〜ヤップ島〜」【字】【再】</title>
+    <desc lang="ja_JP">サンゴ礁に囲まれた南の島で使われる石のお金「石貨」。その価値は石が歩んできた歴史で決まる。争いをなくし平和をもたらすという不思議なお金の秘密を探る。語り：ＹＯＵ</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231060000 +0900" stop="20141231061500 +0900" channel="GR_1024" event_id="5426">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231061500 +0900" stop="20141231064400 +0900" channel="GR_1024" event_id="8213">
+    <title lang="ja_JP">妄想ニホン料理「アンマンであんまんの巻」【字】【再】</title>
+    <desc lang="ja_JP">日本料理をまったく知らない海外の料理人が、簡単なヒントだけを頼りに作ったら？生み出される、奇想天外・抱腹絶倒なニホン料理の数々！今回のお題は「あんまん」だ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141231064400 +0900" stop="20141231065400 +0900" channel="GR_1024" event_id="8219">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「戦後７０年　ニッポンの肖像」＜１月１日放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231065400 +0900" stop="20141231070000 +0900" channel="GR_1024" event_id="5429">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231070000 +0900" stop="20141231072000 +0900" channel="GR_1024" event_id="5434">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231072000 +0900" stop="20141231074500 +0900" channel="GR_1024" event_id="5704">
+    <title lang="ja_JP">耳をすませば　第３回「宇沢弘文・菅原文太」【字】</title>
+    <desc lang="ja_JP">今年惜しまれつつ亡くなった著名人の言葉に耳を傾けるシリーズ。３回目は経済学者・宇沢弘文さんと俳優・菅原文太さん。２人の信念を貫いた人生が語られる。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231074500 +0900" stop="20141231090000 +0900" channel="GR_1024" event_id="5439">
+    <title lang="ja_JP">スポーツハイライト２０１４【字】【再】</title>
+    <desc lang="ja_JP">感動！興奮！名場面一挙に▽錦織の躍進支えた言葉▽浅田真央こだわり続けたあの技▽遠藤が語るブラジルＷ杯▽４２歳稲葉“全力”貫いた２０年▽スタジオでは上村愛子の秘話</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141231090000 +0900" stop="20141231100000 +0900" channel="GR_1024" event_id="5446">
+    <title lang="ja_JP">プロ野球８０年特集「プロ野球を変革した男　Ｖ９巨人・川上哲治監督」【字】</title>
+    <desc lang="ja_JP">今年はプロ野球８０年。日本のプロ野球を変革し今日の礎を築いたと言われる川上哲治の軌跡を追う。何を変革したか。なぜＶ９まで巨人は勝てたのか。そして何を残したか。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20141231100000 +0900" stop="20141231100500 +0900" channel="GR_1024" event_id="5449">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231100500 +0900" stop="20141231105500 +0900" channel="GR_1024" event_id="5450">
+    <title lang="ja_JP">突撃！　アッとホーム　紅白直前スペシャル！あのＭａｙ　Ｊ．がサプライズに登場！【字】</title>
+    <desc lang="ja_JP">紅白直前、Ｍａｙ　Ｊ．が「Ｌｅｔ　ｉｔ　ｇｏ」を幸せサプライズで熱唱する。舞台は福井の高校の合唱部。卒業直前の三年生が顧問の先生にＭａｙ　Ｊ．と合唱。泣き納めに</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231105500 +0900" stop="20141231110000 +0900" channel="GR_1024" event_id="8768">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「京都御所」＜１月１日午前７：２０から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231110000 +0900" stop="20141231111000 +0900" channel="GR_1024" event_id="8761">
+    <title lang="ja_JP">「アニメ　山賊の娘ローニャ」１０分ダイジェスト（２）【字】</title>
+    <desc lang="ja_JP">【ＢＳプレミアム】毎週（土）午後７時〜放送中の「アニメ　山賊の娘ローニャ」。主人公ローニャとビルクの出会い以降、盛り上がりを見せるシリーズ中盤のダイジェスト！</desc>
+    <category lang="ja_JP">アニメ／特撮</category>
+    <category lang="en">anime</category>
+  </programme>
+  <programme start="20141231111000 +0900" stop="20141231115400 +0900" channel="GR_1024" event_id="5456">
+    <title lang="ja_JP">あなたが主役５０ボイス「紅白歌合戦ボイス」【字】【再】</title>
+    <desc lang="ja_JP">「紅白歌合戦」制作の舞台裏に潜入。魅力を先取り。出場歌手やスタッフなど５０人が語る「負けたくない」思いとは？懐かしき名場面の秘話とは？本番が、ますます楽しみに！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141231115400 +0900" stop="20141231120003 +0900" channel="GR_1024" event_id="5459">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231120003 +0900" stop="20141231121500 +0900" channel="GR_1024" event_id="5462">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231121500 +0900" stop="20141231124500 +0900" channel="GR_1024" event_id="8704">
+    <title lang="ja_JP">スタジオパーク大みそかスペシャル２０１４　▽ゲスト　第１部　紅白出場歌手【字】</title>
+    <desc lang="ja_JP">紅白出場歌手がスタジオ生出演！リハーサルの進むＮＨＫホールから生中継で最新情報をお届け▽大河ドラマ「花燃ゆ」ヒロイン・井上真央さんが生出演！ドラマの見どころ紹介</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231124500 +0900" stop="20141231130000 +0900" channel="GR_1024" event_id="5465">
+    <title lang="ja_JP">全国自治宝くじ年末ジャンボ抽せん会</title>
+    <desc lang="ja_JP">１等５億円、前後賞各１億円、合わせて７億円という大型賞金が話題となっている年末ジャンボ宝くじ。抽せん会のもようを生中継で伝える。ゲストは歌手の堀内孝雄さん。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231130000 +0900" stop="20141231130500 +0900" channel="GR_1024" event_id="5466">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231130500 +0900" stop="20141231140000 +0900" channel="GR_1024" event_id="8705">
+    <title lang="ja_JP">スタジオパーク大みそかスペシャル２０１４　▽ゲスト　第２部　井上真央【字】</title>
+    <desc lang="ja_JP">紅白出場歌手がスタジオ生出演！リハーサルの進むＮＨＫホールから生中継で最新情報をお届け▽大河ドラマ「花燃ゆ」ヒロイン・井上真央さんが生出演！ドラマの見どころ紹介</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231140000 +0900" stop="20141231145600 +0900" channel="GR_1024" event_id="5468">
+    <title lang="ja_JP">軍師官兵衛（５０）【終】「乱世ここに終わる」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">如水（岡田准一）が天下を狙って九州を攻め進む中、長政（松坂桃李）の活躍で天下分け目の関ヶ原の戦がたった一日で終わる。如水の夢は破れ、家康（寺尾聰）が天下を取る。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141231145600 +0900" stop="20141231150000 +0900" channel="GR_1024" event_id="33308">
+    <title lang="ja_JP">ＮＨＫプレマップ　大河ドラマ「花燃ゆ」＜１月４日（日）スタート＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20141231150000 +0900" stop="20141231150500 +0900" channel="GR_1024" event_id="5472">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231150500 +0900" stop="20141231155000 +0900" channel="GR_1024" event_id="8801">
+    <title lang="ja_JP">ＬＩＦＥ！２０１４　年の瀬　紅白コラボＳＰ【字】【再】</title>
+    <desc lang="ja_JP">「ＬＩＦＥ！」と「第６５回紅白歌合戦」がコラボ！紅白両司会や出場歌手も参戦、紅白を笑いで盛り上げます。これを見れば紅白歌合戦が１００倍楽しくなる？</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20141231155000 +0900" stop="20141231164000 +0900" channel="GR_1024" event_id="5474">
+    <title lang="ja_JP">嵐　１５年目の告白〜ＬＩＶＥ＆ＤＯＣＵＭＥＮＴ〜【字】【再】</title>
+    <desc lang="ja_JP">デビュー１５周年の嵐が行ったハワイコンサート。舞台裏に密着し素顔に迫る。また「１５年目の告白」として今だからできる本音トークを展開！さらに大野智の日記も初公開！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231164000 +0900" stop="20141231165000 +0900" channel="GR_1024" event_id="12441">
+    <title lang="ja_JP">１０分で連続テレビ小説「マッサン」メイキング〜北海道余市編〜【字】</title>
+    <desc lang="ja_JP">絶賛放送中の連続テレビ小説「マッサン」。北海道余市編の見どころをメイキング映像や出演者のインタビューを交え、余すところなくお見せします！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20141231165000 +0900" stop="20141231170000 +0900" channel="GR_1024" event_id="8771">
+    <title lang="ja_JP">羽生結弦　世界へ届ける「花は咲く」ｆｒｏｍ　ＮＨＫ杯フィギュア【字】</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20141231170000 +0900" stop="20141231185000 +0900" channel="GR_1024" event_id="5476">
+    <title lang="ja_JP">しあわせニュース２０１４【字】【双】</title>
+    <desc lang="ja_JP">全国のＮＨＫ５４局から集めた爆笑と感動の「しあわせニュース」を一挙紹介、生放送で大賞決定！しかもＮＨＫ海外支局のしあわせニュースや紅白歌合戦の本番直前生中継も！</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231185000 +0900" stop="20141231185500 +0900" channel="GR_1024" event_id="5479">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231185500 +0900" stop="20141231190003 +0900" channel="GR_1024" event_id="5480">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231190003 +0900" stop="20141231191500 +0900" channel="GR_1024" event_id="5483">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽大みそか　各地の表情は　【キャスター】武田真一，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20141231191500 +0900" stop="20141231234500 +0900" channel="GR_1024" event_id="5484">
+    <title lang="ja_JP">第６５回ＮＨＫ紅白歌合戦「歌おう。おおみそかは全員参加で！」〜ＮＨＫホール【多】【字】【双】</title>
+    <desc lang="ja_JP">第６５回ＮＨＫ紅白歌合戦。「歌おう　おおみそかは全員参加で！」。紅組司会は吉高由里子、白組司会は嵐！ＳＭＡＰ、ＥＸＩＬＥ、松田聖子、中島みゆき、美輪明宏　ほか</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20141231234500 +0900" stop="20150101001500 +0900" channel="GR_1024" event_id="9200">
+    <title lang="ja_JP">ゆく年くる年【SS】</title>
+    <desc lang="ja_JP">「平和への祈り　光ほのかに」をテーマに東京浅草寺にキーステーションを置き、全国各地の年越しの表情を中継で伝える。高野山金剛峯寺、長崎浦上天主堂、ＪＲ富山駅ほか。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101001500 +0900" stop="20150101002500 +0900" channel="GR_1024" event_id="5849">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101002500 +0900" stop="20150101023000 +0900" channel="GR_1024" event_id="5851">
+    <title lang="ja_JP">２０１５新春生放送！年の初めはさだまさし</title>
+    <desc lang="ja_JP">２０１５新春生放送！年の初めはさだまさし▽東京国際フォーラムから生放送！新年早々はがきをお届け！豪華ゲストは俳優の大沢たかおとギタリストの押尾コータローが登場！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150101023000 +0900" stop="20150101023500 +0900" channel="GR_1024" event_id="14765">
+    <title lang="ja_JP">放送９０年　もっと届け、大切なこと</title>
+    <desc lang="ja_JP">２０１５年は、日本でラジオ放送が開始されてから９０周年の節目の年。さらに新しいメディアへと進化を続けるＮＨＫがお届けする放送９０年の年の取り組みについて紹介。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101023500 +0900" stop="20150101030500 +0900" channel="GR_1024" event_id="5853">
+    <title lang="ja_JP">タイムスクープハンター選「激流！ふんどし男の渡し」【字】</title>
+    <desc lang="ja_JP">シーズン６の第１２回。時空ジャーナリストの沢嶋雄一（要潤）は江戸時代へタイムワープ。東海道の難所、大井川の川越えを担う男たちの奔走ぶりをリポートする。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101030500 +0900" stop="20150101033500 +0900" channel="GR_1024" event_id="5857">
+    <title lang="ja_JP">タイムスクープハンター選「リベンジ　敵を討て！」（前編）【字】</title>
+    <desc lang="ja_JP">シーズン６の第１８回。時空ジャーナリストの沢嶋雄一（要潤）と古橋ミナミ（杏）は江戸時代へタイムワープ。親を殺された子の敵討ちについて２人が密着取材を行う。前編</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101033500 +0900" stop="20150101040500 +0900" channel="GR_1024" event_id="5861">
+    <title lang="ja_JP">タイムスクープハンター選「リベンジ　敵を討て！」（後編）【字】</title>
+    <desc lang="ja_JP">シーズン６の第１９回。沢嶋雄一（要潤）と古橋ミナミ（杏）は江戸時代へタイムワープ。両親と兄を殺された女性が行う敵討ちについて密着取材をする。後編</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101040500 +0900" stop="20150101043000 +0900" channel="GR_1024" event_id="9212">
+    <title lang="ja_JP">にっぽん紀行「少年たちの“コマ広場”〜福岡　太宰府〜」【字】【再】</title>
+    <desc lang="ja_JP">福岡・太宰府天満宮で、１２月、年に一度の「コマ大会」が開かれる。近くの広場には、コマに熱中する少年が毎日集まる。“真剣勝負”を通じ、少年たちは何をつかむのか…。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101043000 +0900" stop="20150101050000 +0900" channel="GR_1024" event_id="6936">
+    <title lang="ja_JP">美の壺「私の富士山」【字】【再】</title>
+    <desc lang="ja_JP">身近なテーマを中心に、美術鑑賞を３つのツボでわかりやすく指南する新感覚美術番組。今回は「私の富士山」。案内役：草刈正雄</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101050000 +0900" stop="20150101051000 +0900" channel="GR_1024" event_id="5866">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101051000 +0900" stop="20150101054000 +0900" channel="GR_1024" event_id="6036">
+    <title lang="ja_JP">ダーウィンが来た！選「タカが集団でスズメバチ巨大巣を襲う」【字】</title>
+    <desc lang="ja_JP">タカの“軍団”がスズメバチと壮絶な死闘を繰り広げる！舞台は台湾。タカの名はハチクマ。ハチを操る魔法のような“秘策”を繰り出し、巧みに巣を攻略する様子をスクープ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101054000 +0900" stop="20150101055000 +0900" channel="GR_1024" event_id="12901">
+    <title lang="ja_JP">１０分で連続テレビ小説「マッサン」メイキング〜北海道余市編〜【字】</title>
+    <desc lang="ja_JP">絶賛放送中の連続テレビ小説「マッサン」。北海道余市編の見どころをメイキング映像や出演者のインタビューを交え、余すところなくお見せします！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150101055000 +0900" stop="20150101055500 +0900" channel="GR_1024" event_id="9558">
+    <title lang="ja_JP">復興支援ソング「花は咲く」〜羽生結弦Ｖｅｒ．〜故郷の復興に祈りを込めて</title>
+    <desc lang="ja_JP">ソチオリンピック金メダリストの羽生結弦が、震災復興支援ソング「花は咲く」を滑る。ふるさと東北の復興に祈りを込めて送る「花は咲く」スペシャルバージョン。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150101055500 +0900" stop="20150101060000 +0900" channel="GR_1024" event_id="8253">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」のみどころ＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」のみどころを紹介。主人公・杉文を育んだ家族の絆。文の兄・吉田松陰とその友・小田村伊之助との友情や、松下村塾の塾生たちと文の青春の日々を描く。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101060000 +0900" stop="20150101061500 +0900" channel="GR_1024" event_id="5868">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101061500 +0900" stop="20150101065000 +0900" channel="GR_1024" event_id="11248">
+    <title lang="ja_JP">うまいッ！選「みずみずしさが絶品！水なす〜大阪　貝塚市〜」【字】</title>
+    <desc lang="ja_JP">「うまいッ！」と声をあげたくなるほどおいしい日本各地の食材を取り上げ、魅力を再発見する番組。今回は、大阪の特産「水なす」を紹介する。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101065000 +0900" stop="20150101065400 +0900" channel="GR_1024" event_id="14312">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「ネクストワールド」＜１月２４日から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101065400 +0900" stop="20150101070000 +0900" channel="GR_1024" event_id="5871">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101070000 +0900" stop="20150101072000 +0900" channel="GR_1024" event_id="5878">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101072000 +0900" stop="20150101082000 +0900" channel="GR_1024" event_id="5880">
+    <title lang="ja_JP">ＮＨＫスペシャル「京都御所〜秘められた千年の美〜」【字】</title>
+    <desc lang="ja_JP">代々の帝（みかど）が暮らした京都御所を通年取材。豪華な装飾の玉座、黄金の障壁画１８００枚、神話の時代から伝わる宝を祀った部屋。至宝の数々と美しい御所の四季を記録</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101082000 +0900" stop="20150101115400 +0900" channel="GR_1024" event_id="5885">
+    <title lang="ja_JP">新春　つなげようニッポン！２０１５めでたいカレンダー</title>
+    <desc lang="ja_JP">２０１５年に新たにつながる絆。「つながり」をテーマに一年の出来事を大予想。お宝映像盛りだくさん。全国５か所からの中継も。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150101115400 +0900" stop="20150101120003 +0900" channel="GR_1024" event_id="5888">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101120003 +0900" stop="20150101121500 +0900" channel="GR_1024" event_id="5891">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101121500 +0900" stop="20150101130000 +0900" channel="GR_1024" event_id="5893">
+    <title lang="ja_JP">新春バラエティー生活笑百科　ま〜るくおさめて３０年「相続について考えよう」【字】</title>
+    <desc lang="ja_JP">番組開始から３０年となる生活笑百科の新春特集。第１部は１日から制度が変わる相続税に関する相談をゲストの中村美律子や宮下純一を交え爆笑トーク。税理士がポイント解説</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150101130000 +0900" stop="20150101130500 +0900" channel="GR_1024" event_id="5894">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101130500 +0900" stop="20150101134500 +0900" channel="GR_1024" event_id="7816">
+    <title lang="ja_JP">新春バラエティー生活笑百科　ま〜るくおさめて３０年「今後のくらしと法律は？」【字】</title>
+    <desc lang="ja_JP">放送開始３０年となる「バラエティー生活笑百科」新春特集の第２部。弁護士、相談員がペアを組み爆笑討論。以前の相談員、桂南光が１４年ぶりに出演。ゲストは天童よしみ他</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150101134500 +0900" stop="20150101135000 +0900" channel="GR_1024" event_id="5897">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」のみどころ＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」のみどころを紹介。主人公・杉文を育んだ家族の絆。文の兄・吉田松陰とその友・小田村伊之助との友情や、松下村塾の塾生たちと文の青春の日々を描く。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101135000 +0900" stop="20150101140000 +0900" channel="GR_1024" event_id="6042">
+    <title lang="ja_JP">羽生結弦　世界へ届ける「花は咲く」ｆｒｏｍ　ＮＨＫ杯フィギュア【字】</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150101140000 +0900" stop="20150101162500 +0900" channel="GR_1024" event_id="5899">
+    <title lang="ja_JP">第３６回皇后杯全日本女子サッカー選手権決勝「浦和レッズ」対「日テレ・ベレーザ」【字】</title>
+    <desc lang="ja_JP">（試合開始　２：１５）　【ゲスト】サッカー女子日本代表…近賀ゆかり，【解説】宮本ともみ，矢野喬子，【アナウンサー】鳥海貴樹　〜味の素スタジアムから中継〜</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150101162500 +0900" stop="20150101163000 +0900" channel="GR_1024" event_id="5900">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101163000 +0900" stop="20150101164000 +0900" channel="GR_1024" event_id="6043">
+    <title lang="ja_JP">ドラマ１０「全力離婚相談」のすべて【字】</title>
+    <desc lang="ja_JP">離婚相談室を立ち上げた竹内美晴が、毎回さまざまな夫婦の修羅場を、弁護士の知識と経験を生かして解決していく物語。メイキング映像などを交え、その魅力をお届けする。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150101164000 +0900" stop="20150101164500 +0900" channel="GR_1024" event_id="6975">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101164500 +0900" stop="20150101180000 +0900" channel="GR_1024" event_id="5902">
+    <title lang="ja_JP">ＮＨＫスペシャル「カラーでよみがえる東京〜不死鳥都市の１００年〜」【字】【再】</title>
+    <desc lang="ja_JP">東京を撮影した白黒の記録映像を世界中から収集し、色彩を復元！初公開のフルカラー映像で描く東京１００年の物語。激動の歩みを追体験するタイムトラベルへようこそ。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101180000 +0900" stop="20150101180500 +0900" channel="GR_1024" event_id="5907">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101180500 +0900" stop="20150101185000 +0900" channel="GR_1024" event_id="5908">
+    <title lang="ja_JP">妄想ニホン料理　新春スペシャル「ウィーンから来たイケメン兄弟の巻」【字】</title>
+    <desc lang="ja_JP">ウィーンからイケメン兄弟が来日。食い尽くし旅を決行しながら、行く先々で見知らぬ日本料理を妄想して創作する！テーマは「おせち」。兄弟から日本の料理人への挑戦状も！</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101185000 +0900" stop="20150101185500 +0900" channel="GR_1024" event_id="5913">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101185500 +0900" stop="20150101190003 +0900" channel="GR_1024" event_id="5914">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101190003 +0900" stop="20150101192000 +0900" channel="GR_1024" event_id="5917">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽新年迎え　各地の表情は　【キャスター】武田真一，【気象キャスター】平井信行</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101192000 +0900" stop="20150101203300 +0900" channel="GR_1024" event_id="5918">
+    <title lang="ja_JP">鶴瓶の家族に乾杯〜新春スペシャル〜「井上真央　山口県山口市」（前編）【解】【字】</title>
+    <desc lang="ja_JP">女優で大河ドラマ「花燃ゆ」主役の井上真央が山口県山口市を旅する前編。幕末の志士ゆかりの場所で待ち合わせた鶴瓶と井上は、その後、様々な出会いを繰り広げていく</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150101203300 +0900" stop="20150101203800 +0900" channel="GR_1024" event_id="1970">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」のみどころ＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」のみどころを紹介。主人公・杉文を育んだ家族の絆。文の兄・吉田松陰とその友・小田村伊之助との友情や、松下村塾の塾生たちと文の青春の日々を描く。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101203800 +0900" stop="20150101204000 +0900" channel="GR_1024" event_id="14764">
+    <title lang="ja_JP">放送９０年　もっと届け、大切なこと</title>
+    <desc lang="ja_JP">２０１５年は、日本でラジオ放送が開始されてから９０周年の節目の年。さらに新しいメディアへと進化を続けるＮＨＫがお届けする放送９０年の年の取り組みについて紹介。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150101204000 +0900" stop="20150101204500 +0900" channel="GR_1024" event_id="9190">
+    <title lang="ja_JP">シリーズ世界遺産１００「富岡製糸場と絹産業遺産群〜日本〜」【字】</title>
+    <desc lang="ja_JP">富岡製糸場は明治５年操業の、日本初の官営製糸場。巨大な工場にはフランス製の最新機器が並び、全国から若い工女が集まり、日本の生糸輸出を支え世界の絹に影響を与えた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101204500 +0900" stop="20150101210000 +0900" channel="GR_1024" event_id="5929">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101210000 +0900" stop="20150101221500 +0900" channel="GR_1024" event_id="5931">
+    <title lang="ja_JP">ＮＨＫスペシャル　戦後７０年　ニッポンの肖像「プロローグ」【字】</title>
+    <desc lang="ja_JP">戦後７０年の節目を迎える２０１５年。日本人の生き様やこれからの日本について、豊富な映像とタモリや堺雅人など豪華ゲストのトークをともに伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101221500 +0900" stop="20150101230500 +0900" channel="GR_1024" event_id="5936">
+    <title lang="ja_JP">タイムスクープハンタースペシャル「お正月パニック！改暦大騒動」【字】</title>
+    <desc lang="ja_JP">タイムスクープ社から派遣された時空ジャーナリストの沢嶋雄一はひょんなことから、明治６年１月１日へタイムワープ。旧暦からグレゴリオ暦への変更で慌てる庶民を取材。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150101230500 +0900" stop="20150101231500 +0900" channel="GR_1024" event_id="5941">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150101231500 +0900" stop="20150102004500 +0900" channel="GR_1024" event_id="5943">
+    <title lang="ja_JP">着信御礼！ケータイ大喜利「お正月スペシャル」</title>
+    <desc lang="ja_JP">元日夜も生放送！お正月にちなんだ笑いを「生」でたっぷりお届けします！今田耕司・板尾創路・千原ジュニアのＭＣに加え蛭子さんもゆるく参戦！正月らしくにぎやかな演出も</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150102004500 +0900" stop="20150102005000 +0900" channel="GR_1024" event_id="7118">
+    <title lang="ja_JP">ＮＨＫプレマップ　大河ドラマ「花燃ゆ」＜１月４日（日）スタート＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102005000 +0900" stop="20150102014000 +0900" channel="GR_1024" event_id="7120">
+    <title lang="ja_JP">ファミリーヒストリー「今田耕司〜南洋パラオ　運命を変えた手違い〜」【字】【再】</title>
+    <desc lang="ja_JP">今田は最近、母がパラオからの引き揚げだと知った。一体、なぜパラオに渡ったのか。取材で明らかになる新事実の数々。引き揚げの際、ある手違いが運命を変えることになる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102014000 +0900" stop="20150102023000 +0900" channel="GR_1024" event_id="7123">
+    <title lang="ja_JP">ファミリーヒストリー▽アンコール　浅野忠信〜祖父はなぜ、アメリカに帰ったのか【字】【再】</title>
+    <desc lang="ja_JP">反響を呼んだ番組をアンコール放送。俳優・浅野忠信には、会ったことがないアメリカ人の祖父がいた。一体なぜ、祖父は幼い母を残して帰ったのか。その真実に、浅野は号泣。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102023000 +0900" stop="20150102032000 +0900" channel="GR_1024" event_id="7126">
+    <title lang="ja_JP">ファミリーヒストリー「名取裕子〜幕末の写真　母の形見の真実〜」【字】【再】</title>
+    <desc lang="ja_JP">裕子さんが１４歳の時に亡くなった母。生い立ちや父との出会いなど、何も知らなかった。明らかになる母の思い。そして、幕末に撮られた一枚の写真にルーツを解く鍵があった</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102032000 +0900" stop="20150102041000 +0900" channel="GR_1024" event_id="7129">
+    <title lang="ja_JP">ファミリーヒストリー「テリー伊藤〜たまご焼きの絆　２５０年前の古文書〜」【字】【再】</title>
+    <desc lang="ja_JP">実家は築地のたまご焼き専門店。これまで謎だったその始まりが明らかに。そして、房総半島の母の実家で見つかった２５０年前の古文書。驚きのルーツにテリーさんはぼう然。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102041000 +0900" stop="20150102044000 +0900" channel="GR_1024" event_id="7132">
+    <title lang="ja_JP">美の壺「鎌倉の古寺」【字】</title>
+    <desc lang="ja_JP">身近なテーマを中心に、美術鑑賞を３つのツボでわかりやすく指南する新感覚美術番組。今回は「鎌倉の古寺」。案内役：草刈正雄</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102044000 +0900" stop="20150102045000 +0900" channel="GR_1024" event_id="7135">
+    <title lang="ja_JP">羽生結弦　世界へ届ける「花は咲く」ｆｒｏｍ　ＮＨＫ杯フィギュア【字】</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150102045000 +0900" stop="20150102045500 +0900" channel="GR_1024" event_id="7136">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」のみどころ＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」のみどころを紹介。主人公・杉文を育んだ家族の絆。文の兄・吉田松陰とその友・小田村伊之助との友情や、松下村塾の塾生たちと文の青春の日々を描く。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102045500 +0900" stop="20150102050000 +0900" channel="GR_1024" event_id="7137">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150102050000 +0900" stop="20150102051000 +0900" channel="GR_1024" event_id="7142">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102051000 +0900" stop="20150102055500 +0900" channel="GR_1024" event_id="9791">
+    <title lang="ja_JP">妄想ニホン料理　新春スペシャル「ウィーンから来たイケメン兄弟の巻」【字】【再】</title>
+    <desc lang="ja_JP">ウィーンからイケメン兄弟が来日。食い尽くし旅を決行しながら、行く先々で見知らぬ日本料理を妄想して創作する！テーマは「おせち」。兄弟から日本の料理人への挑戦状も！</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102055500 +0900" stop="20150102060000 +0900" channel="GR_1024" event_id="7144">
+    <title lang="ja_JP">ＮＨＫプレマップ「世界の果ての通学路」＜Ｅテレで１月３日午後５：３０から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102060000 +0900" stop="20150102061500 +0900" channel="GR_1024" event_id="7146">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102061500 +0900" stop="20150102065000 +0900" channel="GR_1024" event_id="11251">
+    <title lang="ja_JP">うまいッ！選「料理がすすむ！究極の日本酒〜広島・呉市〜」【字】</title>
+    <desc lang="ja_JP">「うまいッ！」と声をあげたくなるほどおいしい食材を取り上げ、魅力を再発見する番組。今回は広島の「日本酒」。料理を何倍もおいしくする究極の日本酒の魅力に迫る。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102065000 +0900" stop="20150102065400 +0900" channel="GR_1024" event_id="7149">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150102065400 +0900" stop="20150102065900 +0900" channel="GR_1024" event_id="7152">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102065900 +0900" stop="20150102070000 +0900" channel="GR_1024" event_id="7157">
+    <title lang="ja_JP">放送９０年　もっと届け、大切なこと</title>
+    <desc lang="ja_JP">２０１５年は、日本でラジオ放送が始まって９０周年となる節目の年。その放送９０年をＰＲするミニ番組。ＮＨＫのこれまでの歩みを紹介する。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102070000 +0900" stop="20150102072000 +0900" channel="GR_1024" event_id="7158">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102072000 +0900" stop="20150102083500 +0900" channel="GR_1024" event_id="7160">
+    <title lang="ja_JP">プレシャス　ブルー「カリブ海　クジラの親子と出会う旅」【字】【再】</title>
+    <desc lang="ja_JP">世界の海を素潜りで撮影し“人魚”と呼ばれるフリーダイバー、二木あい。マッコウクジラが子育てをするドミニカ国の海で、クジラ親子のありのままの姿の撮影に挑む。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102083500 +0900" stop="20150102095000 +0900" channel="GR_1024" event_id="7165">
+    <title lang="ja_JP">ＮＨＫスペシャル　戦後７０年　ニッポンの肖像「プロローグ」【字】【再】</title>
+    <desc lang="ja_JP">戦後７０年の節目を迎える２０１５年。日本人の生き様やこれからの日本について、豊富な映像とタモリや堺雅人など豪華ゲストのトークをともに伝える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102095000 +0900" stop="20150102100000 +0900" channel="GR_1024" event_id="8245">
+    <title lang="ja_JP">２０１５新春テレビ体操【字】</title>
+    <desc lang="ja_JP">【出演】多胡肇，西川佳克，岡本美佳，【ピアノ】幅しげみ，名川太郎，加藤由美子</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150102100000 +0900" stop="20150102100500 +0900" channel="GR_1024" event_id="7173">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102100500 +0900" stop="20150102101500 +0900" channel="GR_1024" event_id="7354">
+    <title lang="ja_JP">新年一般参賀</title>
+    <desc lang="ja_JP">正月二日、皇居で行われる新年の一般参賀。天皇皇后両陛下をはじめ、皇太子ご夫妻や秋篠宮ご夫妻などの皇族方が、皇居を訪れた人たちと新年を祝われる模様を中継で伝える。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102101500 +0900" stop="20150102110500 +0900" channel="GR_1024" event_id="7175">
+    <title lang="ja_JP">タイムスクープハンタースペシャル「お正月パニック！改暦大騒動」【字】【再】</title>
+    <desc lang="ja_JP">タイムスクープ社から派遣された時空ジャーナリストの沢嶋雄一はひょんなことから、明治６年１月１日へタイムワープ。旧暦からグレゴリオ暦への変更で慌てる庶民を取材。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102110500 +0900" stop="20150102114000 +0900" channel="GR_1024" event_id="7180">
+    <title lang="ja_JP">スター☆ウーマン〜輝くアメリカ女性の仕事物語〜【字】【再】</title>
+    <desc lang="ja_JP">女性がアメリカ社会で成功する秘けつは何か？家庭との両立は？妊娠中にヘリコプター取材！国際派ＴＶ記者のラダッツ氏とスポーツ用品メーカー最高幹部ジャクソン氏に聞く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102114000 +0900" stop="20150102115000 +0900" channel="GR_1024" event_id="7185">
+    <title lang="ja_JP">ドラマ１０「全力離婚相談」のすべて【字】</title>
+    <desc lang="ja_JP">離婚相談室を立ち上げた竹内美晴が、毎回さまざまな夫婦の修羅場を、弁護士の知識と経験を生かして解決していく物語。メイキング映像などを交え、その魅力をお届けする。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150102115000 +0900" stop="20150102115400 +0900" channel="GR_1024" event_id="11899">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102115400 +0900" stop="20150102120003 +0900" channel="GR_1024" event_id="7189">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102120003 +0900" stop="20150102121500 +0900" channel="GR_1024" event_id="7192">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102121500 +0900" stop="20150102155000 +0900" channel="GR_1024" event_id="7194">
+    <title lang="ja_JP">第５１回全国大学ラグビー選手権　準決勝「筑波×東海」「帝京×慶応」【多】【字】</title>
+    <desc lang="ja_JP">ラグビー大学日本一をかけ、４強が激突。聖地・秩父宮が今年の舞台。第２試合には６連覇をめざす帝京が登場。慶応が伝統校の意地で待ったをかけるか。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150102155000 +0900" stop="20150102155500 +0900" channel="GR_1024" event_id="7195">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102155500 +0900" stop="20150102160000 +0900" channel="GR_1024" event_id="14314">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「ネクストワールド」＜１月２４日から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102160000 +0900" stop="20150102174000 +0900" channel="GR_1024" event_id="7198">
+    <title lang="ja_JP">ＢＳ１スペシャル「“世界の壁”を越えろ〜松山英樹×石川遼　密着１年」【字】</title>
+    <desc lang="ja_JP">松山英樹と石川遼。世界の壁に挑む同い年の２人に密着取材。その知られざる苦闘の日々に迫るドキュメント。未公開映像で描く２２歳の素顔と、２人で追いかける「夢」とは？</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150102174000 +0900" stop="20150102175000 +0900" channel="GR_1024" event_id="7202">
+    <title lang="ja_JP">羽生結弦　世界へ届ける「花は咲く」ｆｒｏｍ　ＮＨＫ杯フィギュア【字】</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150102175000 +0900" stop="20150102180000 +0900" channel="GR_1024" event_id="13821">
+    <title lang="ja_JP">１０分で連続テレビ小説「マッサン」メイキング〜北海道余市編〜【字】</title>
+    <desc lang="ja_JP">絶賛放送中の連続テレビ小説「マッサン」。北海道余市編の見どころをメイキング映像や出演者のインタビューを交え、余すところなくお見せします！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150102180000 +0900" stop="20150102180500 +0900" channel="GR_1024" event_id="7206">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102180500 +0900" stop="20150102185000 +0900" channel="GR_1024" event_id="7207">
+    <title lang="ja_JP">ＭＩＳＳＩＯＮ〜若田光一船長に迫る！４００人の質問〜【字】</title>
+    <desc lang="ja_JP">番組では、様々な年代や立場の視聴者からお悩みを大募集し、宇宙飛行士の若田光一さんに質問。国際宇宙ステーションで体験したトラブルとその対応策から、お悩みに答える。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102185000 +0900" stop="20150102185500 +0900" channel="GR_1024" event_id="7212">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102185500 +0900" stop="20150102190003 +0900" channel="GR_1024" event_id="7213">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102190003 +0900" stop="20150102193000 +0900" channel="GR_1024" event_id="7216">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽皇居で新年の一般参賀　▽箱根駅伝　往路優勝は　【キャスター】守本奈実，【サブキャスター】瀧川剛史，【気象キャスター】平井信行</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102193000 +0900" stop="20150102204300 +0900" channel="GR_1024" event_id="7217">
+    <title lang="ja_JP">日本列島誕生〜大絶景に超低空で肉薄！〜【字】</title>
+    <desc lang="ja_JP">日本列島は、どのように生まれ変化してきたのか。激しい火山活動が続く小笠原諸島の西之島や各地の絶景を無人飛行機など特殊な空撮で捉え、列島誕生の歴史とロマンに迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150102204300 +0900" stop="20150102204500 +0900" channel="GR_1024" event_id="7218">
+    <title lang="ja_JP">放送９０年　もっと届け、大切なこと</title>
+    <desc lang="ja_JP">２０１５年は、日本でラジオ放送が始まって９０周年となる節目の年。その放送９０年をＰＲするミニ番組。ＮＨＫのこれまでの歩みを紹介する。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150102204500 +0900" stop="20150102210000 +0900" channel="GR_1024" event_id="7221">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102210000 +0900" stop="20150102221500 +0900" channel="GR_1024" event_id="7223">
+    <title lang="ja_JP">世界遺産ドリームツアー！「外国人が驚く！　古都　奈良＆京都」【字】</title>
+    <desc lang="ja_JP">京都が外国人が訪れたい都市世界一に。金閣、銀閣、清水寺…どこに驚くのか？大仏や薬師寺にも知らない秘密が一杯。にしゃんたとパックンが外国人目線で奈良と京都を大探検</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150102221500 +0900" stop="20150102230500 +0900" channel="GR_1024" event_id="7228">
+    <title lang="ja_JP">探検バクモンスペシャル　変幻夢幻！ＴＯＫＹＯベイエリア【解】【字】</title>
+    <desc lang="ja_JP">巨大キリン出現！？摩天楼の美女軍団？ここは東京ベイエリア、時代の欲望とともに変貌を続けニッポンを映し出す場所。爆笑問題が壇蜜と共に、未来を探るべく探検に出発！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150102230500 +0900" stop="20150102231500 +0900" channel="GR_1024" event_id="7231">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150102231500 +0900" stop="20150103010500 +0900" channel="GR_1024" event_id="7233">
+    <title lang="ja_JP">スペシャルドラマ　ロング・グッドバイ　リミテッド・エディション【解】【字】</title>
+    <desc lang="ja_JP">５回連続で放送した土曜ドラマ「ロング・グッドバイ」を大胆に再構成した「特別限定版」。私立探偵増沢磐二（浅野忠信）は、殺人容疑かけられた友の無実を証明できるのか？</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150103010500 +0900" stop="20150103011500 +0900" channel="GR_1024" event_id="8453">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」の物語＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」第一回のストーリーのみどころを紹介。ヒロイン・文が、兄・吉田寅次郎（伊勢谷友介）と小田村伊之助（大沢たかお）を運命的な出会いに導く物語。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103011500 +0900" stop="20150103020500 +0900" channel="GR_1024" event_id="8456">
+    <title lang="ja_JP">ＮＨＫスペシャル　ホットスポット　最後の楽園　ｓｅａｓｏｎ２「第１回」【SS】【字】【再】</title>
+    <desc lang="ja_JP">ホットスポットを訪ねる福山雅治の旅。巨大植物や巨大怪鳥など謎の生きものの宝庫、アフリカ大地溝帯。さらに、福山は巨大ゴリラにも遭遇！その時とった驚きの行動とは？</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103020500 +0900" stop="20150103021000 +0900" channel="GR_1024" event_id="8459">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「ネクストワールド」＜１月３日・４日放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103021000 +0900" stop="20150103030000 +0900" channel="GR_1024" event_id="8461">
+    <title lang="ja_JP">ＮＨＫスペシャル　ホットスポット　最後の楽園　ｓｅａｓｏｎ２「第２回」【SS】【字】【再】</title>
+    <desc lang="ja_JP">福山雅治が巡る地球の旅はアフリカ・ナミブ砂漠が舞台。大地を埋め尽くすミステリーサークルの謎をついに解明！？疾走するカメレオンや幻の珍獣ツチブタの素顔に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103030000 +0900" stop="20150103030500 +0900" channel="GR_1024" event_id="14318">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「ネクストワールド」＜１月２４日から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103030500 +0900" stop="20150103035500 +0900" channel="GR_1024" event_id="8466">
+    <title lang="ja_JP">ＮＨＫスペシャル　ホットスポット　最後の楽園　ｓｅａｓｏｎ２「第３回」【SS】【字】【再】</title>
+    <desc lang="ja_JP">福山雅治が巡る地球の旅は中米コスタリカが舞台。浜辺を埋め尽くす数万匹のカメの集団産卵、世界一美しい鳥ケツアール、宝石色に輝く鳥や昆虫など生物多様性の謎に迫る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103035500 +0900" stop="20150103040000 +0900" channel="GR_1024" event_id="8469">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「ネクストワールド」＜１月３日・４日放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103040000 +0900" stop="20150103043000 +0900" channel="GR_1024" event_id="8471">
+    <title lang="ja_JP">美の壺「ごはん茶碗（わん）」【字】【再】</title>
+    <desc lang="ja_JP">身近なテーマを３つのツボで指南する美術番組。今回は「ごはん茶碗（わん）」。美しいカーブ、縁起の良い図柄、あの坂本龍馬や富本憲吉のマイ茶碗も紹介！案内役：草刈正雄</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103043000 +0900" stop="20150103050000 +0900" channel="GR_1024" event_id="8474">
+    <title lang="ja_JP">美の壺「箸置き」【字】【再】</title>
+    <desc lang="ja_JP">身近なテーマを中心に、美術鑑賞を３つのツボでわかりやすく指南する新感覚美術番組。今回は「箸置き」。案内役：草刈正雄</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103050000 +0900" stop="20150103051000 +0900" channel="GR_1024" event_id="8477">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103051000 +0900" stop="20150103055500 +0900" channel="GR_1024" event_id="9341">
+    <title lang="ja_JP">ためしてガッテン選「酒と肝臓と男と女ＳＰ」【解】【字】</title>
+    <desc lang="ja_JP">まさかお酒で！？お酒を飲むと、男性の○○が女性化！？また、女性の体内で増える、ある物質とは。「お酒が以前より強くなった」に潜む落とし穴。お酒の常識が変わる！</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103055500 +0900" stop="20150103055700 +0900" channel="GR_1024" event_id="8479">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103055700 +0900" stop="20150103060000 +0900" channel="GR_1024" event_id="8480">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150103060000 +0900" stop="20150103061500 +0900" channel="GR_1024" event_id="8481">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103061500 +0900" stop="20150103065000 +0900" channel="GR_1024" event_id="11986">
+    <title lang="ja_JP">うまいッ！選「甘くてプリプリ！伊勢えび〜三重　志摩市〜」【字】</title>
+    <desc lang="ja_JP">「うまいッ！」と声をあげたくなるほどおいしい日本各地の食材を取り上げ、その魅力を再発見する番組。今回は三重県伊勢志摩の高級食材「伊勢えび」の魅力を紹介する。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103065000 +0900" stop="20150103065400 +0900" channel="GR_1024" event_id="8484">
+    <title lang="ja_JP">ＮＨＫプレマップ　テクネＩＤアワード作品募集中</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103065400 +0900" stop="20150103070000 +0900" channel="GR_1024" event_id="8487">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103070000 +0900" stop="20150103072000 +0900" channel="GR_1024" event_id="8494">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103072000 +0900" stop="20150103075000 +0900" channel="GR_1024" event_id="8496">
+    <title lang="ja_JP">あなたが主役５０ボイス「大河ドラマ・花燃ゆボイス」【字】【再】</title>
+    <desc lang="ja_JP">１月４日に放送が始まる新・大河ドラマ「花燃ゆ」。撮影の舞台裏と豪華俳優陣の意外な素顔を紹介、５０人から「燃えちょるもんは？」を聞いていく。ドラマの楽しみが倍増！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150103075000 +0900" stop="20150103075500 +0900" channel="GR_1024" event_id="8682">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」のみどころ＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」のみどころを紹介。主人公・杉文を育んだ家族の絆。文の兄・吉田松陰とその友・小田村伊之助との友情や、松下村塾の塾生たちと文の青春の日々を描く。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103075500 +0900" stop="20150103080000 +0900" channel="GR_1024" event_id="8683">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150103080000 +0900" stop="20150103081500 +0900" channel="GR_1024" event_id="8498">
+    <title lang="ja_JP">連続テレビ小説「マッサン」年始のごあいさつ【字】</title>
+    <desc lang="ja_JP">１月５日から放送を再開する連続テレビ小説「マッサン」のシリーズ後半の見どころを出演者のインタビューも交えながら余すところなくたっぷりご紹介します！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150103081500 +0900" stop="20150103090500 +0900" channel="GR_1024" event_id="8501">
+    <title lang="ja_JP">ブラタモリ「築地」【字】【再】</title>
+    <desc lang="ja_JP">タモリさんが独自の目線でユニークな街歩きを展開するブラタモリが復活。第２シリーズ初回の舞台は東京・築地。市場になる以前の知られざる築地をたっぷりと紹介する。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150103090500 +0900" stop="20150103095300 +0900" channel="GR_1024" event_id="8505">
+    <title lang="ja_JP">ブラタモリ「三田・麻布　完全版」【字】【再】</title>
+    <desc lang="ja_JP">タモリさんが独自の目線で街歩き。今回はイタリア大使館の日本庭園を特別に拝見！さらに麻布で伝説のガマ池探し…。前回放送分に未公開カットを加えた「完全版」！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150103095300 +0900" stop="20150103095500 +0900" channel="GR_1024" event_id="8507">
+    <title lang="ja_JP">ＮＨＫプレマップ　ブラタモリ〜京都〜＜１月６日（火）午後８時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103095500 +0900" stop="20150103095700 +0900" channel="GR_1024" event_id="8508">
+    <title lang="ja_JP">放送９０年　もっと届け、大切なこと</title>
+    <desc lang="ja_JP">２０１５年は、日本でラジオ放送が開始されてから９０周年の節目の年。さらに新しいメディアへと進化を続けるＮＨＫがお届けする放送９０年の年の取り組みについて紹介。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103095700 +0900" stop="20150103100000 +0900" channel="GR_1024" event_id="14329">
+    <title lang="ja_JP">ＮＨＫプレマップ「ＮＨＫぼうさいマップを作ろう」</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103100000 +0900" stop="20150103100500 +0900" channel="GR_1024" event_id="8515">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103100500 +0900" stop="20150103105300 +0900" channel="GR_1024" event_id="8516">
+    <title lang="ja_JP">ブラタモリ「丸の内」【字】【再】</title>
+    <desc lang="ja_JP">タモリさんが独自の視点で街歩き。今回の舞台は日本最初のビジネス街といわれる東京・丸の内。そもそも海だった土地に巨大オフィスや東京駅が…。その秘密に迫ります。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150103105300 +0900" stop="20150103105500 +0900" channel="GR_1024" event_id="8519">
+    <title lang="ja_JP">ＮＨＫプレマップ　ブラタモリ〜京都〜＜１月６日（火）午後８時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103105500 +0900" stop="20150103114400 +0900" channel="GR_1024" event_id="8520">
+    <title lang="ja_JP">ブラタモリ「渋谷」【字】【再】</title>
+    <desc lang="ja_JP">第２シリーズ最後に歩くのは渋谷。地名の通り「谷」である渋谷を作った渋谷川を源流まで追跡！谷ゆえに渋谷で地上に現れる地下鉄銀座線にも潜入。知られざる世界を大公開。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150103114400 +0900" stop="20150103114600 +0900" channel="GR_1024" event_id="8521">
+    <title lang="ja_JP">ＮＨＫプレマップ　ブラタモリ〜京都〜＜１月６日（火）午後８時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103114600 +0900" stop="20150103115100 +0900" channel="GR_1024" event_id="8522">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」のみどころ＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」のみどころを紹介。主人公・杉文を育んだ家族の絆。文の兄・吉田松陰とその友・小田村伊之助との友情や、松下村塾の塾生たちと文の青春の日々を描く。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103115100 +0900" stop="20150103115400 +0900" channel="GR_1024" event_id="8523">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150103115400 +0900" stop="20150103120003 +0900" channel="GR_1024" event_id="8524">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103120003 +0900" stop="20150103121500 +0900" channel="GR_1024" event_id="8527">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103121500 +0900" stop="20150103160000 +0900" channel="GR_1024" event_id="8529">
+    <title lang="ja_JP">初笑い東西寄席２０１５</title>
+    <desc lang="ja_JP">東京のスタジオを軸に、東京と大阪の４つの劇場を生中継で結び、ベテランから若手までの落語・漫才・コントなどを「初席」の雰囲気とともにお届けする。司会は爆笑問題。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150103160000 +0900" stop="20150103162500 +0900" channel="GR_1024" event_id="8534">
+    <title lang="ja_JP">所さん！大変ですよ　年末ＳＰ「世にも奇妙な“シロクマ”大発見！？」【字】【再】</title>
+    <desc lang="ja_JP">ホッキョクグマを巡る驚きの“事件”に迫る。今年５月、ある水族館が「ホッキョクグマ代、返せ！」と動物商を提訴。その裏側を探ると世界規模の争奪戦が浮かび上がってきた</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103162500 +0900" stop="20150103163000 +0900" channel="GR_1024" event_id="8535">
+    <title lang="ja_JP">ＮＨＫプレマップ　大河ドラマ「花燃ゆ」＜１月４日（日）スタート＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103163000 +0900" stop="20150103180000 +0900" channel="GR_1024" event_id="8537">
+    <title lang="ja_JP">連続テレビ小説　マッサン総集編　前編　Ｄｅａｒ　Ｍｏｔｈｅｒ〜縁は異なもの【解】【字】【再】</title>
+    <desc lang="ja_JP">連続テレビ小説「マッサン」の全２５週のうち前半の第１３週までのマッサンとエリーの夫婦の冒険物語をたっぷりの名場面とともに振り返る総集編としてお届けします。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150103180000 +0900" stop="20150103180500 +0900" channel="GR_1024" event_id="8542">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103180500 +0900" stop="20150103185000 +0900" channel="GR_1024" event_id="8543">
+    <title lang="ja_JP">いよいよ「花燃ゆ」スペシャル【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」主人公・杉文をとりまく家族役の面々が続々登場。井上真央らによる女子トーク、東出昌大の歴史旅、原田泰造の幕末解説のほか、萩のお雑煮も登場する！</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150103185000 +0900" stop="20150103185500 +0900" channel="GR_1024" event_id="8547">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103185500 +0900" stop="20150103190003 +0900" channel="GR_1024" event_id="8548">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103190003 +0900" stop="20150103193000 +0900" channel="GR_1024" event_id="8551">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽Ｕターンの混雑は？　▽各地で新年の行事　【キャスター】守本奈実，【サブキャスター】瀧川剛史，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103193000 +0900" stop="20150103204300 +0900" channel="GR_1024" event_id="8552">
+    <title lang="ja_JP">ＮＨＫスペシャル　ネクストワールド　私たちの未来「第１回」【字】</title>
+    <desc lang="ja_JP">ＮＨＫスペシャルの新シリーズ。５回に渡り、出現する新たなテクノロジーをかみ砕き、私たちの生活をどう変えるのかを探る。第１回は、人工知能の進化で発達する未来予測。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103204300 +0900" stop="20150103204500 +0900" channel="GR_1024" event_id="8553">
+    <title lang="ja_JP">放送９０年　もっと届け、大切なこと</title>
+    <desc lang="ja_JP">２０１５年は、日本でラジオ放送が始まって９０周年となる節目の年。その放送９０年をＰＲするミニ番組。ＮＨＫのこれまでの歩みを紹介する。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150103204500 +0900" stop="20150103210000 +0900" channel="GR_1024" event_id="8556">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103210000 +0900" stop="20150103221500 +0900" channel="GR_1024" event_id="8558">
+    <title lang="ja_JP">７０年です！のど自慢　全部見せます歌います　スペシャル【字】</title>
+    <desc lang="ja_JP">▽昭和２１年にスタートした「のど自慢」。今回は放送開始から７０年目の新春にお送りする記念スペシャル！バラエティーに富んだゲストを迎えてのおしゃべり合戦・歌合戦！</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150103221500 +0900" stop="20150103233000 +0900" channel="GR_1024" event_id="8563">
+    <title lang="ja_JP">世界へＧＯ！　まるわかり幕末長州【字】</title>
+    <desc lang="ja_JP">２０１５年大河ドラマ「花燃ゆ」の舞台となる幕末長州。なぜ長州藩は明治維新の立役者になれたのか？世界各地に残る幕末長州の足跡をたどり、歴史の流れを読み解いていく。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150103233000 +0900" stop="20150103234000 +0900" channel="GR_1024" event_id="8568">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150103234000 +0900" stop="20150104004000 +0900" channel="GR_1024" event_id="8570">
+    <title lang="ja_JP">新春テレビ放談２０１５【字】</title>
+    <desc lang="ja_JP">ＮＨＫ・民放を問わず、視聴者が選んだ２０１４年の人気番組ランキングを元に、その魅力や舞台裏についてギリギリ＆爆笑トーク。気鋭のゲストだから話せる業界裏話満載。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104004000 +0900" stop="20150104004200 +0900" channel="GR_1024" event_id="8944">
+    <title lang="ja_JP">ＮＨＫプレマップ　ブラタモリ〜京都〜＜１月６日（火）午後８時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104004200 +0900" stop="20150104004500 +0900" channel="GR_1024" event_id="8945">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150104004500 +0900" stop="20150104005000 +0900" channel="GR_1024" event_id="8946">
+    <title lang="ja_JP">大河ドラマ「花燃ゆ」のみどころ＜１月４日（日）スタート＞【字】</title>
+    <desc lang="ja_JP">大河ドラマ「花燃ゆ」のみどころを紹介。主人公・杉文を育んだ家族の絆。文の兄・吉田松陰とその友・小田村伊之助との友情や、松下村塾の塾生たちと文の青春の日々を描く。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104005000 +0900" stop="20150104013500 +0900" channel="GR_1024" event_id="8947">
+    <title lang="ja_JP">歴史秘話ヒストリア「先生、そりゃムチャです！〜吉田松陰　人生体当たり〜」【解】【字】【再】</title>
+    <desc lang="ja_JP">ある時は雪山越えの冒険野郎。ある時はアメリカ夢見る密航者。そしてある時は、政治家を批判する熱血漢。その正体は幕末の偉人、吉田松陰。体当たり人生が日本を変えた！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104013500 +0900" stop="20150104014000 +0900" channel="GR_1024" event_id="8953">
+    <title lang="ja_JP">ＮＨＫプレマップ　戦後史証言プロジェクト　知の巨人たち＜１月１０日（土）放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104014000 +0900" stop="20150104022500 +0900" channel="GR_1024" event_id="8955">
+    <title lang="ja_JP">歴史秘話ヒストリア「高杉晋作“愛され・やんちゃ”革命！」【解】【字】【再】</title>
+    <desc lang="ja_JP">幕末の過激なヒーロー・高杉晋作。やることなすこと“やんちゃ”で型破り。でもなぜか仲間から愛され助けられながら時代を変えた若者の、夢と挫折と全力疾走の青春秘話。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104022500 +0900" stop="20150104023000 +0900" channel="GR_1024" event_id="8961">
+    <title lang="ja_JP">ＮＨＫプレマップ　木曜時代劇「風の峠〜銀漢の賦〜」＜１月１５日夜８時スタート＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104023000 +0900" stop="20150104031500 +0900" channel="GR_1024" event_id="8963">
+    <title lang="ja_JP">歴史秘話ヒストリア「“奇兵隊”デビュー！〜幕末　若者たち一発逆転の夢〜」【解】【字】【再】</title>
+    <desc lang="ja_JP">動乱の幕末。「戦いは武士」という常識を大きく覆し、庶民を交えて結成された「奇兵隊」。人生の一発逆転をかけた「はみ出し者」たちの胸の内をドラマ仕立てで描く。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104031500 +0900" stop="20150104040000 +0900" channel="GR_1024" event_id="8969">
+    <title lang="ja_JP">歴史秘話ヒストリア「逃げちゃだめだ〜逃亡者・桂小五郎　明治をひらく」【解】【字】【再】</title>
+    <desc lang="ja_JP">明治維新の立役者・桂小五郎には“土壇場になると逃げ出す”という弱さがあった。その小五郎が「もう逃げない」と決めた時、幕末最大のミッション「薩長同盟」が動き出す。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104040000 +0900" stop="20150104041000 +0900" channel="GR_1024" event_id="8975">
+    <title lang="ja_JP">ドラマ１０「全力離婚相談」のすべて【字】</title>
+    <desc lang="ja_JP">離婚相談室を立ち上げた竹内美晴が、毎回さまざまな夫婦の修羅場を、弁護士の知識と経験を生かして解決していく物語。メイキング映像などを交え、その魅力をお届けする。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150104041000 +0900" stop="20150104041500 +0900" channel="GR_1024" event_id="8976">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150104041500 +0900" stop="20150104042000 +0900" channel="GR_1024" event_id="8980">
+    <title lang="ja_JP">羽生結弦　世界へ届ける「花は咲く」</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104042000 +0900" stop="20150104042500 +0900" channel="GR_1024" event_id="8981">
+    <title lang="ja_JP">名曲アルバム「春の海」</title>
+    <desc lang="ja_JP">　宮城道雄・作曲　（バイオリン）篠崎史紀，（箏）砂崎知子　〜広島県・福山市〜</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104042500 +0900" stop="20150104043000 +0900" channel="GR_1024" event_id="8982">
+    <title lang="ja_JP">シリーズ世界遺産１００「富士山　信仰の対象と芸術の源泉〜日本〜」【字】</title>
+    <desc lang="ja_JP">富士山の山頂は極楽浄土とされ、江戸時代には団体で参拝する富士講が大流行。やがて浮世絵などに描かれ、人々の富士山への愛着を深め、その名を世界に広めることになった。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104043000 +0900" stop="20150104050000 +0900" channel="GR_1024" event_id="8983">
+    <title lang="ja_JP">イッピン・選「アツアツ！しあわせの土鍋〜三重　四日市萬古焼（ばんこやき）〜」【字】</title>
+    <desc lang="ja_JP">冬に大活躍する土鍋。三重県四日市で「割れない土鍋」が開発されたことで全国に広がった。白鳥久美子が秘密をリサーチ。また最近開発されたおしゃれな土鍋を紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104050000 +0900" stop="20150104051500 +0900" channel="GR_1024" event_id="8986">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104051500 +0900" stop="20150104054500 +0900" channel="GR_1024" event_id="9803">
+    <title lang="ja_JP">三遊亭小円歌の演芸図鑑・選「ポカスカジャン、金原亭世之介、三遊亭圓歌」【字】</title>
+    <desc lang="ja_JP">三味線漫談・三遊亭小円歌のナビゲートで、とっておきの演芸と対談をお届けします。演芸は、ポカスカジャン、金原亭世之介の落語。対談のゲストは、三遊亭圓歌</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104054500 +0900" stop="20150104055000 +0900" channel="GR_1024" event_id="13017">
+    <title lang="ja_JP">５分で「マッサン」　第１３週「急（せ）いては事をし損じる」【字】</title>
+    <desc lang="ja_JP">マッサン（玉山鉄二）と英一郎（浅香航大）は大不況で経営傾く鴨居商店を立て直すべく、今あるウイスキー原酒でブレンドするよう鴨居（堤真一）から指示されて…。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150104055000 +0900" stop="20150104060000 +0900" channel="GR_1024" event_id="8992">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104060000 +0900" stop="20150104061500 +0900" channel="GR_1024" event_id="9001">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104061500 +0900" stop="20150104065000 +0900" channel="GR_1024" event_id="9003">
+    <title lang="ja_JP">うまいッ！「モチモチ　うまみが調和！昆布巻きかまぼこ〜富山市〜」【字】</title>
+    <desc lang="ja_JP">富山で江戸時代から伝わる「昆布巻きかまぼこ」。昆布のグルタミン酸とすり身のイノシン酸、その相乗効果でうまみが深まり、高温で一気に蒸すことで、柔らかな食感になる。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104065000 +0900" stop="20150104065300 +0900" channel="GR_1024" event_id="9006">
+    <title lang="ja_JP">テレビ　大好き　第２７話「今夜スタート！花燃ゆをもっと楽しもう」【字】</title>
+    <desc lang="ja_JP">今夜から始まる大河ドラマ「花燃ゆ」の見どころについて詳しくご紹介します。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104065300 +0900" stop="20150104070000 +0900" channel="GR_1024" event_id="9010">
+    <title lang="ja_JP">気象情報・ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104070000 +0900" stop="20150104072000 +0900" channel="GR_1024" event_id="9012">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104072000 +0900" stop="20150104085000 +0900" channel="GR_1024" event_id="9014">
+    <title lang="ja_JP">さわやか自然百景　新春特集「四季　日本の自然を感じる旅」【字】</title>
+    <desc lang="ja_JP">深い雪に覆われた高峰、光降り注ぐ広葉樹の森、色鮮やかなサンゴ礁が広がる海…。寒冷地から亜熱帯まで、多様な日本の自然の中、日本人ならではの自然感を改めて体感する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104085000 +0900" stop="20150104090000 +0900" channel="GR_1024" event_id="9019">
+    <title lang="ja_JP">羽生結弦　世界へ届ける「花は咲く」ｆｒｏｍ　ＮＨＫ杯フィギュア【字】</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150104090000 +0900" stop="20150104100000 +0900" channel="GR_1024" event_id="9020">
+    <title lang="ja_JP">データで探る２０１５年【字】</title>
+    <desc lang="ja_JP">２０１５年はどんな年になるのか？いま「ビッグデータ」といわれる膨大な情報が蓄積されている。大量のデータ分析で探る、２０１５年の行方。生放送でお伝えする。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104100000 +0900" stop="20150104100500 +0900" channel="GR_1024" event_id="9023">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104100500 +0900" stop="20150104105300 +0900" channel="GR_1024" event_id="9024">
+    <title lang="ja_JP">明日へ−支えあおう−▽ふるさとの記憶をつむぐ〜失われた街・模型復元プロジェクト【字】</title>
+    <desc lang="ja_JP">津波で流された街並みを模型で復元し、住民たちの思い出を記録するプロジェクトが進められている。街の記憶をつむぐ人々の姿を通して、失われたふるさとへの思いをつづる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104105300 +0900" stop="20150104105500 +0900" channel="GR_1024" event_id="9806">
+    <title lang="ja_JP">明日へ１ｍｉｎ．　６−ｄｉｍ（１）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104105500 +0900" stop="20150104110000 +0900" channel="GR_1024" event_id="9029">
+    <title lang="ja_JP">みんなのうた「ゆきだるまかぞく」「四つ角のメロディー」</title>
+    <desc lang="ja_JP">▽「ゆきだるまかぞく」うた：知久寿焼／▽「四つ角のメロディー」うた：加藤千晶</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104110000 +0900" stop="20150104114300 +0900" channel="GR_1024" event_id="9030">
+    <title lang="ja_JP">地方発　ドキュメンタリー「自分の心が音やねん」【字】【再】</title>
+    <desc lang="ja_JP">吹奏楽の強豪、大阪府立淀川工科高校吹奏楽部。関西弁でゲキが飛ぶ厳しい指導ながら、生徒に愛される名物顧問と部員たちが挑む、全国大会までの３か月を追う。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104114300 +0900" stop="20150104114500 +0900" channel="GR_1024" event_id="9031">
+    <title lang="ja_JP">放送９０年　もっと届け、大切なこと</title>
+    <desc lang="ja_JP">２０１５年は、日本でラジオ放送が始まって９０周年となる節目の年。その放送９０年をＰＲするミニ番組。ＮＨＫのこれまでの歩みを紹介する。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104114500 +0900" stop="20150104115000 +0900" channel="GR_1024" event_id="9034">
+    <title lang="ja_JP">復興支援ソング「花は咲く」</title>
+    <desc lang="ja_JP">東日本大震災の被災地の復興支援曲「花は咲く」フルバージョン。作詞・岩井俊二、作曲・菅野よう子。出演は東北にゆかりの歌手・タレント・スポーツ選手など３４組が参加。</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150104115000 +0900" stop="20150104115300 +0900" channel="GR_1024" event_id="9035">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150104115300 +0900" stop="20150104120003 +0900" channel="GR_1024" event_id="9036">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104120003 +0900" stop="20150104121500 +0900" channel="GR_1024" event_id="9040">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104121500 +0900" stop="20150104125600 +0900" channel="GR_1024" event_id="9042">
+    <title lang="ja_JP">歴史にドキリ　ｆｅａｔ．花燃ゆ　フラワー・バーニング・スペシャル【解】【字】</title>
+    <desc lang="ja_JP">中村獅童が歴史人物にふんして歌い踊り、全国の小中学生に大人気の番組『歴史にドキリ』が、大河ドラマ『花燃ゆ』とコラボ！幕末長州の志士たちの物語をクイズと歌で紹介！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104125600 +0900" stop="20150104130000 +0900" channel="GR_1024" event_id="9045">
+    <title lang="ja_JP">ＮＨＫプレマップ　ブラタモリ〜京都〜＜１月６日（火）午後８時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104130000 +0900" stop="20150104130500 +0900" channel="GR_1024" event_id="9047">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104130500 +0900" stop="20150104145500 +0900" channel="GR_1024" event_id="9048">
+    <title lang="ja_JP">ＮＨＫアーカイブス「戦後７０年　吉永小百合の祈り」【字】</title>
+    <desc lang="ja_JP">女優・吉永小百合さんが、３０年に渡って続けている「原爆詩」の朗読。戦後７０年の年頭に、原爆を語り継ぐ事の意味や、吉永さんの平和への願いをたっぷりと語ってもらう。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104145500 +0900" stop="20150104150000 +0900" channel="GR_1024" event_id="9051">
+    <title lang="ja_JP">ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104150000 +0900" stop="20150104161500 +0900" channel="GR_1024" event_id="14294">
+    <title lang="ja_JP">こんにちは！動物の赤ちゃん２０１４【字】【再】</title>
+    <desc lang="ja_JP">年末恒例となった「こんにちは！動物の赤ちゃん」の第８弾！今年も、動物園の飼育員さんだからこそ撮れた、かわいらしい動物の赤ちゃんの貴重な映像をたっぷりと紹介する。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104161500 +0900" stop="20150104173000 +0900" channel="GR_1024" event_id="9057">
+    <title lang="ja_JP">鶴瓶の家族に乾杯〜新春スペシャル〜「井上真央　山口県山口市」（前編）【解】【字】【再】</title>
+    <desc lang="ja_JP">女優で大河ドラマ「花燃ゆ」主役の井上真央が山口県山口市を旅する前編。幕末の志士ゆかりの場所で待ち合わせた鶴瓶と井上は、その後、様々な出会いを繰り広げていく</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104173000 +0900" stop="20150104180000 +0900" channel="GR_1024" event_id="9062">
+    <title lang="ja_JP">めざせ！２０２０年のオリンピアン「銀メダリスト三宅宏実がスパルタ特訓！？」【字】</title>
+    <desc lang="ja_JP">茨城の山の学校を三宅宏実がサプライズ訪問！高校女王にウエイトリフティングの奥義を伝授する。スパルタ指導に笑顔で食らいつく少女に、最後は伝説のメダリストの父も参戦</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150104180000 +0900" stop="20150104181000 +0900" channel="GR_1024" event_id="9066">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104181000 +0900" stop="20150104184500 +0900" channel="GR_1024" event_id="13830">
+    <title lang="ja_JP">国際報道２０１５　▽新冷戦の最前線で何が　▽ヒマラヤ登山に新兵器【二】</title>
+    <desc lang="ja_JP">ＢＳ１の国際報道番組が地上波初進出！▽東西新冷戦はどこまで冷え込む？新年にユーロを導入した欧州の小国・国境隔てるロシアとの緊張は▽ヒマラヤトレッキングに新兵器！</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104184500 +0900" stop="20150104185300 +0900" channel="GR_1024" event_id="9068">
+    <title lang="ja_JP">首都圏ニュース</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104185300 +0900" stop="20150104190003 +0900" channel="GR_1024" event_id="9069">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104190003 +0900" stop="20150104193000 +0900" channel="GR_1024" event_id="9074">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽“第２の地球”を探せ　▽どう変わる？相続税　【キャスター】守本奈実，【サブキャスター】瀧川剛史，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104193000 +0900" stop="20150104200000 +0900" channel="GR_1024" event_id="9075">
+    <title lang="ja_JP">ダーウィンが来た！「珍獣サイガ　巨大な鼻の秘密！」【字】</title>
+    <desc lang="ja_JP">巨大な鼻をもつ珍獣サイガが主人公。暮らしているのはカザフスタンの大草原。暑さと寒さが厳しい過酷な場所。巨大な鼻には、この場所で生きるための驚きの役割があるという</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104200000 +0900" stop="20150104210000 +0900" channel="GR_1024" event_id="9081">
+    <title lang="ja_JP">花燃ゆ【新】（１）「人むすぶ妹」【解】【字】【デ】</title>
+    <desc lang="ja_JP">幕末・萩。杉文（ふみ）の兄・吉田寅次郎（伊勢谷友介）は日本の未来に危機感を持ち禁書を手にする。文は兄と同じ志を持つ小田村伊之助（大沢たかお）と運命的に出会い…</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150104210000 +0900" stop="20150104211500 +0900" channel="GR_1024" event_id="9082">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104211500 +0900" stop="20150104220500 +0900" channel="GR_1024" event_id="9084">
+    <title lang="ja_JP">ＮＨＫスペシャル　ネクストワールド　私たちの未来「第２回」【字】</title>
+    <desc lang="ja_JP">３０年後の未来を描くシリーズ第２回は、寿命。先進国では３０年後、平均寿命は１００歳に達すると言われる。ガン治療、再生医療の発達、そして若返り薬。驚異の技術とは。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104220500 +0900" stop="20150104232000 +0900" channel="GR_1024" event_id="9087">
+    <title lang="ja_JP">のんびりゆったり路線バスの旅　ふたり旅スペシャル　東北・海岸線に笑顔の花が咲く【字】</title>
+    <desc lang="ja_JP">路線バスに揺られ地域の人々と出会う「のんびりゆったり路線バスの旅」。今回は東北の太平洋側の海岸線を、東北が舞台となった二つのドラマ出演者たちが旅する。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150104232000 +0900" stop="20150104233000 +0900" channel="GR_1024" event_id="9092">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150104233000 +0900" stop="20150104235500 +0900" channel="GR_1024" event_id="9094">
+    <title lang="ja_JP">ＮＥＸＴ　未来のために「笑う　過疎の島で　瀬戸内海　男木島」【字】</title>
+    <desc lang="ja_JP">人、家族、地域、企業、世界…。ＮＥＸＴ・未来を切り開く、ドキュメンタリーの第２回。舞台は、過疎が進み、このままでは集落がなくなりそうな島。学校を再開させた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150104235500 +0900" stop="20150104235900 +0900" channel="GR_1024" event_id="9095">
+    <title lang="ja_JP">ＮＨＫプレマップ　ブラタモリ〜京都〜＜１月６日（火）午後８時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150104235900 +0900" stop="20150105000000 +0900" channel="GR_1024" event_id="9097">
+    <title lang="ja_JP">放送９０年　もっと届け、大切なこと</title>
+    <desc lang="ja_JP">２０１５年は、日本でラジオ放送が始まって９０周年となる節目の年。その放送９０年をＰＲするミニ番組。ＮＨＫのこれまでの歩みを紹介する。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105000000 +0900" stop="20150105000500 +0900" channel="GR_1024" event_id="9977">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105000500 +0900" stop="20150105012000 +0900" channel="GR_1024" event_id="9978">
+    <title lang="ja_JP">ＮＨＫスペシャル　ネクストワールド　私たちの未来「第１回」【字】【再】</title>
+    <desc lang="ja_JP">ＮＨＫスペシャルの新シリーズ。５回に渡り、出現する新たなテクノロジーをかみ砕き、私たちの生活をどう変えるのかを探る。第１回は、人工知能の進化で発達する未来予測。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105012000 +0900" stop="20150105012500 +0900" channel="GR_1024" event_id="14768">
+    <title lang="ja_JP">５分で分かる「花燃ゆ」　第１回「人むすぶ妹」【字】</title>
+    <desc lang="ja_JP">幕末・萩。杉文（ふみ）の兄・吉田寅次郎（伊勢谷友介）は日本の未来に危機感を募らせていた。その頃文は兄と同じ志を持つ小田村伊之助（大沢たかお）と出会う。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150105012500 +0900" stop="20150105021400 +0900" channel="GR_1024" event_id="9985">
+    <title lang="ja_JP">プロフェッショナル　仕事の流儀「バスケットボール部監督・井上眞一」【解】【字】【再】</title>
+    <desc lang="ja_JP">選手が替わり常勝が難しい高校スポーツ界。その常識を覆す女子バスケ部監督・井上眞一。体罰も、学年間の上下関係も、門限以外規則も一切無しという型破りな人育ての極意！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105021400 +0900" stop="20150105021800 +0900" channel="GR_1024" event_id="9987">
+    <title lang="ja_JP">ＮＨＫプレマップ　ＮＨＫスペシャル「ホットスポット最後の楽園」＜１月１１日放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105021800 +0900" stop="20150105021900 +0900" channel="GR_1024" event_id="14774">
+    <title lang="ja_JP">明日へ１ｍｉｎ．「浜のかあちゃん」（１１）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105021900 +0900" stop="20150105022000 +0900" channel="GR_1024" event_id="14775">
+    <title lang="ja_JP">明日へ１ｍｉｎ．　６−ｄｉｍ（１）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105022000 +0900" stop="20150105030800 +0900" channel="GR_1024" event_id="9989">
+    <title lang="ja_JP">プロフェッショナル　仕事の流儀「カツオ漁師・明神学武」【解】【字】【再】</title>
+    <desc lang="ja_JP">日本一と言われるカツオ一本釣り漁師・明神学武（４０）。やさしい笑顔の裏に、カツオの行動を読む驚異の分析力を秘める。記録的不漁の今年、逆転をかけた勝負の漁に密着！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105030800 +0900" stop="20150105031500 +0900" channel="GR_1024" event_id="9991">
+    <title lang="ja_JP">ＮＨＫプレマップ　ブラタモリ〜京都〜＜１月６日（火）午後８時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105031500 +0900" stop="20150105040300 +0900" channel="GR_1024" event_id="9993">
+    <title lang="ja_JP">プロフェッショナル　仕事の流儀▽大事なものは、足元にある〜ポール・スミザー【解】【字】【再】</title>
+    <desc lang="ja_JP">日本の草木を知り尽くすイギリス人ポール・スミザーに密着。彼の手にかかれば“雑草”も庭の主役に早変わり。「自然よりも自然らしい」と称される美しい庭の秘密を探る。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105040300 +0900" stop="20150105040500 +0900" channel="GR_1024" event_id="9995">
+    <title lang="ja_JP">ＮＨＫプレマップ　木曜時代劇「風の峠〜銀漢の賦〜」＜１月１５日夜８時スタート＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105040500 +0900" stop="20150105041000 +0900" channel="GR_1024" event_id="9996">
+    <title lang="ja_JP">みんなのうた「見えない羽根」「はんぶんおとな」</title>
+    <desc lang="ja_JP">▽「見えない羽根」うた：プリシラ・アーン／▽「はんぶんおとな」うた：井上あずみ＆ゆーゆ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150105041000 +0900" stop="20150105041500 +0900" channel="GR_1024" event_id="9997">
+    <title lang="ja_JP">ダウントン・アビー　シーズン２みどころをチェック！</title>
+    <desc lang="ja_JP">【総合テレビ　毎週日曜よる１１時〜放送】第一次世界大戦が勃発し、英国貴族の館「ダウントン・アビー」も大きく変化していく。シーズン２の今後の見どころを紹介。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150105041500 +0900" stop="20150105042000 +0900" channel="GR_1024" event_id="10001">
+    <title lang="ja_JP">シリーズ世界遺産１００「和食　日本人の伝統食文化」【字】</title>
+    <desc lang="ja_JP">四季とともに食す▽無形文化遺産▽新鮮な食材を使って自然の恵みをいただく日本の伝統料理、和食。四季を通して、家族や地域の絆を深める行事とともに継承されてきた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105042000 +0900" stop="20150105043000 +0900" channel="GR_1024" event_id="10002">
+    <title lang="ja_JP">視点・論点「着物と布地」</title>
+    <desc lang="ja_JP">法政大学総長…田中優子</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105043000 +0900" stop="20150105050000 +0900" channel="GR_1024" event_id="10003">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▼国内外の最新ニュース　▼スポーツ情報　▼地域の課題や話題のリポート　▼日本と世界の気象情報　【キャスター】二宮直輝，【気象キャスター】渡辺蘭</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105050000 +0900" stop="20150105063000 +0900" channel="GR_1024" event_id="10006">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▼国内外の最新ニュース　▼スポーツ情報　▼地域の課題や話題のリポート　▼ここに注目！　▼まちかど情報室　▼気象情報</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105063000 +0900" stop="20150105070003 +0900" channel="GR_1024" event_id="10014">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本</title>
+    <desc lang="ja_JP">▼ニュース７項目〜国内外の最新ニュースをコンパクトにお届けします　▼スポーツ情報　▼気象情報　▼世界のニュースザッピング　▼まちかど情報室</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105070003 +0900" stop="20150105074500 +0900" channel="GR_1024" event_id="10018">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">▼国内外の最新ニュース　▼世の中の動きをビビッドに伝える特集　▼スポーツ情報　▼気象情報　※番組内容については変更になる場合があります</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105074500 +0900" stop="20150105080000 +0900" channel="GR_1024" event_id="10019">
+    <title lang="ja_JP">ＮＨＫニュース　おはよう日本【字】</title>
+    <desc lang="ja_JP">▽俳優　斎藤工の２０１５年　映画への愛実らせたい　【キャスター】阿部渉，鈴木奈穂子，【気象キャスター】檜山靖洋</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105080000 +0900" stop="20150105081500 +0900" channel="GR_1024" event_id="10021">
+    <title lang="ja_JP">連続テレビ小説　マッサン（７９）「渡る世間に鬼はない」【解】【字】【デ】</title>
+    <desc lang="ja_JP">営業へと回されたマッサン（玉山鉄二）は、以前から気にかけていた北海道へ営業活動に向かう。一方、エリー（シャーロット）のもとに早苗（泉ピン子）危篤の電報が届く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150105081500 +0900" stop="20150105095500 +0900" channel="GR_1024" event_id="10022">
+    <title lang="ja_JP">あさイチ「特集“羊をめぐるアドベンチャー”」【字】</title>
+    <desc lang="ja_JP">特集「羊をめぐるアドベンチャー」　▽ピカピカ日本「生産量日本一！創作こけし」（古原靖久）▽解決！ゴハン「年の初めのひつじ対決！ふたりの料理ショー」</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105095500 +0900" stop="20150105100000 +0900" channel="GR_1024" event_id="10027">
+    <title lang="ja_JP">みんなの体操【解】【字】</title>
+    <desc lang="ja_JP">【出演】西川佳克，天井澤愛里沙，松下亜実</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150105100000 +0900" stop="20150105100500 +0900" channel="GR_1024" event_id="10028">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105100500 +0900" stop="20150105105000 +0900" channel="GR_1024" event_id="10029">
+    <title lang="ja_JP">ためしてガッテン「肺炎糖尿病に勝つ！筋トレで免疫力ＵＰ技」【解】【字】【再】</title>
+    <desc lang="ja_JP">寝たきり予防だけじゃない！最新研究で、足腰の筋肉の重要性が明らかに。糖尿病、肺炎などの病気に打ち勝つ体になるために、必要不可欠なものだった。コツは３分歩くだけ！</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105105000 +0900" stop="20150105105500 +0900" channel="GR_1024" event_id="10035">
+    <title lang="ja_JP">あの日　わたしは〜証言記録　東日本大震災〜「宮城県気仙沼市　佐藤祐子さん」【字】</title>
+    <desc lang="ja_JP">東日本大震災に遭遇した人々の証言。宮城県気仙沼市の佐藤祐子さんは、地震の直後に停電や断水を予想し、大量の水や食料を準備して、自宅に多くの住民を受け入れた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105105500 +0900" stop="20150105110000 +0900" channel="GR_1024" event_id="10036">
+    <title lang="ja_JP">みんなのうた「ゆきだるまかぞく」「四つ角のメロディー」</title>
+    <desc lang="ja_JP">▽「ゆきだるまかぞく」うた：知久寿焼／▽「四つ角のメロディー」うた：加藤千晶</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150105110000 +0900" stop="20150105110500 +0900" channel="GR_1024" event_id="10037">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105110500 +0900" stop="20150105115400 +0900" channel="GR_1024" event_id="10038">
+    <title lang="ja_JP">ひるまえほっと【字】</title>
+    <desc lang="ja_JP">▽鉄道写真の楽しみ方・中井精也さん　▽いろいろきのこのパスタ　【キャスター】三好正人</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105115400 +0900" stop="20150105120003 +0900" channel="GR_1024" event_id="10044">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105120003 +0900" stop="20150105122000 +0900" channel="GR_1024" event_id="10047">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105122000 +0900" stop="20150105124500 +0900" channel="GR_1024" event_id="10049">
+    <title lang="ja_JP">ひるブラ「初笑い☆芸達者などうぶつ君！〜埼玉・東松山市〜」【字】</title>
+    <desc lang="ja_JP">芸達者なカワイイ動物たちが大集合！埼玉こども動物自然公園ではヒツジにブタ・シカなどが放し飼い！直接ふれ合えるのが魅力だ。家族が笑顔になる動物の一芸にご期待あれ！</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150105124500 +0900" stop="20150105130000 +0900" channel="GR_1024" event_id="10054">
+    <title lang="ja_JP">連続テレビ小説　マッサン（７９）「渡る世間に鬼はない」【解】【字】【デ】【再】</title>
+    <desc lang="ja_JP">営業へと回されたマッサン（玉山鉄二）は、以前から気にかけていた北海道へ営業活動に向かう。一方、エリー（シャーロット）のもとに早苗（泉ピン子）危篤の電報が届く。</desc>
+    <category lang="ja_JP">ドラマ</category>
+    <category lang="en">drama</category>
+  </programme>
+  <programme start="20150105130000 +0900" stop="20150105130500 +0900" channel="GR_1024" event_id="10055">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105130500 +0900" stop="20150105135100 +0900" channel="GR_1024" event_id="10056">
+    <title lang="ja_JP">スタジオパークからこんにちは　堤真一【字】【双】</title>
+    <desc lang="ja_JP">“やってみなはれ！”マッサン鴨居社長登場▽ゲスト：堤真一▽司会：伊藤雄彦アナ、高畑淳子</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105135100 +0900" stop="20150105135500 +0900" channel="GR_1024" event_id="14322">
+    <title lang="ja_JP">ＮＨＫプレマップ</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105135500 +0900" stop="20150105140000 +0900" channel="GR_1024" event_id="10064">
+    <title lang="ja_JP">みんなのうた「見えない羽根」「はんぶんおとな」</title>
+    <desc lang="ja_JP">▽「見えない羽根」うた：プリシラ・アーン／▽「はんぶんおとな」うた：井上あずみ＆ゆーゆ</desc>
+    <category lang="ja_JP">音楽</category>
+    <category lang="en">music</category>
+  </programme>
+  <programme start="20150105140000 +0900" stop="20150105140500 +0900" channel="GR_1024" event_id="10065">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105140500 +0900" stop="20150105142000 +0900" channel="GR_1024" event_id="10066">
+    <title lang="ja_JP">情報まるごと【字】</title>
+    <desc lang="ja_JP">▽ことしの政治　どう動く　【キャスター】小澤康喬，實石あづさ，【気象キャスター】奈良岡希実子</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105142000 +0900" stop="20150105144000 +0900" channel="GR_1024" event_id="14803">
+    <title lang="ja_JP">総理記者会見【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105144000 +0900" stop="20150105145500 +0900" channel="GR_1024" event_id="14804">
+    <title lang="ja_JP">情報まるごと【字】</title>
+    <desc lang="ja_JP">▽ニュースと話題　▽気象情報　【キャスター】小澤康喬，【気象キャスター】奈良岡希実子</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105145500 +0900" stop="20150105150000 +0900" channel="GR_1024" event_id="10069">
+    <title lang="ja_JP">テレビ体操【字】</title>
+    <desc lang="ja_JP">【出演】多胡肇，天井澤愛里沙，松下亜実，清水沙希，【ピアノ】幅しげみ</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150105150000 +0900" stop="20150105151200 +0900" channel="GR_1024" event_id="10070">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105151200 +0900" stop="20150105151500 +0900" channel="GR_1024" event_id="11533">
+    <title lang="ja_JP">明日へ１ｍｉｎ．「羽生結弦　世界へ届ける“花は咲く”」</title>
+    <desc lang="ja_JP">ＮＨＫ杯フィギュアで羽生結弦選手が、復興支援ソング「花は咲く」にあわせて舞いを披露。大勢の観客がいる中、世界の人々に向けて、震災復興への思いを発信した。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105151500 +0900" stop="20150105154100 +0900" channel="GR_1024" event_id="10079">
+    <title lang="ja_JP">ろーかる直送便　ナビゲーション「リニアインパクト〜開業までの課題は〜」【字】</title>
+    <desc lang="ja_JP">リニア中央新幹線が建設に向けて動き出した。名古屋駅周辺では、東京などからの投資が拡大し、早くも不動産価格が急上昇。１０兆円といわれる経済効果に迫る。</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105154100 +0900" stop="20150105155500 +0900" channel="GR_1024" event_id="10081">
+    <title lang="ja_JP">さわやか自然百景「知床　ヒグマ暮らす渚（なぎさ）」【字】</title>
+    <desc lang="ja_JP">世界遺産・知床に、高密度でヒグマが住む特別な場所がある。３０頭を越える母子が往来するのだ。深い森と豊かな海に挟まれた海岸で、ヒグマたちを、春から秋まで見つめる。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105155500 +0900" stop="20150105160000 +0900" channel="GR_1024" event_id="10082">
+    <title lang="ja_JP">ＮＨＫプレマップ　ブラタモリ〜京都〜＜１月６日（火）午後８時から放送＞</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105160000 +0900" stop="20150105160500 +0900" channel="GR_1024" event_id="10086">
+    <title lang="ja_JP">ニュース・気象情報【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105160500 +0900" stop="20150105163000 +0900" channel="GR_1024" event_id="14185">
+    <title lang="ja_JP">ドキュメント７２時間「巨大書店・活字の森の歩き方」【字】【再】</title>
+    <desc lang="ja_JP">毎回、さまざまな「３日間」を切り取り日本の今を描く番組。今回は大都会の中心にある書店にカメラを据え、本を手に取る人たちそれぞれの事情に耳を傾けてみた。</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105163000 +0900" stop="20150105165500 +0900" channel="GR_1024" event_id="10089">
+    <title lang="ja_JP">超絶　凄（すご）ワザ！「名勝負再び！前人未到の“切れ味”を目指せ」【字】【再】</title>
+    <desc lang="ja_JP">鉄パイプを一刀両断にする刃物を目指し包丁職人と工業用刃物メーカーが激突！アンコールに応え、刃物の頂上決戦を再びお届けする。神ワザで夢の斬鉄剣なるか！衝撃の結末は</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105165500 +0900" stop="20150105180000 +0900" channel="GR_1024" event_id="10092">
+    <title lang="ja_JP">ゆうどき　▽２０１５年のトレンドを食、介護、余暇の分野ごとに紹介する。【字】</title>
+    <desc lang="ja_JP">２０１５年のトレンドを大予想。楽しみながら節約する「ちょい飲み」や介護現場で本格化するロボットの導入、そして北陸新幹線開業に沸く注目スポットを紹介する。</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105180000 +0900" stop="20150105181000 +0900" channel="GR_1024" event_id="10095">
+    <title lang="ja_JP">ニュース【字】</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105181000 +0900" stop="20150105185200 +0900" channel="GR_1024" event_id="10096">
+    <title lang="ja_JP">首都圏ネットワーク【字】</title>
+    <desc lang="ja_JP">▽仕事始め　築地も初競り　▽リオ五輪にかける！女子ラグビーのエース　【キャスター】橋本奈穂子，田中洋行，【気象キャスター】関口奈美</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105185200 +0900" stop="20150105190003 +0900" channel="GR_1024" event_id="10098">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105190003 +0900" stop="20150105193000 +0900" channel="GR_1024" event_id="10103">
+    <title lang="ja_JP">ＮＨＫニュース７【二】【字】</title>
+    <desc lang="ja_JP">▽２０１５年　列島本格始動　▽油井宇宙飛行士が語る　【キャスター】武田真一，【サブキャスター】松村正代，【気象キャスター】寺川奈津美</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105193000 +0900" stop="20150105195600 +0900" channel="GR_1024" event_id="10104">
+    <title lang="ja_JP">クローズアップ現代【字】</title>
+    <desc lang="ja_JP">【キャスター】国谷裕子</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105195600 +0900" stop="20150105195800 +0900" channel="GR_1024" event_id="11584">
+    <title lang="ja_JP">明日へ１ｍｉｎ．「未来への芽」（１６）</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105195800 +0900" stop="20150105200000 +0900" channel="GR_1024" event_id="10109">
+    <title lang="ja_JP">気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105200000 +0900" stop="20150105204300 +0900" channel="GR_1024" event_id="10110">
+    <title lang="ja_JP">鶴瓶の家族に乾杯〜新春スペシャル〜「井上真央　山口県山口市」（後編）【解】【字】</title>
+    <desc lang="ja_JP">女優で大河ドラマ「花燃ゆ」主役を演じる井上真央が山口県山口市を旅する後編。一人旅となった鶴瓶と井上は、それぞれ、ぶっつけ本番で素敵な出会いを繰り広げていく。</desc>
+    <category lang="ja_JP">バラエティ</category>
+    <category lang="en">variety</category>
+  </programme>
+  <programme start="20150105204300 +0900" stop="20150105204500 +0900" channel="GR_1024" event_id="10111">
+    <title lang="ja_JP">もうすぐ９時　プレマップ</title>
+    <desc lang="ja_JP">【キャスター】橋本奈穂子</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105204500 +0900" stop="20150105210000 +0900" channel="GR_1024" event_id="10112">
+    <title lang="ja_JP">首都圏ニュース８４５【字】</title>
+    <desc lang="ja_JP">【キャスター】松村正代，【気象キャスター】斉田季実治</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105210000 +0900" stop="20150105220000 +0900" channel="GR_1024" event_id="10113">
+    <title lang="ja_JP">ニュースウオッチ９【二】【字】</title>
+    <desc lang="ja_JP">▽揺れる欧州・現地から大越キャスターが報告　▽独立掲げた人々は　▽ユーロ圏　新たな火種？　▽“休みぼけ”解消法　【キャスター】大越健介，井上あさひほか</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105220000 +0900" stop="20150105225000 +0900" channel="GR_1024" event_id="10114">
+    <title lang="ja_JP">プロフェッショナル　仕事の流儀「ウイルス学者・高田礼人」【解】【字】</title>
+    <desc lang="ja_JP">世界を揺るがす「アウトブレイク」となったエボラウイルスに挑み続けてきた日本人科学者に密着。史上初となる夢の新薬誕生へ、「世紀の発見」の瞬間をカメラがとらえた！</desc>
+    <category lang="ja_JP">その他</category>
+    <category lang="en">etc</category>
+  </programme>
+  <programme start="20150105225000 +0900" stop="20150105225500 +0900" channel="GR_1024" event_id="10120">
+    <title lang="ja_JP">ニュース・気象情報</title>
+    <desc lang="ja_JP"></desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+  <programme start="20150105225500 +0900" stop="20150105232000 +0900" channel="GR_1024" event_id="10121">
+    <title lang="ja_JP">サラメシ【字】</title>
+    <desc lang="ja_JP">新春投稿スペシャル！皆さんから寄せられた投稿ランチをのぞき見。１人で作る５０人前ランチ。癒やしをくれるおにぎり弁当。建設会社の社長が作る社員のための絶品弁当ほか</desc>
+    <category lang="ja_JP">情報／ワイドショー</category>
+    <category lang="en">information</category>
+  </programme>
+  <programme start="20150105232000 +0900" stop="20150105233000 +0900" channel="GR_1024" event_id="10122">
+    <title lang="ja_JP">Ｓｐｏｒｔｓプラス</title>
+    <desc lang="ja_JP">錦織圭ことし初戦へ！▽アジア杯連覇なるか　代表最新情報を中継で▽レジェンド葛西は？スキージャンプＷ杯！▽花園決勝カードは？▽スポプラ！２０１５年も２３時２０分！</desc>
+    <category lang="ja_JP">スポーツ</category>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20150105233000 +0900" stop="20150106000000 +0900" channel="GR_1024" event_id="10123">
+    <title lang="ja_JP">ＮＥＷＳ　ＷＥＢ▽ニュースへの疑問・質問は＃ｎｈｋ２４をつけて▽福嶋麻衣子</title>
+    <desc lang="ja_JP">▽みなさんのツイートを番組で活用します。▽ニュースへの疑問・質問を＃ｎｈｋ２４をつけてお寄せください。▽詳細は番組のＨＰで▽ネットナビゲーターは福嶋麻衣子さん</desc>
+    <category lang="ja_JP">ニュース／報道</category>
+    <category lang="en">news</category>
+  </programme>
+</tv>
