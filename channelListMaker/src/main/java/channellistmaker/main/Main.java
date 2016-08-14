@@ -16,12 +16,14 @@
  */
 package channellistmaker.main;
 
+import channellistmaker.dataextractor.KeyFields;
 import channellistmaker.dataextractor.channel.AllChannelDataExtractor;
 import channellistmaker.dataextractor.channel.Channel;
 import channellistmaker.listmaker.EPGListMaker;
 import java.io.File;
 import java.lang.invoke.MethodHandles;
 import java.nio.charset.Charset;
+import java.text.MessageFormat;
 import java.util.Map;
 import java.util.Set;
 import org.apache.commons.cli.CommandLine;
@@ -120,7 +122,12 @@ public class Main {
 
         Set<MultiKey<Integer>> keys = channels.keySet();
         for (MultiKey<Integer> k : keys) {
-            LOG.info(channels.get(k));
+            MessageFormat mf = new MessageFormat("トランスポートストリーム識別 = {0} オリジナルネットワーク識別 = {1} サービス識別 = {2} 物理チャンネル = {3} 放送局名 = {4}");
+            Channel ch = channels.get(k);
+            KeyFields kf = ch.getKeyfields();
+            Object[] message2 = {kf.getTransportStreamId(), kf.getOriginalNetworkId(), kf.getServiceId(), ch.getPhysicalChannelNumber(), ch.getDisplayName()};
+            LOG.info(mf.format(message2));
+//            LOG.info(channels.get(k));
         }
 
     }

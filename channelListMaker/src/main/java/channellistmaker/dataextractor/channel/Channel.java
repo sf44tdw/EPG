@@ -83,7 +83,7 @@ public final class Channel implements EpgData {
         return displayNameLang;
     }
 
-    public synchronized String getBroadcastingStationName() {
+    public synchronized String getDisplayName() {
         return displayName;
     }
 
