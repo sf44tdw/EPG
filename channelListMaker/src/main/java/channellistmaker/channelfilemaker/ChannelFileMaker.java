@@ -14,26 +14,12 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package channellistmaker.dataextractor.channel;
-
-import channellistmaker.dataextractor.AbstractAllEPGFileExtractor;
-import java.util.Set;
-import org.w3c.dom.Document;
-
+package channellistmaker.channelfilemaker;
 
 /**
  *
- * @author dosdiaopfhj
+ * @author normal
  */
-public class AllChannelDataExtractor extends AbstractAllEPGFileExtractor<Channel,ChannelDataExtractor>{
-
-    public AllChannelDataExtractor(Set<Document> EPGXMLs) {
-        super(EPGXMLs);
-    }
-
-    @Override
-    protected synchronized ChannelDataExtractor getExtractor(Document doc) {
-        return new ChannelDataExtractor(doc);
-    }
+public class ChannelFileMaker {
     
 }
