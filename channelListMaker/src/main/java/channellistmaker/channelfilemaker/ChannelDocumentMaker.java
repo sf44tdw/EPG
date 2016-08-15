@@ -19,9 +19,15 @@ package channellistmaker.channelfilemaker;
 import channellistmaker.dataextractor.KeyFields;
 import channellistmaker.dataextractor.channel.Channel;
 import static channellistmaker.dataextractor.channel.XmlElementName.EPG_CHANNEL;
+import static channellistmaker.dataextractor.channel.XmlElementName.EPG_DISPLAY_NAME_W;
+import static channellistmaker.dataextractor.channel.XmlElementName.ORIGINAL_NETWORK_ID;
+import static channellistmaker.dataextractor.channel.XmlElementName.PHYSICAL_CHANNEL_NUMBER_W;
+import static channellistmaker.dataextractor.channel.XmlElementName.SERVICE_ID;
+import static channellistmaker.dataextractor.channel.XmlElementName.TRANSPORT_STREAM_ID;
 import java.io.StringWriter;
 import java.lang.invoke.MethodHandles;
 import java.util.Map;
+import java.util.Set;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -77,17 +83,15 @@ public class ChannelDocumentMaker {
         e.appendChild(textMessage);
     }
 
-    private void addChannelElement(Document document, Element channels,Channel channel_o) {
+    private void addChannelElement(Document document, Element channels, Channel channel_o) {
         KeyFields kf = channel_o.getKeyfields();
-        
-        
         Element channel = document.createElement(EPG_CHANNEL);
         channels.appendChild(channel);
-        this.addTextElement(document, channel, TRANSPORT_STREAM_ID, "100");
-        this.addTextElement(document, channel, ORIGINAL_NETWORK_ID, "200");
-        this.addTextElement(document, channel, SERVICE_ID, "300");
-        this.addTextElement(document, channel, EPG_CHANNEL_TP, "400");
-        this.addTextElement(document, channel, EPG_DISPLAY_NAME, "あああ");
+        this.addTextElement(document, channel, TRANSPORT_STREAM_ID, Integer.toString(kf.getTransportStreamId()));
+        this.addTextElement(document, channel, ORIGINAL_NETWORK_ID, Integer.toString(kf.getOriginalNetworkId()));
+        this.addTextElement(document, channel, SERVICE_ID, Integer.toString(kf.getServiceId()));
+        this.addTextElement(document, channel, PHYSICAL_CHANNEL_NUMBER_W, Integer.toString(channel_o.getPhysicalChannelNumber()));
+        this.addTextElement(document, channel, EPG_DISPLAY_NAME_W, channel_o.getDisplayName());
 
     }
 
@@ -97,15 +101,14 @@ public class ChannelDocumentMaker {
             final DocumentBuilder db = dbf.newDocumentBuilder();
             final Document document = db.newDocument();
             // >>>>> DOMの生成
-            Element channels = document.createElement("channels");//<-rootドキュメント
-            document.appendChild(channels);
+            Element channels_e = document.createElement("channels");//<-rootドキュメント
+            document.appendChild(channels_e);
 
-            this.addChannelElement(document, channels);
-            this.addChannelElement(document, channels);
-            this.addChannelElement(document, channels);
-            this.addChannelElement(document, channels);
-            this.addChannelElement(document, channels);
-            this.addChannelElement(document, channels);
+            final Set<MultiKey<Integer>> keys = this.channels.keySet();
+            for (MultiKey<Integer> key : keys) {
+                Channel ch = channels.get(key);
+                this.addChannelElement(document, channels_e, ch);
+            }
 
             TransformerFactory tf = TransformerFactory.newInstance();
 

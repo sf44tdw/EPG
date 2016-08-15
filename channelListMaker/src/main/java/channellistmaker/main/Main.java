@@ -120,14 +120,21 @@ public class Main {
 
         Map<MultiKey<Integer>, Channel> channels = new AllChannelDataExtractor(docs).getAllEPGRecords();
 
-        docs.clear();
-        
         Set<MultiKey<Integer>> keys = channels.keySet();
+//        for (MultiKey<Integer> k : keys) {
+//            MessageFormat mf = new MessageFormat("トランスポートストリーム識別 = {0} オリジナルネットワーク識別 = {1} サービス識別 = {2} 物理チャンネル = {3} 放送局名 = {4}");
+//            Channel ch = channels.get(k);
+//            KeyFields kf = ch.getKeyfields();
+//            Object[] message2 = {kf.getTransportStreamId(), kf.getOriginalNetworkId(), kf.getServiceId(), ch.getPhysicalChannelNumber(), ch.getDisplayName()};
+//            LOG.info(mf.format(message2));
+////            LOG.info(channels.get(k));
+//        }
+
         for (MultiKey<Integer> k : keys) {
-            MessageFormat mf = new MessageFormat("トランスポートストリーム識別 = {0} オリジナルネットワーク識別 = {1} サービス識別 = {2} 物理チャンネル = {3} 放送局名 = {4}");
+            MessageFormat mf = new MessageFormat("トランスポートストリーム識別 = {0} チャンネルID = {1} 放送局名 = {2}");
             Channel ch = channels.get(k);
             KeyFields kf = ch.getKeyfields();
-            Object[] message2 = {kf.getTransportStreamId(), kf.getOriginalNetworkId(), kf.getServiceId(), ch.getPhysicalChannelNumber(), ch.getDisplayName()};
+            Object[] message2 = {kf.getTransportStreamId(), kf.getChannelId(), ch.getDisplayName()};
             LOG.info(mf.format(message2));
 //            LOG.info(channels.get(k));
         }

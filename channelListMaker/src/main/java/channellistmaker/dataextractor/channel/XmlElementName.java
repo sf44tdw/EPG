@@ -45,7 +45,7 @@ public final class XmlElementName {
         /**
      * EPG関連 チャンネル要素の局名の要素名(書き込み用)
      */
-    public static final String EPG_DISPLAY_NAME_W = "display-name";
+    public static final String EPG_DISPLAY_NAME_W = "display_name";
     
     /**
      * EPG関連 チャンネル要素の局名の言語コードの属性名
@@ -63,6 +63,11 @@ public final class XmlElementName {
      * EPG関連 チャンネル要素の局名のサービス識別の要素名
      */
     public static final String SERVICE_ID = "service_id";
+    
+            /**
+     * EPG関連 チャンネル要素の物理チャンネル番号の要素名(書き込み用)
+     */
+    public static final String PHYSICAL_CHANNEL_NUMBER_W = "physical_channel_number";
 
     private XmlElementName() {
     }

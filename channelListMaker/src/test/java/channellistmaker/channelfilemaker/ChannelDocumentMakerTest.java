@@ -25,29 +25,28 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import static org.junit.Assert.*;
 
 /**
  *
  * @author normal
  */
 public class ChannelDocumentMakerTest {
-    
+
     public ChannelDocumentMakerTest() {
     }
-    
+
     @BeforeClass
     public static void setUpClass() {
     }
-    
+
     @AfterClass
     public static void tearDownClass() {
     }
-    
+
     @Before
     public void setUp() {
     }
-    
+
     @After
     public void tearDown() {
     }
@@ -65,15 +64,27 @@ public class ChannelDocumentMakerTest {
 //        // TODO review the generated test code and remove the default call to fail.
 //        fail("The test case is a prototype.");
 //    }
-
     /**
      * Test of getChannelList method, of class ChannelDocumentMaker.
      */
     @Test
     public void testGetChannelList() {
         System.out.println("getChannelList");
-        ChannelDocumentMaker instance = new ChannelDocumentMaker (new HashMap<MultiKey<Integer>, Channel>());
+        Channel exp1 = new Channel(1, "ja_JP", "a", "111", 111, 555, 4444);
+        Channel exp2 = new Channel(2, "ja_JP", "b", "222", 222, 666, 5555);
+        Channel exp3 = new Channel(2, "ja_JP", "c", "333", 222, 666, 6666);
+        Channel exp4 = new Channel(4, "ja_JP", "d", "333", 444, 888, 7777);
+        Map<MultiKey<Integer>, Channel> x = new HashMap<>();
+
+        x.put(exp1.getKeyfields().getMuiltiKey(), exp1);
+        x.put(exp2.getKeyfields().getMuiltiKey(), exp2);
+        x.put(exp3.getKeyfields().getMuiltiKey(), exp3);
+        x.put(exp4.getKeyfields().getMuiltiKey(), exp4);
+
+        System.out.println(x.size());
+
+        ChannelDocumentMaker instance = new ChannelDocumentMaker(x);
         instance.getChannelList();
     }
-    
+
 }
