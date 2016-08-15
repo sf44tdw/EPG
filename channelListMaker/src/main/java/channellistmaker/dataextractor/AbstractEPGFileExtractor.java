@@ -62,7 +62,7 @@ public abstract class AbstractEPGFileExtractor<T extends EpgData> {
      * @param node ノード
      * @return traceレベルのログを取得している場合、ノードとその子ノード全てのダンプ。そうでないか、ノードが無い場合は空文字列。
      */
-    protected final String getNodeInfo(final Node node) {
+    protected final String dumpNode(final Node node) {
         if (LOG.isTraceEnabled()) {
             if (node == null) {
                 //ノードが無いなら空文字列を返す。
@@ -101,7 +101,7 @@ public abstract class AbstractEPGFileExtractor<T extends EpgData> {
                     int Nodes = Children.getLength();
                     for (int i = 0; i < Nodes; i++) {
                         Node child = Children.item(i);
-                        sb.append(getNodeInfo(child));
+                        sb.append(dumpNode(child));
                     }
                 }
                 sb.append("] ");

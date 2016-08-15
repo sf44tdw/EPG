@@ -17,10 +17,18 @@
 package channellistmaker.dataextractor.channel;
 
 import channellistmaker.dataextractor.AbstractEPGFileExtractor;
+import static channellistmaker.dataextractor.channel.XmlElementName.EPG_CHANNEL;
+import static channellistmaker.dataextractor.channel.XmlElementName.EPG_CHANNEL_ID;
+import static channellistmaker.dataextractor.channel.XmlElementName.EPG_CHANNEL_TP;
+import static channellistmaker.dataextractor.channel.XmlElementName.EPG_DISPLAY_NAME_LANG;
+import static channellistmaker.dataextractor.channel.XmlElementName.ORIGINAL_NETWORK_ID;
+import static channellistmaker.dataextractor.channel.XmlElementName.SERVICE_ID;
+import static channellistmaker.dataextractor.channel.XmlElementName.TRANSPORT_STREAM_ID;
 import org.w3c.dom.Document;
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+import static channellistmaker.dataextractor.channel.XmlElementName.EPG_DISPLAY_NAME_R;
 
 /**
  * チャンネル関係の情報だけオブジェクトに格納する
@@ -39,11 +47,6 @@ import org.w3c.dom.NodeList;
 public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
 
     /**
-     * EPG関連 チャンネル要素の要素名
-     */
-    private static final String EPG_CHANNEL = "channel";
-
-    /**
      * EPG関連 チャンネルIDが地上波の場合の接頭辞
      */
     private static final String PREFIX_GR = "GR";
@@ -58,7 +61,7 @@ public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
 //     */
 //    private static final String PREFIX_CS = "CS";
     public ChannelDataExtractor(Document doc) {
-        super(doc, ChannelDataExtractor.EPG_CHANNEL);
+        super(doc, EPG_CHANNEL);
     }
 
     private synchronized int getChannelNumber(String ch_S, String tp_S) {
@@ -84,36 +87,6 @@ public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
 
     @Override
     protected final synchronized Channel dump(Node N) throws IllegalArgumentException {
-        /**
-         * EPG関連 チャンネル要素のチャンネルIDの属性名
-         */
-        final String EPG_CHANNEL_ID = "id";
-
-        /**
-         * EPG関連 チャンネル要素の物理チャンネル番号の属性名
-         */
-        final String EPG_CHANNEL_TP = "tp";
-
-        /**
-         * EPG関連 チャンネル要素の局名の要素名
-         */
-        final String EPG_DISPLAY_NAME = "display-name";
-        /**
-         * EPG関連 チャンネル要素の局名の言語コードの属性名
-         */
-        final String EPG_DISPLAY_NAME_LANG = "lang";
-        /**
-         * EPG関連 チャンネル要素の局名のトランスポートストリーム識別の要素名
-         */
-        final String TRANSPORT_STREAM_ID = "transport_stream_id";
-        /**
-         * EPG関連 チャンネル要素の局名のオリジナルネットワーク識別の要素名
-         */
-        final String ORIGINAL_NETWORK_ID = "original_network_id";
-        /**
-         * EPG関連 チャンネル要素の局名のサービス識別の要素名
-         */
-        final String SERVICE_ID = "service_id";
 
         final String ch_S;
         final String tp_S;
@@ -143,25 +116,25 @@ public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
         for (int i = 0; i < Nodes; i++) {
             Node gchild = channelChildren.item(i);
             switch (gchild.getNodeName()) {
-                case EPG_DISPLAY_NAME:
+                case EPG_DISPLAY_NAME_R:
                     displayNameNode = gchild;
-                    LOG.trace(EPG_DISPLAY_NAME);
-                    LOG.trace(getNodeInfo(gchild));
+                    LOG.trace(EPG_DISPLAY_NAME_R);
+                    LOG.trace(dumpNode(gchild));
                     break;
                 case TRANSPORT_STREAM_ID:
                     transPortStreamIdNode = gchild;
                     LOG.trace(TRANSPORT_STREAM_ID);
-                    LOG.trace(getNodeInfo(gchild));
+                    LOG.trace(dumpNode(gchild));
                     break;
                 case ORIGINAL_NETWORK_ID:
                     originalNetWorkIdNode = gchild;
                     LOG.trace(ORIGINAL_NETWORK_ID);
-                    LOG.trace(getNodeInfo(gchild));
+                    LOG.trace(dumpNode(gchild));
                     break;
                 case SERVICE_ID:
                     serviceIdNode = gchild;
                     LOG.trace(SERVICE_ID);
-                    LOG.trace(getNodeInfo(gchild));
+                    LOG.trace(dumpNode(gchild));
                     break;
             }
         }
@@ -198,7 +171,7 @@ public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
 
         int netId = Integer.MIN_VALUE;
         try {
-//            LOG.trace(getNodeInfo(originalNetWorkIdNode.getFirstChild()));
+//            LOG.trace(dumpNode(originalNetWorkIdNode.getFirstChild()));
             netId = Integer.parseInt(originalNetWorkIdNode.getFirstChild().getNodeValue());
         } catch (NullPointerException e) {    //たまに空欄になっていることがあるので、その場合は仮の名前を記入する。
             LOG.warn("ネットワーク識別無し", e);
@@ -208,7 +181,7 @@ public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
 
         int servId = Integer.MIN_VALUE;
         try {
-//            LOG.trace(getNodeInfo(serviceIdNode.getFirstChild()));
+//            LOG.trace(dumpNode(serviceIdNode.getFirstChild()));
             servId = Integer.parseInt(serviceIdNode.getFirstChild().getNodeValue());
         } catch (NullPointerException e) {    //たまに空欄になっていることがあるので、その場合は仮の名前を記入する。
             LOG.warn("サービス識別無し", e);
