@@ -8,7 +8,7 @@ package libepg.epg.section;
 import java.text.MessageFormat;
 import java.util.Objects;
 import org.apache.commons.codec.binary.Hex;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 
 /**
  * セクション本体部分のバイト列を保管する。

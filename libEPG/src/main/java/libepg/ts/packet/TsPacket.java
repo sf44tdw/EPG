@@ -12,7 +12,7 @@ import java.util.Arrays;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
 import libepg.util.LoggerFactory;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 
 /**
  * TSパケットのバイト列からパケットの内容を取得するクラス。

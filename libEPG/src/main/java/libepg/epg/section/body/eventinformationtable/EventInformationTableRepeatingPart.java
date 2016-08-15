@@ -29,7 +29,7 @@ import java.util.logging.Logger;
 import libepg.epg.section.descriptor.DescriptorsLoop;
 import libepg.epg.util.datetime.DateTimeFieldConverter;
 import libepg.util.LoggerFactory;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 
 /**
  * イベント記述テーブルの繰り返し項目

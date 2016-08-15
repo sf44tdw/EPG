@@ -12,7 +12,7 @@ import java.util.Objects;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
 import libepg.util.LoggerFactory;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 
 /**
  * 記述子(descriptor()の部分)の共通フィールド <br>

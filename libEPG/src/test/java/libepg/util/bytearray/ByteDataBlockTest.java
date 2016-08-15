@@ -5,7 +5,6 @@
  */
 package libepg.util.bytearray;
 
-import util.bytearray.ByteDataBlock;
 import java.lang.invoke.MethodHandles;
 import org.apache.commons.codec.DecoderException;
 import org.apache.commons.codec.binary.Hex;

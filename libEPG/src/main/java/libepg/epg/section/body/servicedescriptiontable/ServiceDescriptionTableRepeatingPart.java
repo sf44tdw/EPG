@@ -12,7 +12,7 @@ import java.util.Objects;
 import org.apache.commons.logging.Log;
 import libepg.epg.section.descriptor.DescriptorsLoop;
 import libepg.util.LoggerFactory;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 
 /**
  * サービス記述テーブルの繰り返し項目

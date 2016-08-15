@@ -8,7 +8,7 @@ package libepg.epg.section.descriptor.contentdescriptor;
 import libepg.util.bytearray.ByteConverter;
 import java.text.MessageFormat;
 import java.util.Objects;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 
 /**
  * ジャンルコード(2バイト)

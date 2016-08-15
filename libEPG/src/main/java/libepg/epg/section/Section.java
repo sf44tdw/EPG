@@ -15,7 +15,7 @@ import java.util.Objects;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
 import libepg.util.LoggerFactory;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 //sub_table［サブテーブル］：同一のテーブル識別（table_id）および下記を持つセクショ
 //ンの集まり。
 //NITの場合 ： 同一のテーブル識別拡張（network_id）とバージョン番号

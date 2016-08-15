@@ -17,7 +17,7 @@ import java.util.Objects;
 import org.apache.commons.logging.Log;
 import libepg.util.LoggerFactory;
 import libepg.util.bytearray.ByteArraySplitter;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 
 /**
  * 記述子ループを保管するクラス。

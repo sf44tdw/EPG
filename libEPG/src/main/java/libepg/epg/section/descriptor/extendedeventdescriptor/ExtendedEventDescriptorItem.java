@@ -9,7 +9,7 @@ import libepg.epg.util.Aribstr;
 import libepg.util.LoggerFactory;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
-import util.bytearray.ByteDataBlock;
+import libepg.util.bytearray.ByteDataBlock;
 
 
 
