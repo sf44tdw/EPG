@@ -21,6 +21,8 @@ import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
 /**
+ * equals()の実装チェックを行う。(渡されたオブジェクトの内容を変更することはしない。)<br>
+ * また、異なるクラスのオブジェクトを混ぜて渡した場合、例外を発生させる。
  *
  * @author normal
  * @param <T>
@@ -41,10 +43,51 @@ public class EqualsChecker<T> {
      * @param target1
      * @param target2
      * @param target3
-     * @return target1～target3が全て同じオブジェクトで、下記を満たすならtrue。
+     * @return
+     * target1、target2、target3の全てがnullではない同一のクラスから作成されたオブジェクトで、反射性を守っている。<br>
+     * かつ、3つのうち少なくとも1つが他と異なっている(3つの中から選んだ2つのうちどれか１つに対してa.equals(b)==falseが成立する)とき、<br>
+     * 推移性チェックがfalseならばtrue<br>
+     *
+     * @see java.lang.Object.equals
+     * @see EqualsChecker.transitive_testEquals
+     */
+    public boolean check_not_same(final T target1, final T target2, final T target3) {
+        boolean ret;
+        ret = true;
+        LOG.info("target1をチェック");
+        ret = ret && this.singleParm(target1);
+        if (ret == false) {
+            return ret;
+        }
+
+        LOG.info("target2をチェック");
+        ret = ret && this.singleParm(target2);
+        if (ret == false) {
+            return ret;
+        }
+
+        LOG.info("target3をチェック");
+        ret = ret && this.singleParm(target3);
+        if (ret == false) {
+            return ret;
+        }
+
+        LOG.info("target1とtarget2とtarget3をチェック");
+        ret = ret && !this.transitive_testEquals(target1, target2, target3);
+        LOG.info("戻り値 = " + ret);
+        return ret;
+    }
+
+    /**
+     * @param target1
+     * @param target2
+     * @param target3
+     * @return
+     * target1、target2、target3の全てがnullではない同一のクラスから作成されたオブジェクトで、、3つの中から選んだどの2つに対してもa.equals(b)==trueが成立するならtrue。<br>
+     *
      * @see java.lang.Object.equals
      */
-    public boolean check(final T target1, final T target2, final T target3) {
+    public boolean check_same(final T target1, final T target2, final T target3) {
         boolean ret;
         ret = true;
 
@@ -90,124 +133,100 @@ public class EqualsChecker<T> {
         return ret;
     }
 
-    private synchronized void checkNull(T target1) {
+    /**
+     * @return target1がnullではないなら何もしない。nullの場合は例外を発生させる。<br>
+     */
+    private synchronized void checkNull(T target1) throws NullPointerException {
         if (target1 == null) {
             throw new NullPointerException("nullのセットは禁止です。");
         }
+        LOG.info("引数の非nullチェックを通過。");
     }
 
-    private boolean singleParm(T target) {
-        return this.null_testEquals(target) && this.reflexive_testEquals(target);
+    private boolean singleParm(T x) {
+        return this.null_testEquals(x) && this.reflexive_testEquals(x);
     }
 
-    private boolean doubleParms(T target1, T target2) {
-        return this.symmetric_testEquals(target1, target2) && this.consistent_testEquals(target1, target2);
+    private boolean doubleParms(T x, T y) {
+        this.isSameClass(x, y);
+        return this.symmetric_testEquals(x, y) && this.consistent_testEquals(x, y);
     }
 
     /**
      * @return target1がnullを評価したときの値がfalseならばtrue。<br>
      */
-    private boolean null_testEquals(T target1) {
-        checkNull(target1);
+    private boolean null_testEquals(T x) {
+        checkNull(x);
         boolean ret;
-        ret = !target1.equals(null);
-        LOG.info("戻り値 = " + ret);
+        ret = !x.equals(null);
+        LOG.info("null評価チェック。 戻り値 = " + ret);
         return ret;
     }
 
     /**
      * @return target1がtarget1を評価したときの値がtrueならばtrue。<br>
      */
-    private boolean reflexive_testEquals(T target1) {
-        checkNull(target1);
+    private boolean reflexive_testEquals(T x) {
+        checkNull(x);
         boolean ret;
-        ret = target1.equals(target1);
-        LOG.info("戻り値 = " + ret);
+        ret = x.equals(x);
+        LOG.info("反射性チェック 戻り値 = " + ret);
         return ret;
+    }
+
+    /**
+     * xとyが同じクラスから作成されたオブジェクトならば何もしない。そうでない場合は例外を発生させる<br>
+     *
+     * @param x
+     * @param y
+     */
+    public void isSameClass(T x, T y) throws IllegalArgumentException {
+        Class<?> xC = x.getClass();
+        Class<?> yC = y.getClass();
+        boolean ret = (xC == yC);
+        if (ret == false) {
+            throw new IllegalArgumentException("xとyは同じクラスではありません。 x = " + xC + " y = " + yC);
+        }
+        LOG.info("引数のクラスチェックを通過。");
     }
 
     /**
      * @return 下の2つが等しい値ならばtrue。<br>
-     * 1.target1がtarget2を評価したときの値<br>
-     * 2.target2がtarget1を評価したときの値<br>
+     * 1.xがyを評価したときの値<br>
+     * 2.yがxを評価したときの値<br>
      */
-    private boolean symmetric_testEquals(T target1, T target2) {
-        checkNull(target1);
-        checkNull(target2);
-        boolean result1 = target1.equals(target2);
-        boolean result2 = target2.equals(target1);
+    private boolean symmetric_testEquals(T x, T y) {
+        checkNull(x);
+        checkNull(y);
+        boolean result1 = x.equals(y);
+        boolean result2 = y.equals(x);
         boolean ret;
         ret = (result1 == result2);
-        LOG.info("戻り値 = " + ret);
+        if (ret == true) {
+            LOG.info("対称性チェック 戻り値 = " + ret);
+        }
         return ret;
     }
 
     /**
+     *
      * @return <br>
-     * 1:引数として渡されたオブジェクトがすべて同じ物である場合、無条件にtrue<br>
-     * 2:参照先のメソッドの全ての引数に同じオブジェクトをセットした場合、どのオブジェクトの場合でもその戻り値がtrue。<br>
-     * かつ、参照先のメソッドの引数のうち、少なくとも1つに違うオブジェクトをセットした場合、どのオブジェクトの場合でもその戻り値がfalse<br>
-     * @see this._transitive_testEquals
-     */
-    private boolean transitive_testEquals(T target1, T target2, T target3) {
-        if (_transitive_testEquals(target1, target2, target3)) {
-            LOG.trace("渡されたオブジェクトが全部同じ。無条件にtrueになる。");
-            return true;
-        }
-
-        //全部trueになる。
-        final boolean result_1 = this._transitive_testEquals(target1, target1, target1);
-        final boolean result_2 = this._transitive_testEquals(target2, target2, target2);
-        final boolean result_3 = this._transitive_testEquals(target3, target3, target3);
-        final boolean all_same;
-        if (result_1 == true && result_2 == true && result_3 == true) {
-            all_same = true;
-        } else {
-            all_same = false;
-        }
-        LOG.info("trueになる = " + all_same);
-
-        //引数として渡されたオブジェクトの少なくとも1つが他と違う場合、falseになる。
-        final boolean result_1_2 = this._transitive_testEquals(target1, target1, target2);
-        final boolean result_1_3 = this._transitive_testEquals(target1, target1, target3);
-        final boolean result_2_3 = this._transitive_testEquals(target2, target2, target3);
-        final boolean not_same;
-        if (result_1_2 == true && result_1_3 == true && result_2_3 == true) {
-            not_same = true;
-        } else {
-            not_same = false;
-        }
-        LOG.info("falseになる = " + not_same);
-
-        final boolean ret;
-        if (all_same == true && not_same == false) {
-            ret = true;
-        } else {
-            ret = false;
-        }
-
-        LOG.info("戻り値 = " + ret);
-        return ret;
-    }
-
-    /**
-     * @return <br>
-     * target1.equals(target2) = true<br>
+     * x.equals(y) = true<br>
      * かつ <br>
-     * target2.equals(target3) = true<br>
+     * y.equals(z) = true<br>
      * のとき、 <br>
-     * target3.equals(target1) = true<br>
+     * z.equals(x) = true<br>
      * ならば、true<br>
      */
-    private boolean _transitive_testEquals(T target1, T target2, T target3) {
+    private boolean transitive_testEquals(T x, T y, T z) {
 
-        checkNull(target1);
-        checkNull(target2);
-        checkNull(target3);
+        checkNull(x);
+        checkNull(y);
+        checkNull(z);
 
-        boolean result1 = target1.equals(target2);
-        boolean result2 = target2.equals(target3);
-        boolean result3 = target3.equals(target1);
+        boolean result1 = x.equals(y);
+        boolean result2 = y.equals(z);
+        boolean result3 = z.equals(x);
 
         boolean ret;
         if (result1 == true && result2 == true && result3 == true) {
@@ -215,21 +234,23 @@ public class EqualsChecker<T> {
         } else {
             ret = false;
         }
+        LOG.info("推移性チェック 戻り値 = " + ret);
         return ret;
     }
 
     /**
      * @return 下の2つが等しい値ならばtrue。<br>
-     * 1.target1がtarget2を評価したときの値(1回め)<br>
-     * 2.target1がtarget2を評価したときの値(2回め)<br>
+     * 1.xがyを評価したときの値(1回め)<br>
+     * 2.yがxを評価したときの値(2回め)<br>
      */
-    private boolean consistent_testEquals(T target1, T target2) {
-        checkNull(target1);
-        checkNull(target2);
-        boolean result1 = target1.equals(target2);
-        boolean result2 = target1.equals(target2);
+    private boolean consistent_testEquals(T x, T y) {
+        checkNull(x);
+        checkNull(y);
+        boolean result1 = x.equals(y);
+        boolean result2 = x.equals(y);
         boolean ret;
         ret = (result1 == result2);
+        LOG.info("整合性チェック 1回め = " + result1 + " 2回目 = " + result2 + " 戻り値 = " + ret);
         return ret;
     }
 

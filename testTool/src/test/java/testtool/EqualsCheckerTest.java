@@ -72,9 +72,6 @@ public class EqualsCheckerTest {
             return true;
         }
 
-    
-
-
     }
 
     private class Class2 extends Class1 {
@@ -131,9 +128,10 @@ public class EqualsCheckerTest {
         String target2 = "a";
         String target3 = "a";
         EqualsChecker<String> instance = new EqualsChecker<>();
-        boolean expResult = true;
-        boolean result = instance.check(target1, target2, target3);
-        assertEquals(expResult, result);
+        boolean result1 = instance.check_same(target1, target2, target3);
+        assertEquals(true, result1);
+        boolean result2 = instance.check_not_same(target1, target2, target3);
+        assertEquals(false, result2);
     }
 
     /**
@@ -146,9 +144,10 @@ public class EqualsCheckerTest {
         String target2 = "b";
         String target3 = "c";
         EqualsChecker<String> instance = new EqualsChecker<>();
-        boolean expResult = true;
-        boolean result = instance.check(target1, target2, target3);
-        assertEquals(expResult, result);
+        boolean result1 = instance.check_same(target1, target2, target3);
+        assertEquals(false, result1);
+        boolean result2 = instance.check_not_same(target1, target2, target3);
+        assertEquals(true, result2);
     }
 
     /**
@@ -161,9 +160,10 @@ public class EqualsCheckerTest {
         String target2 = "a";
         String target3 = "c";
         EqualsChecker<String> instance = new EqualsChecker<>();
-        boolean expResult = true;
-        boolean result = instance.check(target1, target2, target3);
-        assertEquals(expResult, result);
+        boolean result1 = instance.check_same(target1, target2, target3);
+        assertEquals(false, result1);
+        boolean result2 = instance.check_not_same(target1, target2, target3);
+        assertEquals(true, result2);
 
     }
 
@@ -176,13 +176,14 @@ public class EqualsCheckerTest {
         String target3 = "c";
         EqualsChecker<String> instance = new EqualsChecker<>();
         boolean expResult = true;
-        boolean result = instance.check(target1, target2, target3);
+        boolean result = instance.check_same(target1, target2, target3);
     }
 
     /**
-     * Test of check method, of class EqualsChecker.
+     * Test of check method, of class EqualsChecker. 実装の正しくないequalsを渡している上に、サブクラスが混じっている。
      */
     @Test
+    @ExpectedExceptionMessage("^.*xとyは同じクラスではありません.*$")
     public void testCheck4() {
         LOG.info("");
         Class1 target1 = new Class1(0);
@@ -191,9 +192,11 @@ public class EqualsCheckerTest {
         assertEquals(target1, target3);
         assertTrue(!(target1.equals(target2)));
         EqualsChecker<Class1> instance = new EqualsChecker<>();
-        boolean expResult = true;
-        boolean result = instance.check(target1, target2, target3);
-        assertEquals(expResult, result);
-
+        boolean result1 = instance.check_same(target1, target2, target3);
+        assertEquals(false, result1);
+        boolean result2 = instance.check_not_same(target1, target2, target3);
+        assertEquals(false, result2);
     }
+
+
 }
