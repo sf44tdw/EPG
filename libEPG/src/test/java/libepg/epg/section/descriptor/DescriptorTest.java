@@ -172,7 +172,7 @@ public class DescriptorTest {
         Descriptor instance1 = this.descs.getSERVICE_DESCRIPTOR();
         Descriptor instance2 = this.descs.getSERVICE_DESCRIPTOR();
         Descriptor instance3 = this.descs.getSERVICE_DESCRIPTOR();
-        boolean result = ec.check(instance1, instance2, instance3);
+        boolean result = ec.check_same(instance1, instance2, instance3);
         boolean expResult = true;
         assertEquals(expResult, result);
     }

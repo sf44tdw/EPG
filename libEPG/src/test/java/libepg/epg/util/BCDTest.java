@@ -160,7 +160,7 @@ public class BCDTest {
         BCD instance1 = this.target1;
         BCD instance2 = this.target1;
         BCD instance3 = this.target1;
-        assertEquals(true, ec.check(instance1, instance2, instance3));
+        assertEquals(true, ec.check_same(instance1, instance2, instance3));
     }
 
     /**
@@ -173,7 +173,7 @@ public class BCDTest {
         BCD instance1 = this.target1;
         BCD instance2 = this.target2;
         BCD instance3 = this.target1;
-        assertEquals(false, ec.check(instance1, instance2, instance3));
+        assertEquals(true, ec.check_not_same(instance1, instance2, instance3));
 
     }
 }

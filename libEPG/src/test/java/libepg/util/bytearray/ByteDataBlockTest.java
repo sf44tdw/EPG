@@ -100,14 +100,14 @@ public class ByteDataBlockTest {
         ByteDataBlock instance2 = new ByteDataBlock(Hex.decodeHex(dat.p0d));
         ByteDataBlock instance3 = new ByteDataBlock(Hex.decodeHex(dat.p0d));
         boolean expResult = true;
-        boolean result = ec.check(instance1, instance2, instance3);
+        boolean result = ec.check_same(instance1, instance2, instance3);
         assertEquals(expResult, result);
 
         ByteDataBlock instance4 = new ByteDataBlock(Hex.decodeHex(dat.p0d));
         ByteDataBlock instance5 = new ByteDataBlock(Hex.decodeHex(dat.p0e));
         ByteDataBlock instance6 = new ByteDataBlock(Hex.decodeHex(dat.p0d));
-        boolean expResult2 = false;
-        boolean result2 = ec.check(instance4, instance5, instance6);
+        boolean expResult2 = true;
+        boolean result2 = ec.check_not_same(instance4, instance5, instance6);
         assertEquals(expResult2, result2);
 
     }

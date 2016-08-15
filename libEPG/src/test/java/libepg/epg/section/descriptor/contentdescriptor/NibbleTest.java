@@ -168,7 +168,7 @@ public class NibbleTest {
         Nibble instance2 = NIbbleMaker.init(Hex.decodeHex("82ff".toCharArray()));
         Nibble instance3 = NIbbleMaker.init(Hex.decodeHex("82ff".toCharArray()));
 
-        boolean result = ec.check(instance1, instance2, instance3);
+        boolean result = ec.check_same(instance1, instance2, instance3);
         boolean expResult = true;
         assertEquals(expResult, result);
     }

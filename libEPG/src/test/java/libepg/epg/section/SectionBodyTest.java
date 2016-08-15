@@ -138,7 +138,7 @@ public class SectionBodyTest {
         SectionBody instance1 = this.testBody1;
         SectionBody instance2 = this.testBody1;
         SectionBody instance3 = this.testBody1;
-        boolean result = ec.check(instance1, instance1, instance1);
+        boolean result = ec.check_same(instance1, instance1, instance1);
         boolean expResult = true;
         assertEquals(expResult, result);
 

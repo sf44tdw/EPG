@@ -287,7 +287,7 @@ public class SectionTest {
         Section instance1 = this.testSection_OK;
         Section instance2 = this.testSection_OK;
         Section instance3 = this.testSection_OK;
-        boolean result = ec.check(instance1, instance1, instance1);
+        boolean result = ec.check_same(instance1, instance1, instance1);
         boolean expResult = true;
         assertEquals(expResult, result);
     }

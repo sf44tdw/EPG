@@ -33,7 +33,7 @@ public class TSpacketTest {
         final Class<?> myClass = MethodHandles.lookup().lookupClass();
         LOG = new LoggerFactory(myClass, TsPacket.CLASS_LOG_OUTPUT_MODE).getLOG();
     }
-    
+
     TestPacket_pid0x11_count_d_0_0 pd;
     private final TsPacket target00;
     private final TsPacket target01;
@@ -217,12 +217,12 @@ public class TSpacketTest {
         TsPacket obj = new TsPacket(Hex.decodeHex(this.pd.p10));
         TsPacket obj2 = new TsPacket(Hex.decodeHex(this.pd.p10));
         TsPacket instance = new TsPacket(Hex.decodeHex(this.pd.p10));
-        boolean ret = ec.check(instance, obj, obj2);
+//        boolean ret = ec.check_same(instance, obj, obj2);
 //        System.out.println("****************************************************" + ret);
 //        System.out.println("****************************************************" + obj.hashCode());
 //        System.out.println("****************************************************" + obj2.hashCode());
 //        System.out.println("****************************************************" + instance.hashCode());
-        assertTrue(ec.check(instance, obj, obj2));
+        assertTrue(ec.check_same(instance, obj, obj2));
     }
 
     /**
@@ -237,7 +237,7 @@ public class TSpacketTest {
         TsPacket obj = new TsPacket(Hex.decodeHex(this.pd.p10));
         TsPacket obj2 = new TsPacket(Hex.decodeHex(this.pd.p11));
         TsPacket instance = this.target00;
-        assertFalse(ec.check(instance, obj, obj2));
+        assertTrue(ec.check_not_same(instance, obj, obj2));
     }
 
     @Test

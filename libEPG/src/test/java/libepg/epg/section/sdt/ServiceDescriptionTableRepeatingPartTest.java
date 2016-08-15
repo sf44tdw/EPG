@@ -215,8 +215,7 @@ public class ServiceDescriptionTableRepeatingPartTest {
         ServiceDescriptionTableRepeatingPart obj = ClassGetter.init(this.x);
         ServiceDescriptionTableRepeatingPart obj2 = ClassGetter.init(this.x);
         ServiceDescriptionTableRepeatingPart instance = ClassGetter.init(this.x);
-        boolean ret = ec.check(instance, obj, obj2);
-        assertTrue(ec.check(instance, obj, obj2));
+        assertTrue(ec.check_same(instance, obj, obj2));
     }
 
     /**
@@ -229,7 +228,7 @@ public class ServiceDescriptionTableRepeatingPartTest {
         ServiceDescriptionTableRepeatingPart obj = ClassGetter.init(this.x);
         ServiceDescriptionTableRepeatingPart obj2 = ClassGetter.init(this.x);
         ServiceDescriptionTableRepeatingPart instance = ClassGetter.init(Hex.decodeHex("0409f3001c481201000f0e4e484b451d461d6c320f456c357ec10184cf0302fe08".toCharArray()));
-        assertFalse(ec.check(instance, obj, obj2));
+        assertTrue(ec.check_not_same(instance, obj, obj2));
     }
 
     /**

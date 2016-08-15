@@ -140,8 +140,7 @@ public class DescriptorsLoopTest {
         DescriptorsLoop obj = target;
         DescriptorsLoop obj2 = target;
         DescriptorsLoop instance = target;
-        boolean ret = ec.check(instance, obj, obj2);
-        assertTrue(ec.check(instance, obj, obj2));
+        assertTrue(ec.check_same(instance, obj, obj2));
     }
 
     /**
@@ -154,7 +153,7 @@ public class DescriptorsLoopTest {
         DescriptorsLoop obj = target;
         DescriptorsLoop obj2 = target;
         DescriptorsLoop instance = target2;
-        assertFalse(ec.check(instance, obj, obj2));
+        assertTrue(ec.check_not_same(instance, obj, obj2));
     }
 
 //    /**
