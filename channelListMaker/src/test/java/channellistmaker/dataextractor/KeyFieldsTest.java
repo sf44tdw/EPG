@@ -192,9 +192,19 @@ public class KeyFieldsTest {
      */
     @Test
     public void testEquals() {
-        System.out.println("equals");
+        LOG.info("");
         EqualsChecker<KeyFields> eqc = new EqualsChecker<>();
-        assertTrue(eqc.check(target1, target2, target3));
+        assertTrue(eqc.check_same(target1, target1, target1));
+    }
+
+    /**
+     * Test of equals method, of class KeyFields.
+     */
+    @Test
+    public void testNotEquals() {
+        LOG.info("");
+        EqualsChecker<KeyFields> eqc = new EqualsChecker<>();
+        assertTrue(eqc.check_not_same(target2, target1, target1));
     }
 
     /**
