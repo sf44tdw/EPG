@@ -5,6 +5,7 @@
  */
 package dumpsection;
 
+import epgtools.loggerfactory.LoggerFactory;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -20,7 +21,6 @@ import libepg.epg.section.sectionreconstructor.SectionReconstructor;
 import libepg.ts.packet.PROGRAM_ID;
 import libepg.ts.packet.TsPacketParcel;
 import libepg.ts.reader.TsReader;
-import libepg.util.LoggerFactory;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.DefaultParser;
