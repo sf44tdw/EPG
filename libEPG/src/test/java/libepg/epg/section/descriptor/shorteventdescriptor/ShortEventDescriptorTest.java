@@ -28,7 +28,6 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import libepg.common.descriptor.Descriptors;
-import libepg.epg.section.descriptor.DESCRIPTOR_TAG;
 import libepg.epg.section.descriptor.Descriptor;
 import epgtools.loggerfactory.LoggerFactory;
 
@@ -61,8 +60,10 @@ public class ShortEventDescriptorTest {
     public ShortEventDescriptorTest() throws DecoderException, InvocationTargetException {
         byte[] x1 = new Descriptors().getSHORT_EVENT_DESCRIPTOR_BYTE();
         Descriptor desc = Descriptors.init(x1);
-        LOG.debug(desc);
         target = new ShortEventDescriptor(desc);
+        if (LOG.isTraceEnabled()) {
+            LOG.trace(target);
+        }
     }
 
     @BeforeClass
