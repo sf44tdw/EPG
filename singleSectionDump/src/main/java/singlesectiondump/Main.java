@@ -5,9 +5,9 @@
  */
 package singlesectiondump;
 
+import epgtools.loggerfactory.LoggerFactory;
 import java.lang.invoke.MethodHandles;
 import libepg.epg.section.Section;
-import libepg.util.LoggerFactory;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.DefaultParser;
@@ -18,6 +18,7 @@ import org.apache.commons.cli.ParseException;
 import org.apache.commons.codec.DecoderException;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
+
 
 /**
  * セクション1個分のhexダンプを与えると、それを解釈した結果を出力する。
