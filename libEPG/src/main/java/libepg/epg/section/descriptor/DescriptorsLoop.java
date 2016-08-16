@@ -15,7 +15,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Objects;
 import org.apache.commons.logging.Log;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import libepg.util.bytearray.ByteArraySplitter;
 import libepg.util.bytearray.ByteDataBlock;
 

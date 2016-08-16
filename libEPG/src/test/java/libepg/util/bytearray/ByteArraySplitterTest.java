@@ -6,7 +6,7 @@
 package libepg.util.bytearray;
 
 
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import java.lang.invoke.MethodHandles;
 import java.util.ArrayList;
 import java.util.Arrays;

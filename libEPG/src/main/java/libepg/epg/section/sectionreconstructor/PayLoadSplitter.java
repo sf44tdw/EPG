@@ -25,7 +25,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 import libepg.ts.packet.TsPacket;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
 

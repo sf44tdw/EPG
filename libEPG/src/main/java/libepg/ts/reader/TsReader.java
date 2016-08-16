@@ -18,7 +18,7 @@ import libepg.ts.aligner.TsPacketAligner;
 import org.apache.commons.logging.Log;
 import libepg.ts.packet.TsPacket;
 import libepg.ts.packet.TsPacketParcel;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 /**
  * 指定されたpid(複数選択可)を持つTSパケットを読み込み、エラーパケットの除去を行った上で、個々のpidごとに分別する。

@@ -17,7 +17,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import libepg.epg.section.descriptor.DescriptorsLoop;
 import libepg.epg.section.body.servicedescriptiontable.ServiceDescriptionTableRepeatingPart;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import testtool.EqualsChecker;
 
 /**

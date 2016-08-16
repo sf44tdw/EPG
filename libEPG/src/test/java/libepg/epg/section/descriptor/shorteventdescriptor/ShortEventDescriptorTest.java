@@ -30,7 +30,7 @@ import static org.junit.Assert.*;
 import libepg.common.descriptor.Descriptors;
 import libepg.epg.section.descriptor.DESCRIPTOR_TAG;
 import libepg.epg.section.descriptor.Descriptor;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 /**
  * 4dbb6a706e3d1b7ceff3eff3d1c3b3ed1b7ea11b7cade3e91b7dc8e21b7cef213cebc9212148741b7dd33d50bb1b7ea13f4d35241b7cbdf3b01b242a3b1b7dfad6faea791b7ceff3eff31b7dbfc1ac2122b3c9e248564148c73f4d3524ce324ef2335ab7af3e5232702123364acf2156e6adc0ebdece1b7ce6ad1b7dc1e3f3c821572156a4c3b7e7cae9d8a4adc0e82157cac9212321561b7cc9ecdfd5a121261b7dc9213ccac3c41b7ea121571b7dceecc3b7213cac45503e6c1b7ea1<br>

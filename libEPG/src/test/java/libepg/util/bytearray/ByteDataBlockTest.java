@@ -16,7 +16,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import libepg.common.packet.TestPacket_pid0x11_count_d_0_0;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import testtool.EqualsChecker;
 
 /**

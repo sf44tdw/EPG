@@ -21,7 +21,7 @@ import static org.junit.Assert.*;
 import libepg.common.packet.TestPacket_EIT;
 import libepg.epg.section.sectionreconstructor.PayLoadSplitter;
 import libepg.ts.packet.TsPacket;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 /**
  *

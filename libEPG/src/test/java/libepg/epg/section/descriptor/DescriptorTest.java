@@ -20,7 +20,7 @@ import static org.junit.Assert.*;
 import org.junit.Rule;
 import libepg.common.descriptor.Descriptors;
 import static libepg.epg.section.descriptor.DESCRIPTOR_TAG.LOGO_TRANSMISSION_DESCRIPTOR;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import testtool.EqualsChecker;
 import testtool.testrule.regexmessagerule.ExpectedExceptionMessage;
 import testtool.testrule.regexmessagerule.ExpectedExceptionRule;

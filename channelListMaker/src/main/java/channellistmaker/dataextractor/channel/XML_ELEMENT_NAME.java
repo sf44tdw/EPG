@@ -20,56 +20,51 @@ package channellistmaker.dataextractor.channel;
  *
  * @author normal
  */
-public final class XmlElementName {
-
+public enum XML_ELEMENT_NAME {
     /**
-     * EPG関連 チャンネル要素の要素名
+     * EPG関連 チャンネル要素の名前
      */
-    public static final String EPG_CHANNEL = "channel";
-
+    EPG_CHANNEL("channel"),
     /**
-     * EPG関連 チャンネル要素のチャンネルIDの属性名
+     * EPG関連 チャンネル要素のチャンネルIDの名前
      */
-    public static final String EPG_CHANNEL_ID = "id";
-
+    EPG_CHANNEL_ID("id"),
     /**
-     * EPG関連 チャンネル要素の物理チャンネル番号の属性名
+     * EPG関連 チャンネル要素の物理チャンネル番号の名前
      */
-    public static final String EPG_CHANNEL_TP = "tp";
-
+    EPG_PHYSICAL_CHANNEL_NUMBER("tp"),
     /**
-     * EPG関連 チャンネル要素の局名の要素名(読み込み用)
+     * EPG関連 チャンネル要素の局名の要素名(読み込み用) xmltv.dtdに定義されていたのでそのまま使う。
      */
-    public static final String EPG_DISPLAY_NAME_R = "display-name";
-    
-        /**
-     * EPG関連 チャンネル要素の局名の要素名(書き込み用)
-     */
-    public static final String EPG_DISPLAY_NAME_W = "display_name";
-    
+    EPG_DISPLAY_NAME("display-name"),
     /**
      * EPG関連 チャンネル要素の局名の言語コードの属性名
      */
-    public static final String EPG_DISPLAY_NAME_LANG = "lang";
+    EPG_DISPLAY_NAME_LANG("lang"),
     /**
      * EPG関連 チャンネル要素の局名のトランスポートストリーム識別の要素名
      */
-    public static final String TRANSPORT_STREAM_ID = "transport_stream_id";
+    TRANSPORT_STREAM_ID("transport_stream_id"),
     /**
      * EPG関連 チャンネル要素の局名のオリジナルネットワーク識別の要素名
      */
-    public static final String ORIGINAL_NETWORK_ID = "original_network_id";
+    ORIGINAL_NETWORK_ID("original_network_id"),
     /**
      * EPG関連 チャンネル要素の局名のサービス識別の要素名
      */
-    public static final String SERVICE_ID = "service_id";
+    SERVICE_ID("service_id");
     
-            /**
-     * EPG関連 チャンネル要素の物理チャンネル番号の要素名(書き込み用)
-     */
-    public static final String PHYSICAL_CHANNEL_NUMBER_W = "physical_channel_number";
+    
+    
+    
+    private final String value;
 
-    private XmlElementName() {
+    private XML_ELEMENT_NAME(String value) {
+        this.value = value;
+    }
+
+    public String getValue() {
+        return value;
     }
 
 }

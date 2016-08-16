@@ -5,6 +5,7 @@
  */
 package libepg.ts.packet;
 
+import epgtools.reverselookupmapfactory.ReverseLookUpMapFactory;
 import java.text.MessageFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,7 +16,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.function.Function;
 import org.apache.commons.lang3.Range;
-import util.ReverseLookUpMapFactory;
 
 /**
  * TSパケットの分類に使うPIDのうち、動的に定義されていないものの一部。 0x0000=PAT 0x0001=CAT 0x0002―0x000F=未定義

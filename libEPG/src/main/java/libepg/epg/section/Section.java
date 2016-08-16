@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.Objects;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import libepg.util.bytearray.ByteDataBlock;
 //sub_table［サブテーブル］：同一のテーブル識別（table_id）および下記を持つセクショ
 //ンの集まり。

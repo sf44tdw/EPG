@@ -22,7 +22,7 @@ import static libepg.epg.section.TABLE_ID.EIT_THIS_STREAM_NOW_AND_NEXT;
 import static libepg.epg.section.TABLE_ID.OTHER_TABLE_IDS;
 import static libepg.epg.section.TABLE_ID.SDT;
 import libepg.epg.section.body.eventinformationtable.EventInformationTableBody;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 /**
  *

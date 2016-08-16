@@ -21,7 +21,7 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import org.apache.commons.logging.Log;
 import libepg.epg.section.body.servicedescriptiontable.ServiceDescriptionTableRepeatingPart;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 /**
  *

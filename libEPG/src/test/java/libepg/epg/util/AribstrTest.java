@@ -6,7 +6,7 @@
 package libepg.epg.util;
 
 import java.lang.invoke.MethodHandles;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
 import org.junit.After;

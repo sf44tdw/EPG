@@ -18,16 +18,19 @@ package channellistmaker.channelfilemaker;
 
 import channellistmaker.dataextractor.KeyFields;
 import channellistmaker.dataextractor.channel.Channel;
-import static channellistmaker.dataextractor.channel.XmlElementName.EPG_CHANNEL;
-import static channellistmaker.dataextractor.channel.XmlElementName.EPG_DISPLAY_NAME_W;
-import static channellistmaker.dataextractor.channel.XmlElementName.ORIGINAL_NETWORK_ID;
-import static channellistmaker.dataextractor.channel.XmlElementName.PHYSICAL_CHANNEL_NUMBER_W;
-import static channellistmaker.dataextractor.channel.XmlElementName.SERVICE_ID;
-import static channellistmaker.dataextractor.channel.XmlElementName.TRANSPORT_STREAM_ID;
+import static channellistmaker.dataextractor.channel.XML_ELEMENT_NAME.XML_ELEMENT_NAME;
+import static channellistmaker.dataextractor.channel.XML_ELEMENT_NAME.XML_ELEMENT_NAME;
+import static channellistmaker.dataextractor.channel.XML_ELEMENT_NAME.XML_ELEMENT_NAME;
+import static channellistmaker.dataextractor.channel.XML_ELEMENT_NAME.XML_ELEMENT_NAME;
+import static channellistmaker.dataextractor.channel.XML_ELEMENT_NAME.XML_ELEMENT_NAME;
+import static channellistmaker.dataextractor.channel.XML_ELEMENT_NAME.XML_ELEMENT_NAME;
 import java.io.StringWriter;
 import java.lang.invoke.MethodHandles;
+import java.text.MessageFormat;
+import java.util.Collections;
 import java.util.Map;
 import java.util.Set;
+import java.util.concurrent.ConcurrentHashMap;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -49,7 +52,7 @@ import org.w3c.dom.Text;
  *
  * @author normal
  */
-public class ChannelDocumentMaker {
+public final class ChannelDocumentMaker {
 
     private static final Log LOG;
 
@@ -61,7 +64,9 @@ public class ChannelDocumentMaker {
     private final Map<MultiKey<Integer>, Channel> channels;
 
     public ChannelDocumentMaker(Map<MultiKey<Integer>, Channel> channels) {
-        this.channels = channels;
+        Map<MultiKey<Integer>, Channel> temp = new ConcurrentHashMap<>();
+        temp.putAll(channels);
+        this.channels = Collections.unmodifiableMap(temp);
     }
 
     public Map<MultiKey<Integer>, Channel> getChannels() {
@@ -90,12 +95,18 @@ public class ChannelDocumentMaker {
         this.addTextElement(document, channel, TRANSPORT_STREAM_ID, Integer.toString(kf.getTransportStreamId()));
         this.addTextElement(document, channel, ORIGINAL_NETWORK_ID, Integer.toString(kf.getOriginalNetworkId()));
         this.addTextElement(document, channel, SERVICE_ID, Integer.toString(kf.getServiceId()));
-        this.addTextElement(document, channel, PHYSICAL_CHANNEL_NUMBER_W, Integer.toString(channel_o.getPhysicalChannelNumber()));
-        this.addTextElement(document, channel, EPG_DISPLAY_NAME_W, channel_o.getDisplayName());
+        this.addTextElement(document, channel, EPG_PHYSICAL_CHANNEL_NUMBER, Integer.toString(channel_o.getPhysicalChannelNumber()));
+        this.addTextElement(document, channel, EPG_DISPLAY_NAME, channel_o.getDisplayName());
 
+        MessageFormat mf = new MessageFormat("トランスポートストリーム識別 = {0} オリジナルネットワーク識別 = {1} サービス識別 = {2} 物理チャンネル = {3} 放送局名 = {4}");
+        Object[] message = {kf.getTransportStreamId(), kf.getOriginalNetworkId(), kf.getServiceId(), channel_o.getPhysicalChannelNumber(), channel_o.getDisplayName()};
+        LOG.info(mf.format(message));
     }
 
-    public void getChannelList() {
+    /**
+     * @return 渡されたチャンネル一覧をX変換したML文書の文字列。エラーが起きた場合は空文字列を返す。
+     */
+    public String getChannelList() {
         try {
             final DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
             final DocumentBuilder db = dbf.newDocumentBuilder();
@@ -122,12 +133,13 @@ public class ChannelDocumentMaker {
             DOMSource source = new DOMSource(document);
             transformer.transform(source, result);
 
-            System.out.println(writer.toString());
-            // <<<<< DOMをStringに変換するおきまりの
+            return writer.toString();
         } catch (ParserConfigurationException | TransformerConfigurationException ex) {
             LOG.fatal(ex);
+            return "";
         } catch (TransformerException ex) {
             LOG.fatal(ex);
+            return "";
         }
     }
 }

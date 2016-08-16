@@ -30,7 +30,7 @@ import libepg.ts.aligner.TsPacketAligner;
 import libepg.ts.packet.PROGRAM_ID;
 import libepg.ts.packet.TsPacket;
 import libepg.ts.packet.TsPacketParcel;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import static org.junit.Assert.assertEquals;
 
 /**

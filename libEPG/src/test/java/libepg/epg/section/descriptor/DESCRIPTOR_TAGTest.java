@@ -15,7 +15,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import static libepg.epg.section.descriptor.DESCRIPTOR_TAG.CONTENT_DESCRIPTOR;
 import libepg.epg.section.descriptor.contentdescriptor.ContentDescriptor;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 /**
  *

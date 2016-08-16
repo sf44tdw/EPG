@@ -27,7 +27,7 @@ import java.util.Set;
 import libepg.common.tsfile.TsFile;
 import libepg.ts.packet.PROGRAM_ID;
 import libepg.ts.packet.TsPacketParcel;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import org.apache.commons.logging.Log;
 import org.junit.After;
 import org.junit.AfterClass;

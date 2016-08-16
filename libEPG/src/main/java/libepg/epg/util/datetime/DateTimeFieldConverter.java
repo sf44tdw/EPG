@@ -26,7 +26,7 @@ import java.util.Map;
 import org.apache.commons.lang3.Range;
 import org.apache.commons.logging.Log;
 import java.util.Arrays;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.lang3.ArrayUtils;
 import libepg.util.bytearray.ByteDataBlock;

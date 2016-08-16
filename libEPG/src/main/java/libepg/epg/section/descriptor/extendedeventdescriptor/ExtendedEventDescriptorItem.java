@@ -6,7 +6,7 @@ import java.text.MessageFormat;
 import java.util.Objects;
 import libepg.epg.section.Section;
 import libepg.epg.util.Aribstr;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.logging.Log;
 import libepg.util.bytearray.ByteDataBlock;

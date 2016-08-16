@@ -5,6 +5,7 @@
  */
 package libepg.epg.section.descriptor;
 
+import epgtools.reverselookupmapfactory.ReverseLookUpMapFactory;
 import java.text.MessageFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -20,7 +21,6 @@ import libepg.epg.section.descriptor.seriesdescriptor.SeriesDescriptor;
 import libepg.epg.section.descriptor.servicedescriptor.ServiceDescriptor;
 import libepg.epg.section.descriptor.shorteventdescriptor.ShortEventDescriptor;
 import libepg.epg.section.descriptor.extendedeventdescriptor.ExtendedEventDescriptor;
-import util.ReverseLookUpMapFactory;
 
 /**
  * 記述子タグリスト：記述子タグは8 ビットのフィールドで、各記述子を識別する。<br>

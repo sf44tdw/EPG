@@ -31,7 +31,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import libepg.common.descriptor.Descriptors;
 import libepg.epg.section.descriptor.DESCRIPTOR_TAG;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 /**
  * 540682ff81ffa0ff<br>

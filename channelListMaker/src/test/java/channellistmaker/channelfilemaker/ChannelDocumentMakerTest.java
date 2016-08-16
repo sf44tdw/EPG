@@ -70,6 +70,7 @@ public class ChannelDocumentMakerTest {
     @Test
     public void testGetChannelList() {
         System.out.println("getChannelList");
+
         Channel exp1 = new Channel(1, "ja_JP", "a", "111", 111, 555, 4444);
         Channel exp2 = new Channel(2, "ja_JP", "b", "222", 222, 666, 5555);
         Channel exp3 = new Channel(2, "ja_JP", "c", "333", 222, 666, 6666);
@@ -84,7 +85,11 @@ public class ChannelDocumentMakerTest {
         System.out.println(x.size());
 
         ChannelDocumentMaker instance = new ChannelDocumentMaker(x);
-        instance.getChannelList();
+
+        final String result = instance.getChannelList();
+
+        System.out.println(result);
+
     }
 
 }

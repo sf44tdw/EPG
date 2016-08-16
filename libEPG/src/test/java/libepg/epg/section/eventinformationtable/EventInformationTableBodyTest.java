@@ -106,7 +106,7 @@ import libepg.epg.section.Section;
 import libepg.epg.section.TABLE_ID;
 import libepg.epg.section.body.eventinformationtable.EventInformationTableBody;
 import libepg.epg.section.body.eventinformationtable.EventInformationTableRepeatingPart;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 /**
  *

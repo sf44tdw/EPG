@@ -17,18 +17,11 @@
 package channellistmaker.dataextractor.channel;
 
 import channellistmaker.dataextractor.AbstractEPGFileExtractor;
-import static channellistmaker.dataextractor.channel.XmlElementName.EPG_CHANNEL;
-import static channellistmaker.dataextractor.channel.XmlElementName.EPG_CHANNEL_ID;
-import static channellistmaker.dataextractor.channel.XmlElementName.EPG_CHANNEL_TP;
-import static channellistmaker.dataextractor.channel.XmlElementName.EPG_DISPLAY_NAME_LANG;
-import static channellistmaker.dataextractor.channel.XmlElementName.ORIGINAL_NETWORK_ID;
-import static channellistmaker.dataextractor.channel.XmlElementName.SERVICE_ID;
-import static channellistmaker.dataextractor.channel.XmlElementName.TRANSPORT_STREAM_ID;
+import static channellistmaker.dataextractor.channel.XML_ELEMENT_NAME.*;
 import org.w3c.dom.Document;
 import org.w3c.dom.NamedNodeMap;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
-import static channellistmaker.dataextractor.channel.XmlElementName.EPG_DISPLAY_NAME_R;
 
 /**
  * チャンネル関係の情報だけオブジェクトに格納する
@@ -61,7 +54,7 @@ public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
 //     */
 //    private static final String PREFIX_CS = "CS";
     public ChannelDataExtractor(Document doc) {
-        super(doc, EPG_CHANNEL);
+        super(doc, EPG_CHANNEL.getValue());
     }
 
     private synchronized int getChannelNumber(String ch_S, String tp_S) {
@@ -97,13 +90,13 @@ public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
         final int service_id;
 
         NamedNodeMap attrs_channel = N.getAttributes();  // チャンネルの属性リストを取得
-        ch_S = attrs_channel.getNamedItem(EPG_CHANNEL_ID).getNodeValue();
-        tp_S = attrs_channel.getNamedItem(EPG_CHANNEL_TP).getNodeValue();
+        ch_S = attrs_channel.getNamedItem(EPG_CHANNEL_ID.getValue()).getNodeValue();
+        tp_S = attrs_channel.getNamedItem(EPG_PHYSICAL_CHANNEL_NUMBER.getValue()).getNodeValue();
         if (LOG.isTraceEnabled()) {
             LOG.trace(EPG_CHANNEL_ID + " = " + ch_S);
         }
         if (LOG.isTraceEnabled()) {
-            LOG.trace(EPG_CHANNEL_TP + " = " + tp_S);
+            LOG.trace(EPG_PHYSICAL_CHANNEL_NUMBER + " = " + tp_S);
         }
 
         Node displayNameNode = null;
@@ -116,24 +109,24 @@ public class ChannelDataExtractor extends AbstractEPGFileExtractor<Channel> {
         for (int i = 0; i < Nodes; i++) {
             Node gchild = channelChildren.item(i);
             switch (gchild.getNodeName()) {
-                case EPG_DISPLAY_NAME_R:
+                case EPG_DISPLAY_NAME:
                     displayNameNode = gchild;
-                    LOG.trace(EPG_DISPLAY_NAME_R);
+                    LOG.trace(EPG_DISPLAY_NAME.getValue());
                     LOG.trace(dumpNode(gchild));
                     break;
                 case TRANSPORT_STREAM_ID:
                     transPortStreamIdNode = gchild;
-                    LOG.trace(TRANSPORT_STREAM_ID);
+                    LOG.trace(TRANSPORT_STREAM_ID.getValue());
                     LOG.trace(dumpNode(gchild));
                     break;
                 case ORIGINAL_NETWORK_ID:
                     originalNetWorkIdNode = gchild;
-                    LOG.trace(ORIGINAL_NETWORK_ID);
+                    LOG.trace(ORIGINAL_NETWORK_ID.getValue());
                     LOG.trace(dumpNode(gchild));
                     break;
                 case SERVICE_ID:
                     serviceIdNode = gchild;
-                    LOG.trace(SERVICE_ID);
+                    LOG.trace(SERVICE_ID.getValue());
                     LOG.trace(dumpNode(gchild));
                     break;
             }

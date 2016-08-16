@@ -14,8 +14,9 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package libepg.util;
+package epgtools.reverselookupmapfactory;
 
+import epgtools.loggerfactory.LoggerFactory;
 import java.lang.invoke.MethodHandles;
 import java.text.MessageFormat;
 import java.util.ArrayList;
@@ -37,7 +38,6 @@ import static org.junit.Assert.*;
 import org.junit.Rule;
 import testtool.testrule.regexmessagerule.ExpectedExceptionMessage;
 import testtool.testrule.regexmessagerule.ExpectedExceptionRule;
-import util.ReverseLookUpMapFactory;
 
 /**
  *

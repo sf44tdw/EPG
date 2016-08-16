@@ -11,7 +11,7 @@ import java.text.MessageFormat;
 import java.util.Objects;
 import org.apache.commons.logging.Log;
 import libepg.epg.section.descriptor.DescriptorsLoop;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import libepg.util.bytearray.ByteDataBlock;
 
 /**

@@ -19,7 +19,7 @@ import libepg.common.descriptor.Descriptors;
 import libepg.epg.section.descriptor.DESCRIPTOR_TAG;
 import libepg.epg.section.descriptor.Descriptor;
 import libepg.epg.section.descriptor.servicedescriptor.ServiceDescriptor;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import org.junit.BeforeClass;
 
 /**

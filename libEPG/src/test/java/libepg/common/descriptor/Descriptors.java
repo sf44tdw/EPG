@@ -14,7 +14,7 @@ import org.apache.commons.logging.Log;
 import java.util.Arrays;
 import libepg.epg.section.descriptor.DESCRIPTOR_TAG;
 import libepg.epg.section.descriptor.Descriptor;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 
 
 

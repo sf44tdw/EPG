@@ -18,7 +18,7 @@ import static org.junit.Assert.*;
 import libepg.common.packet.TestPacket_SDT;
 import libepg.common.packet.TestPacket_pid0x11_count_d_0_0;
 import libepg.common.packet.TsPacket_error_indicator;
-import libepg.util.LoggerFactory;
+import epgtools.loggerfactory.LoggerFactory;
 import testtool.EqualsChecker;
 
 /**

@@ -16,14 +16,17 @@
  */
 package channellistmaker.main;
 
-import channellistmaker.dataextractor.KeyFields;
+import channellistmaker.channelfilemaker.ChannelDocumentMaker;
 import channellistmaker.dataextractor.channel.AllChannelDataExtractor;
 import channellistmaker.dataextractor.channel.Channel;
 import channellistmaker.listmaker.EPGListMaker;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.lang.invoke.MethodHandles;
 import java.nio.charset.Charset;
-import java.text.MessageFormat;
 import java.util.Map;
 import java.util.Set;
 import org.apache.commons.cli.CommandLine;
@@ -59,17 +62,16 @@ public class Main {
             new Main().start(args);
             System.exit(0);
         } catch (ParseException ex) {
-            LOG.fatal("オプションの解釈に失敗しました。", ex);
             System.exit(1);
         }
     }
 
-    public void start(String[] args) throws org.apache.commons.cli.ParseException {
+    public void start(String[] args) throws ParseException {
 
         final Option charSetOption = Option.builder("c")
                 .required(false)
                 .longOpt("charset")
-                .desc("読み込み用文字コード")
+                .desc("読み込み、書き込み用文字コード。省略した場合、システムの標準設定を使う。")
                 .hasArg()
                 .type(String.class)
                 .build();
@@ -97,15 +99,28 @@ public class Main {
         CommandLineParser parser = new DefaultParser();
 
         HelpFormatter help = new HelpFormatter();
-        CommandLine cl = parser.parse(opts, args);
+        CommandLine cl;
+        try {
+            cl = parser.parse(opts, args);
+        } catch (ParseException ex) {
+            LOG.fatal("オプションの解釈に失敗しました。", ex);
+            help.printHelp("My Java Application", opts);
+            throw ex;
+        }
 
         final Charset charSet;
         try {
-            charSet = Charset.forName(cl.getOptionValue(charSetOption.getOpt()));
+            final String chersetstr = cl.getOptionValue(charSetOption.getOpt());
+            if (chersetstr == null || "".equals(chersetstr)) {
+                charSet = Charset.defaultCharset();
+                LOG.info("文字コードの指定が省略されました。システムの文字コード設定を使用します。");
+            } else {
+                charSet = Charset.forName(chersetstr);
+            }
         } catch (IllegalArgumentException e) {
-            throw new IllegalArgumentException("読み込み用文字コードの指定が正しくありません。", e);
+            throw new IllegalArgumentException("文字コードの指定が正しくありません。", e);
         }
-        LOG.info("読み込み用文字コード = " + charSet);
+        LOG.info("文字コード = " + charSet);
 
         final File dirName = new File(cl.getOptionValue(directoryNameOption.getOpt()));
         if (!dirName.isDirectory()) {
@@ -118,26 +133,21 @@ public class Main {
 
         final Set<Document> docs = new EPGListMaker(dirName, charSet).seek();
 
-        Map<MultiKey<Integer>, Channel> channels = new AllChannelDataExtractor(docs).getAllEPGRecords();
+        final Map<MultiKey<Integer>, Channel> channels = new AllChannelDataExtractor(docs).getAllEPGRecords();
 
-        Set<MultiKey<Integer>> keys = channels.keySet();
-//        for (MultiKey<Integer> k : keys) {
-//            MessageFormat mf = new MessageFormat("トランスポートストリーム識別 = {0} オリジナルネットワーク識別 = {1} サービス識別 = {2} 物理チャンネル = {3} 放送局名 = {4}");
-//            Channel ch = channels.get(k);
-//            KeyFields kf = ch.getKeyfields();
-//            Object[] message2 = {kf.getTransportStreamId(), kf.getOriginalNetworkId(), kf.getServiceId(), ch.getPhysicalChannelNumber(), ch.getDisplayName()};
-//            LOG.info(mf.format(message2));
-////            LOG.info(channels.get(k));
-//        }
+        final ChannelDocumentMaker dm = new ChannelDocumentMaker(channels);
 
-        for (MultiKey<Integer> k : keys) {
-            MessageFormat mf = new MessageFormat("トランスポートストリーム識別 = {0} チャンネルID = {1} 放送局名 = {2}");
-            Channel ch = channels.get(k);
-            KeyFields kf = ch.getKeyfields();
-            Object[] message2 = {kf.getTransportStreamId(), kf.getChannelId(), ch.getDisplayName()};
-            LOG.info(mf.format(message2));
-//            LOG.info(channels.get(k));
+        try (
+                FileOutputStream fos = new FileOutputStream(destFile);
+                OutputStreamWriter os = new OutputStreamWriter(fos, charSet);
+                BufferedWriter bw = new BufferedWriter(os);) {
+            bw.write(dm.getChannelList());
+            bw.flush();
+            os.flush();
+            fos.flush();
+            LOG.info("リストを保存しました。");
+        } catch (IOException ex) {
+            LOG.fatal("書き込み失敗", ex);
         }
-
     }
 }
