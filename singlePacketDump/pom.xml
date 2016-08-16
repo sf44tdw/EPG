@@ -16,6 +16,11 @@
             <artifactId>libEPG</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>EpgTools</groupId>
+            <artifactId>LoggerFactory</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
