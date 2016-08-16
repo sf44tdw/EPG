@@ -16,6 +16,7 @@
  */
 package dumptspacket;
 
+import epgtools.loggerfactory.LoggerFactory;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -31,7 +32,6 @@ import java.util.Map;
 import java.util.Set;
 import libepg.ts.packet.TsPacketParcel;
 import libepg.ts.reader.TsReader;
-import libepg.util.LoggerFactory;
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.DefaultParser;
